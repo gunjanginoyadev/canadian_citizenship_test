@@ -1,0 +1,699 @@
+{
+    "data" : [
+        {
+            "id": 109,
+            "index": 95,
+            "parentId": 108,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "Central Canada",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>More than <b>half</b> of the people in Canada live in Central Canada. Central Canada includes the cities and towns near the Great Lakes and the St. Lawrence River in southern Quebec and Ontario.\n\nIt is the <b>industrial and manufacturing heartland</b>. Together, Quebec and Ontario produce more than ¾ of all of Canada’s manufactured goods.\n\n<h>Quebec</h>\nNearly 8 million people live in Quebec, mostly near the St. Lawrence River. More than <b>75% speak French</b> as their first language.\n\nThe important industries are <b>forestry, energy</b> and <b>mining</b>. Quebec is Canada’s main producer of pulp and paper. It is Canada’s largest producer of hydroelectricity because it has so much freshwater. Pharmaceuticals and aeronautics are important industries in Quebec.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-Regions-II/Central-Canada/1.jpeg\"> </image>\n\n<b>La Francophonie</b> is an association of French-speaking nations. Montreal is Canada’s second-largest city and the second-largest mainly French-speaking city in the world after Paris.\n\n<b>Montreal</b> is famous for its cultural diversity, but <b>Quebec City</b> is Quebec's capital.\n\n<h>Ontario</h>\nOntario has more than <b>12 million people</b>. One out of every three Canadians is from Ontario. <b>Toronto</b> is the largest city in Canada and the country’s main financial centre. Many people in Ontario work in the <b>service</b> or <b>manufacturing</b> industries.\n\nThe <b>Niagara</b> region is known for its vineyards, wines and fruit crops. Ontario farmers raise dairy and beef cattle, poultry, and vegetable and grain crops.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-Regions-II/Central-Canada/2.png\">Toronto Islands, Ontario, Canada.</image>\n\nOntario was founded by the <b>United Empire Loyalists</b>. It has the largest French-speaking population outside of Quebec and has a proud history of preserving its language and culture.\n\nThere are five <b>Great Lakes</b> located between Ontario and the United States: Lake Ontario, Lake Erie, Lake Huron, and Lake Michigan. Lake Superior is the largest freshwater lake in the world.\n\n<b>Hint</b>: You can remember the names of the Great Lakes because they spell the word “<b>HOMES</b>”… <b>H</b>uron, <b>O</b>ntario, <b>M</b>ichigan, <b>E</b>rie, and <b>S</b>uperior.</text><questions type=\"ids\">1296,1297,1298,1299,1300,1301,1302,1303,1304,1305,1306,1307,1308</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1296,
+                    "lessonId": 109,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "More than half of the people in Canada live in Central Canada.",
+                    "optionsType": "text",
+                    "feedback": "",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1297,
+                    "lessonId": 109,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What provinces are located in Central Canada?",
+                    "optionsType": "text",
+                    "feedback": "Central Canada includes the cities and towns near the Great Lakes and the St. Lawrence River in southern Quebec and Ontario.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Ontario and Quebec",
+                        "2 Alberta and Manitoba",
+                        "3 Alberta and Ontario",
+                        "4 Quebec and Manitoba"
+                    ]
+                },
+                {
+                    "id": 1298,
+                    "lessonId": 109,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Central Canada known for the industrial and manufacturing heartland.",
+                    "optionsType": "text",
+                    "feedback": "Central Canada is the industrial and manufacturing heartland. Together, Quebec and Ontario produce more than 75% of all of Canada's manufactured goods.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1299,
+                    "lessonId": 109,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What language do more than 75% of Quebecois residents speak as their first language?",
+                    "optionsType": "text",
+                    "feedback": "More than 75% speak French as their first language in Quebec.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 French",
+                        "2 English",
+                        "3 Spanish",
+                        "4 Chinese"
+                    ]
+                },
+                {
+                    "id": 1300,
+                    "lessonId": 109,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which of the following is not one of the important industries in Quebec?",
+                    "optionsType": "text",
+                    "feedback": "The important industries are forestry, energy and mining in Quebec.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Manufacturing",
+                        "2 Forestry",
+                        "3 Energy",
+                        "4 Mining"
+                    ]
+                },
+                {
+                    "id": 1301,
+                    "lessonId": 109,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is Quebec's capital city?",
+                    "optionsType": "text",
+                    "feedback": "Montreal is famous for its cultural diversity, but Quebec City is Quebec's capital.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Quebec City",
+                        "2 Montreal",
+                        "3 Toronto",
+                        "4 Ottawa"
+                    ]
+                },
+                {
+                    "id": 1302,
+                    "lessonId": 109,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the world's second largest French-speaking city?",
+                    "optionsType": "text",
+                    "feedback": "Montreal is Canada's second-largest city and the second-largest mainly French-speaking city in the world after Paris.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Montreal",
+                        "2 Quebec City",
+                        "3 Toronto",
+                        "4 Ottawa"
+                    ]
+                },
+                {
+                    "id": 1303,
+                    "lessonId": 109,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "How many people live in Ontario?",
+                    "optionsType": "text",
+                    "feedback": "Ontario has more than 12 million people",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 12 million",
+                        "2 8 million",
+                        "3 34 million",
+                        "4 18 million"
+                    ]
+                },
+                {
+                    "id": 1304,
+                    "lessonId": 109,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "More people live in Quebec than Ontario.",
+                    "optionsType": "text",
+                    "feedback": "Ontario has more than 12 million people, on the other hand, Quebec has a population of nearly 8 million people.",
+                    "type": "true_false",
+                    "options": [
+                        "1 False",
+                        "2 True"
+                    ]
+                },
+                {
+                    "id": 1305,
+                    "lessonId": 109,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the largest city in Canada?",
+                    "optionsType": "text",
+                    "feedback": "Toronto is the largest city in Canada. It is also Canada's financial centre.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Toronto",
+                        "2 Montreal",
+                        "3 Ottawa",
+                        "4 Quebec City"
+                    ]
+                },
+                {
+                    "id": 1306,
+                    "lessonId": 109,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who founded Ontario?",
+                    "optionsType": "text",
+                    "feedback": "Ontario was founded by the United Empire Loyalists.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 United Empire Loyalists",
+                        "2 King George V",
+                        "3 Queen Victoria",
+                        "4 Queen Elizabeth II"
+                    ]
+                },
+                {
+                    "id": 1307,
+                    "lessonId": 109,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "There are five Great Lakes located between Ontario and the United States.",
+                    "optionsType": "text",
+                    "feedback": "There are five Great Lakes located between Ontario and the United States: Lake Ontario, Lake Erie, Lake Huron, Lake Michigan and Lake Superior. ",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1308,
+                    "lessonId": 109,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which of the Great Lakes is the largest freshwater lake in the world?",
+                    "optionsType": "text",
+                    "feedback": "Lake Superior is the largest freshwater lake in the world.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Lake Superior",
+                        "2 Lake Erie",
+                        "3 Lake Huron",
+                        "4 Lake Ontario"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 110,
+            "index": 96,
+            "parentId": 108,
+            "appId": 3,
+            "audioVersion": 4,
+            "extra": null,
+            "title": "The Prairie Provinces",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text><h>Manitoba</h>\nManitoba’s economy is based on <b>agriculture, mining</b> and <b>hydro-electric power generation</b>.\n\n<b>Winnipeg</b> is the capital of Manitoba, and it has the largest population of all the cities in Manitoba. The Exchange District in Winnipeg has the most famous street intersection in Canada, <b>Portage and Main</b>.\n\n<b>St. Boniface</b>, in Winnipeg’s French quarter, has the largest <b>Francophone</b> community. It has 45,000 people. Manitoba is an important centre of <b>Ukrainian culture</b>, with 14% of Manitobans having Ukrainian ancestors.\n\nManitoba has the largest <b>Aboriginal</b> population of any province. The Aboriginal population is over 15%.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-Regions-II/The-Prairie-Provinces/1.png\">The Forks, Winnipeg, MB, Canada. By Brydon McCluskey.</image>\n\n<h>Saskatchewan</h>\nSaskatchewan was once known as the <b>breadbasket of the world</b> and the <b>wheat province</b>. It has over 40% of the arable land (land that is good for growing crops) in Canada. It is Canada’s largest producer of grains and oilseeds. It has uranium and potash. Potash is used in fertilizer.\n\nSaskatchewan produces <b>oil and natural gas.</b> <b>Regina</b> is the capital of Saskatchewan.\n\nThe Royal Canadian Mounted Police (<b>RCMP</b>) has a training academy in Saskatchewan. <b>Saskatoon</b> is the largest city.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-Regions-II/The-Prairie-Provinces/2.png\">Indian Head, Saskatchewan, Canada. By Dan Loran.</image>\n\n<h>Alberta</h>\nAlberta is the Prairie province that has <b>the most people</b>. The province got its name from the fourth daughter of Queen Victoria; <b>Princess Louise Caroline Alberta</b>. The world-famous Lake Louise in the Rocky Mountains was also named after her.\n\nAlberta has five national parks. <b>Banff National Park</b> was established in 1885. Alberta also has the Badlands. A <b>badland</b> is a type of land which is very dry, and where the soft rock has been eroded (washed or blown away) by wind and/or water for a long period of time.\nThere are prehistoric fossils and the remains of <b>dinosaurs</b> in Alberta.\n\nAlberta is the <b>largest producer of oil and gas</b>. The oil sands in northern Alberta are a major energy source. Alberta is also known for its agriculture, especially <b>cattle ranches</b>. Canada is one of the world’s major beef producers.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-Regions-II/The-Prairie-Provinces/3.png\">Moraine Lake, Banff, Alberta, Canada. By Andy Holmes.</image></text><questions type=\"ids\">1309,1310,1311,1312,1313,1314,1315,1316,1317,1318</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1309,
+                    "lessonId": 110,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the capital of Manitoba?",
+                    "optionsType": "text",
+                    "feedback": "Winnipeg is the capital of Manitoba, and it has the largest population of all the cities in Manitoba.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Winnipeg",
+                        "2 Regina",
+                        "3 Calgary",
+                        "4 Edmonton"
+                    ]
+                },
+                {
+                    "id": 1310,
+                    "lessonId": 110,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What cultures or communities does Manitoba have?",
+                    "optionsType": "text",
+                    "feedback": "St. Boniface in Winnipeg's has the largest Francophone community. Also, 14% of Manitobans having Ukrainian ancestors.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Francophone and Ukrainian",
+                        "2 Anglophone and Ukrainian",
+                        "3 Anglophone and Russians",
+                        "4 Francophone and Russians"
+                    ]
+                },
+                {
+                    "id": 1311,
+                    "lessonId": 110,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Manitoba has the largest Aboriginal population of any province.",
+                    "optionsType": "text",
+                    "feedback": "With over 15% of the population being Aboriginal,  Manitoba has the largest Aboriginal population of any province.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1312,
+                    "lessonId": 110,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Saskatchewan was known as the breadbasket of the world, or the wheat province.",
+                    "optionsType": "text",
+                    "feedback": "Saskatchewan was once known as the breadbasket of the world and the wheat province. It has over 40% of the arable land (land that is good for growing crops) in Canada.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1313,
+                    "lessonId": 110,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the capital of Saskatchewan?",
+                    "optionsType": "text",
+                    "feedback": "Regina is the capital of Saskatchewan.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Regina",
+                        "2 Winnipeg",
+                        "3 Calgary",
+                        "4 Edmonton"
+                    ]
+                },
+                {
+                    "id": 1314,
+                    "lessonId": 110,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The Royal Canadian Mounted Police (RCMP) has a training academy in Alberta.",
+                    "optionsType": "text",
+                    "feedback": "The Royal Canadian Mounted Police (RCMP) has a training academy in Saskatchewan.",
+                    "type": "true_false",
+                    "options": [
+                        "1 False",
+                        "2 True"
+                    ]
+                },
+                {
+                    "id": 1315,
+                    "lessonId": 110,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which province has the largest population in the Prairies?",
+                    "optionsType": "text",
+                    "feedback": "Alberta is the Prairie province which has the most people.",
+                    "type": "true_false",
+                    "options": [
+                        "1 Alberta",
+                        "2 Saskatchewan"
+                    ]
+                },
+                {
+                    "id": 1316,
+                    "lessonId": 110,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Where did Alberta get it's name?",
+                    "optionsType": "text",
+                    "feedback": "The province got its name from the fourth daughter of Queen Victoria; Princess Louise Caroline Alberta.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Princess Louise Caroline Alberta, daughter of Queen Victoria",
+                        "2 Princess Louise Caroline Alberta, daughter of Queen Elizabeth II",
+                        "3 Princess Louise Caroline Alberta, daughter of King George V",
+                        "4 Princess Louise Caroline Alberta, daughter of King Charles I"
+                    ]
+                },
+                {
+                    "id": 1317,
+                    "lessonId": 110,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which one is one of Alberta's national parks?",
+                    "optionsType": "text",
+                    "feedback": "",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Banff National Park",
+                        "2 Grasslands National Park",
+                        "3 Algonquin National Park",
+                        "4 Fundy National Park"
+                    ]
+                },
+                {
+                    "id": 1318,
+                    "lessonId": 110,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Alberta is the largest producer of oil and gas in Canada.",
+                    "optionsType": "text",
+                    "feedback": "",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 111,
+            "index": 97,
+            "parentId": 108,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "The West Coast",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>British Columbia (BC) is known for its <b>mountains</b> and as the <b>Pacific Gateway</b> (entry to the Pacific Ocean area). The <b>Port of Vancouver</b> is Canada’s largest and busiest port.\n\nBritish Columbia is on the west side of Canada. It has a population of four million.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-Regions-II/The-West-Coast/1.png\">Downtown Vancouver, Canada.</image>\n\nHalf of all the goods produced in BC are <b>forestry</b> products, including lumber, newsprint, and pulp and paper products. BC has the most valuable forestry industry in Canada. BC is also known for mining, fishing, and the fruit orchards and wine industry of the Okanagan Valley.\n\nBC has the most parks in Canada, about <b>600 provincial parks</b>.\n\nBC also has large <b>Asian communities</b>, and Chinese and Punjabi are the most spoken languages in the cities, after English.\n\nThe capital of BC is <b>Victoria</b>.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-Regions-II/The-West-Coast/2.png\">Earls Cove, British Columbia, Canada.</image></text><questions type=\"ids\">1319,1320,1321,1322</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1319,
+                    "lessonId": 111,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is Canada's largest and busiest port?",
+                    "optionsType": "text",
+                    "feedback": "The Port of Vancouver is Canada's largest and busiest port",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The Port of Vancouver",
+                        "2 The Port of Montreal",
+                        "3 The Port of Toronto",
+                        "4 The Port of Edmonton"
+                    ]
+                },
+                {
+                    "id": 1320,
+                    "lessonId": 111,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is British Columbia's biggest industry?",
+                    "optionsType": "text",
+                    "feedback": "Half of all the goods produced in BC are forestry products, including lumber, newsprint, and pulp and paper products.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Forestry",
+                        "2 Mining",
+                        "3 Fishing",
+                        "4 Services"
+                    ]
+                },
+                {
+                    "id": 1321,
+                    "lessonId": 111,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is British Columbia's biggest ethnic community?",
+                    "optionsType": "text",
+                    "feedback": "BC has large Asian communities, and Chinese and Punjabi are the most-spoken languages in the cities, after English.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Asian communities",
+                        "2 Russian communities",
+                        "3 Aboriginal communities",
+                        "4 American communities"
+                    ]
+                },
+                {
+                    "id": 1322,
+                    "lessonId": 111,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the capital city of British Columbia?",
+                    "optionsType": "text",
+                    "feedback": "The capital of BC is Victoria.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Victoria",
+                        "2 Winnipeg",
+                        "3 Calgary",
+                        "4 Edmonton"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112,
+            "index": 98,
+            "parentId": 108,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "The North I",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>The Northwest Territories, Nunavut and Yukon contain <b>one third</b> of Canada’s land mass, but they have a very small population of only 100,000 people.\n\nThere are gold, lead, copper, diamond and zinc <b>mines</b>. Oil and gas deposits are being developed.\n\nThe North is sometimes called the <b>Land of the Midnight Sun</b> because, in the middle of summer, daylight can last up to 24 hours. In the winter the sun disappears, and darkness lasts for three months.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-Regions-II/The-North-I/1.png\">Yukon, Canada.</image>\n\nMost of the North is made up of <b>tundra</b>, which is an area between the icecap and the tree line of Arctic regions. Tundra has frozen soil under the top layer, and no trees. Because of the cold Arctic climate, there are no trees on the tundra, and the soil is permanently frozen. There is still hunting, fishing and trapping of animals.\n\n<b>Inuit art</b> is sold throughout Canada and around the world.\n\n<h>The Canadian Rangers</h>\nThe Canadian Forces Reserves (militia) are called the Canadian Rangers. They travel by snowmobile in the winter and all-terrain vehicles in the summer. They help to <b>protect the Arctic</b>.</text><questions type=\"ids\">1323,1324,1325</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1323,
+                    "lessonId": 112,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The North is also called The Land of the Midnight Sun, because in the summer daylight can last up to 24 hours.",
+                    "optionsType": "text",
+                    "feedback": "The North is sometimes called the Land of the Midnight Sun because, in the middle of summer, daylight can last up to 24 hours.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1324,
+                    "lessonId": 112,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "How much of Canada's land mass does the North take up?",
+                    "optionsType": "text",
+                    "feedback": "The Northwest Territories, Nunavut, and Yukon contain one-third of Canada's landmass.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 One third",
+                        "2 Half",
+                        "3 One fourth",
+                        "4 One Fifth"
+                    ]
+                },
+                {
+                    "id": 1325,
+                    "lessonId": 112,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What kind of art is made in the North and sold in Canada and around the world?",
+                    "optionsType": "text",
+                    "feedback": "Inuit art is sold throughout Canada and around the world.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Inuit Art",
+                        "2 Modern Art",
+                        "3 Arctic Art",
+                        "4 Postmodern Art"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 113,
+            "index": 99,
+            "parentId": 108,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "The North II",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text><h>Yukon</h>\nIn the 1890s, during the <b>Gold Rush</b>, thousands of miners came to the Yukon Territory. The Gold Rush is the name for the time in which many people hurried (rushed) to go north to try to get rich from the gold in the Yukon. Robert W. Service is a poet who wrote about this. Mining is an important part of the economy.\n\nIn 1900, the railway called <b>The White Pass and Yukon Railway</b> opened from Skagway (in <b>Alaska</b>, which is an American state beside Yukon) to Whitehorse. <b>Whitehorse</b> is the capital of Yukon. Many tourists like to take this railway.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-Regions-II/The-North-II/1.png\">Yukon Territory, Canada. Photo: Kalen Emsley.</image>\n\nYukon has the <b>coldest temperature</b> ever recorded in Canada (-63 degrees C).\n\n<b>Mount Logan</b> is located in the Yukon. It is the highest mountain in Canada. It is named after Sir William Logan. He was a world-famous Canadian geologist. He founded and directed the Geological Survey of Canada from 1842 to 1869.\n\n<h>The Northwest Territories</h>\nThe Northwest Territories were originally made up in 1870, using land from <b>Rupert’s land</b>. Rupert’s land was land that drained into the Hudson’s Bay, and which the Hudson's Bay Company used for 200 years from 1670 to 1870.\n\nThe capital of the Northwest Territories is <b>Yellowknife</b>. It has a population of 20,000 and is called the <b>diamond capital of North America</b>.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-Regions-II/The-North-II/2.png\">Mackenzie River, Northwest Territories, Canada. Photo: Alan Emery.</image>\n\nMore than half of the population in the Northwest Territories is <b>Aboriginal</b> (Dene, Inuit, Métis).\n\nThe <b>Mackenzie River</b> is the second-longest river system in North America. (The Mississippi River in the US is longer.)\n\n<h>Nunavut</h>\nNunavut means <b>our land</b> in Inuktitut. It was established in 1999. The capital is Iqaluit, which used to be called Frobisher Bay. Frobisher Bay was named after the English explorer Martin Frobisher, who went into the Arctic in 1576.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-Regions-II/The-North-II/3.png\">Pangnirtung Fijord, Nunavut, Canada. Photo: Isaac Demeester.</image>\n\nNunavut has <b>19 members</b> in its Legislative Assembly. They choose a premier and ministers by consensus.\n\nThe population is about <b>85% Inuit.</b> <b>Inuktitut</b> is an official language and the first language in schools.</text><questions type=\"ids\">1326,1327,1328,1329,1330,1331,1332,1333,1334,1335,1336</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1326,
+                    "lessonId": 113,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What happened in the 1890s in the Yukon territory?",
+                    "optionsType": "text",
+                    "feedback": "In the 1890s, during the Gold Rush, thousands of miners came to the Yukon Territory for gold.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The Gold Rush",
+                        "2 WWI",
+                        "3 Revolution",
+                        "4 The Great Depression"
+                    ]
+                },
+                {
+                    "id": 1327,
+                    "lessonId": 113,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the highest mountain in Canada?",
+                    "optionsType": "text",
+                    "feedback": "Mount Logan is located in the Yukon. It is the highest mountain in Canada.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Mount Logan",
+                        "2 Mount Everest",
+                        "3 Mount Kilimanjaro",
+                        "4 Mount Fuji"
+                    ]
+                },
+                {
+                    "id": 1328,
+                    "lessonId": 113,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the capital city of the Yukon territory?",
+                    "optionsType": "text",
+                    "feedback": "Whitehorse is the capital of Yukon.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Whitehorse",
+                        "2 Yellowknife",
+                        "3 Iqaluit",
+                        "4 Winnipeg"
+                    ]
+                },
+                {
+                    "id": 1329,
+                    "lessonId": 113,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is an important part of Yukon's economy?",
+                    "optionsType": "text",
+                    "feedback": "Mining is an important part of the economy of Yukon.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Mining",
+                        "2 Finishing",
+                        "3 Services",
+                        "4 Manufacturing"
+                    ]
+                },
+                {
+                    "id": 1330,
+                    "lessonId": 113,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The Northwest Territories were originally made up in 1870, using land from Rupert's land.",
+                    "optionsType": "text",
+                    "feedback": "",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1331,
+                    "lessonId": 113,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the capital of the Northwest Territories?",
+                    "optionsType": "text",
+                    "feedback": "The capital of the Northwest Territories is Yellowknife.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Yellowknife",
+                        "2 Whitehorse",
+                        "3 Iqaluit",
+                        "4 Winnipeg"
+                    ]
+                },
+                {
+                    "id": 1332,
+                    "lessonId": 113,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Yellowknife is called the diamond capital of North America.",
+                    "optionsType": "text",
+                    "feedback": "",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1333,
+                    "lessonId": 113,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What group makes up more than half of the population of Northwest Territories?",
+                    "optionsType": "text",
+                    "feedback": "More than half of the population in the Northwest Territories are Aboriginal (Dene, Inuit, Métis).",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Aboriginal peoples",
+                        "2 Anglophones peoples",
+                        "3 Francophone peoples",
+                        "4 British peoples"
+                    ]
+                },
+                {
+                    "id": 1334,
+                    "lessonId": 113,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Nunavut means \"our land\" in Inuktitut.",
+                    "optionsType": "text",
+                    "feedback": "Nunavut means our land in Inuktitut.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1335,
+                    "lessonId": 113,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the capital of Nunavut?",
+                    "optionsType": "text",
+                    "feedback": "The capital is Iqaluit, which used to be called Frobisher Bay.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Iqaluit",
+                        "2 Yellowknife",
+                        "3 Whitehorse",
+                        "4 Winnipeg"
+                    ]
+                },
+                {
+                    "id": 1336,
+                    "lessonId": 113,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What percentage of the Nunavut population is Inuit?",
+                    "optionsType": "text",
+                    "feedback": "The Nunavut population is about 85% Inuit.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 85%",
+                        "2 15%",
+                        "3 50%",
+                        "4 25%"
+                    ]
+                }
+            ]
+        }
+    ]
+}

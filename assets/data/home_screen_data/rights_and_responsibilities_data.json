@@ -1,0 +1,694 @@
+{
+    "data": [
+        {
+            "id": 22,
+            "index": 8,
+            "parentId": 21,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "Your Freedoms as a Canadian",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>Canadian law comes from different sources such as laws passed by Parliament and provincial legislatures, <b>English common law</b>, the civil code of France, and many things from Great Britain.\n\nAlmost 800 years ago, <b>Magna Carta</b> (the Great Charter of Freedoms) was signed in <b>1215</b> in <b>England</b> and it includes:\n<li><b>Freedom of conscience and religion</b>: you can believe in whatever you want.</li>\n<li><b>Freedom of thought, belief, opinion and expression, including freedom of speech and of the press</b>: you can have your own ideas, you can say anything you want and publish whatever you like.</li>\n<li><b>Freedom of peaceful assembly</b>: you can gather for meetings for any reason.</li>\n<li><b>Freedom of association</b>: you can meet or make friends with anyone you like.</li></text><questions type=\"ids\">978,979,980,981,982,983</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 978,
+                    "lessonId": 22,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which one of the following is a source of the Canadian law?",
+                    "optionsType": "text",
+                    "feedback": "Canadian law comes from English common law, the civil code of France, and Great Britain.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 English common law",
+                        "2 The civil code of the United States",
+                        "3 Common law of Spain",
+                        "4 The military code of England"
+                    ]
+                },
+                {
+                    "id": 979,
+                    "lessonId": 22,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What does \"Magna Carta\" refer to?",
+                    "optionsType": "text",
+                    "feedback": "In 1215, the people in Great Britain signed a document which is known as the Magna Carta, or the Great Charter of Freedoms.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The Great Charter of Freedoms",
+                        "2 English common law",
+                        "3 Civil code of France in 1215",
+                        "4 Great Britain common law"
+                    ]
+                },
+                {
+                    "id": 980,
+                    "lessonId": 22,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Where was the \"Magna Carta\" signed?",
+                    "optionsType": "text",
+                    "feedback": "Magna Carta, or the Great Charter of Freedoms was signed in Great Britain (England), in 1215.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 England",
+                        "2 France",
+                        "3 Ireland",
+                        "4 Canada"
+                    ]
+                },
+                {
+                    "id": 981,
+                    "lessonId": 22,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "When was The Great Charter of Freedoms (Magna Carta) signed?",
+                    "optionsType": "text",
+                    "feedback": "Magna Carta, or the Great Charter of Freedoms was signed in 1215.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 1215",
+                        "2 1512",
+                        "3 1251",
+                        "4 1521"
+                    ]
+                },
+                {
+                    "id": 982,
+                    "lessonId": 22,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The Great Charter of Freedoms is also called:",
+                    "optionsType": "text",
+                    "feedback": "The Great Charter of Freedoms is also known as Magna Carta.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Magna Carta",
+                        "2 Habeas corpus",
+                        "3 English common law",
+                        "4 Constitution of Canada"
+                    ]
+                },
+                {
+                    "id": 983,
+                    "lessonId": 22,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "All of them are included in the Great Charter of Freedom except for:",
+                    "optionsType": "text",
+                    "feedback": "Canadians enjoy four (4) fundamental freedoms: Freedom of conscience and religion, freedom of thought, belief, and opinion and expression, including freedom of speech and of the press, freedom of peaceful assembly, and freedom of association.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Freedom of tax",
+                        "2 Freedom of peaceful assembly",
+                        "3 Freedom of association",
+                        "4 Freedom of conscience and religion"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "index": 9,
+            "parentId": 21,
+            "appId": 3,
+            "audioVersion": 4,
+            "extra": null,
+            "title": "Your Rights as a Canadian",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text><b>Habeas corpus</b> is the right to challenge unlawful detention by the state which means that if you are arrested by the police and you haven’t done anything illegal, you can challenge the police. It has come from English common law.\n\nThe Constitution of Canada was amended in 1982 by Queen Elizabeth II to establish the Canadian Charter of Rights and Freedoms.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Rights-and-Responsibilties/Your-Rights-as-a-Canadian/1.jpg\">Prime Minister Pierre Elliot Trudeau and Queen Elizabeth II sign the Cana‌dian Constitu‌tion, 1982.</image>\n\nCanadian Charter of Rights and Freedoms begins with the words “Whereas Canada is founded upon principles that recognize the <b>supremacy of God</b> and the <b>rule of law</b>.”  The Charter points out that religious traditions are really important for Canadians, and the dignity and worth of the human person are also important.\n\nCanadian citizens have the following rights:\n<li><b>Mobility Rights</b>: Canadian citizens can live and work wherever they want, leave and come back to the country at any time, and apply for a passport.</li>\n<li><b>Aboriginal Peoples’ Rights</b>: These people are those who have been in Canada before anybody else. The Charter will not change any agreements with these people.</li>\n<li><b>Official Language Rights and Minority Language Educational Rights</b>: English and French are used equally both in Parliament and the government.</li>\n<li><b>Multiculturalism</b>: Canada is a multicultural country. Canadians respect other beliefs and live in peace.</li></text><questions type=\"ids\">1075,1076,1077,1078,1079,1080,1081,1082,1083,1084,1085,1086,1087</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1075,
+                    "lessonId": 23,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What does Habeas Corpus refer to?",
+                    "optionsType": "text",
+                    "feedback": "Habeas corpus is the right to challenge unlawful detention by the state which means that if you are arrested by the police and you haven't done anything illegal, you can challenge the police. It has come from English common law.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The right to challenge unlawful detention by the state",
+                        "2 The right to live anywhere you want",
+                        "3 The right to have your own thoughts and believes",
+                        "4 The right for choosing your religion"
+                    ]
+                },
+                {
+                    "id": 1076,
+                    "lessonId": 23,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The \"right to challenge unlawful detention by the state\" is also know as:",
+                    "optionsType": "text",
+                    "feedback": "The right to challenge unlawful detention by the state is also known as Habeas corpus. This means that if you are arrested by the police and you haven't done anything illegal, you can challenge the police.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Habeas Corpus",
+                        "2 the Great Charter of Freedoms",
+                        "3 Magna Carta",
+                        "4 Constitutional law"
+                    ]
+                },
+                {
+                    "id": 1077,
+                    "lessonId": 23,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the source of Habeas Corpus?",
+                    "optionsType": "text",
+                    "feedback": "Habeas corpus is the right to challenge unlawful detention by the state and it has come from English common law.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 English common law",
+                        "2 Civil code of France",
+                        "3 Constitution of Canada",
+                        "4 the Military code of France"
+                    ]
+                },
+                {
+                    "id": 1078,
+                    "lessonId": 23,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The Constitution of Canada was amended in ____ to include the Charter of Rights and Freedoms.",
+                    "optionsType": "text",
+                    "feedback": "The Constitution of Canada was amended in 1982 by Queen Elizabeth II to establish the Canadian Charter of Rights and Freedoms.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 1982",
+                        "2 1895",
+                        "3 1805",
+                        "4 1975"
+                    ]
+                },
+                {
+                    "id": 1079,
+                    "lessonId": 23,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who declared the amended Constitution of Canada in 1982?",
+                    "optionsType": "text",
+                    "feedback": "The Constitution of Canada was amended in 1982 by Queen Elizabeth II to establish the Canadian Charter of Rights and Freedoms.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Queen Elizabeth II",
+                        "2 The parliament",
+                        "3 The Prime Minister",
+                        "4 The people of Canada"
+                    ]
+                },
+                {
+                    "id": 1080,
+                    "lessonId": 23,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The two principles upon which Canada is founded are:",
+                    "optionsType": "text",
+                    "feedback": "Canadian Charter of Rights and Freedoms begins with the words \"Whereas Canada is founded upon principles that recognize the supremacy of God and the rule of law.\" The Charter points out that religious traditions are really important for Canadians and",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The supremacy of God and the rule of law",
+                        "2 The supremacy of God and mobility right",
+                        "3 The rule of law and mobility right",
+                        "4 The rule of law and multiculturalism"
+                    ]
+                },
+                {
+                    "id": 1081,
+                    "lessonId": 23,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which of the following explains the \"mobility rights\" the best?",
+                    "optionsType": "text",
+                    "feedback": "Mobility Rights refers to the fact that Canadian citizens can live and work wherever they want, leave and come back to the country at any time, and apply for a passport.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Canadians can live and work anywhere they choose in Canada, enter/leave the country freely, and apply for a passport.",
+                        "2 Canadians can live and work anywhere they choose in Canada and enter/leave the country freely.",
+                        "3 Canadians can enter and leave the country freely and apply for a passport.",
+                        "4 Canadians can leave the country freely and apply for a passport."
+                    ]
+                },
+                {
+                    "id": 1082,
+                    "lessonId": 23,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which one is not included in the Canadian Charter of Rights and Freedoms?",
+                    "optionsType": "text",
+                    "feedback": "Canadian citizens enjoy the following 4 rights: Mobility rights, Aboriginal people's rights, official language rights, minority language education rights, and multiculturalism.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Employment Rights",
+                        "2 Mobility Rights",
+                        "3 Official Language Rights and Minority Language Educational Rights",
+                        "4 Aboriginal People's Rights"
+                    ]
+                },
+                {
+                    "id": 1083,
+                    "lessonId": 23,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "English and French have equal status in Parliament and throughout the government",
+                    "optionsType": "text",
+                    "feedback": "Official Language Rights and Minority Language Educational Rights states that English and French are used equally both in Parliament and the government.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1084,
+                    "lessonId": 23,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Canadians can live and work anywhere they choose in Canada.",
+                    "optionsType": "text",
+                    "feedback": "Mobility Rights states that Canadian citizens can live and work wherever they want, leave and come back to the country at any time, and apply for a passport.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1085,
+                    "lessonId": 23,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The rights guaranteed in the Charter will adversely affect any treaty or other rights or freedom of Aboriginal peoples.",
+                    "optionsType": "text",
+                    "feedback": "Aboriginal Peoples' Rights states that The Charter of Rights and Freedoms will NOT change any agreements with Aboriginal Peoples.",
+                    "type": "true_false",
+                    "options": [
+                        "1 False",
+                        "2 True"
+                    ]
+                },
+                {
+                    "id": 1086,
+                    "lessonId": 23,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Canadians work hard to respect pluralism and live in harmony.",
+                    "optionsType": "text",
+                    "feedback": "Canada is a multicultural country. Canadians respect other beliefs and live in peace.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1087,
+                    "lessonId": 23,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "______ is a fundamental characteristic of the Canadian heritage and identity.",
+                    "optionsType": "text",
+                    "feedback": "Multiculturalism means that Canada is a multicultural country and Canadians respect other beliefs and live in peace.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Multiculturalism",
+                        "2 Magna Carta",
+                        "3 Habeas Corpus",
+                        "4 Ice hockey"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "index": 10,
+            "parentId": 21,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "Equality of Men and Women",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>Men and women are <b>equal</b> in Canada under the law.\n<li>Nobody can hit his/her own husbands or wives.</li>\n<li>\"Honour Killings\" which might exist in some countries, is not allowed in Canada.</li>\n<li>Parents are not allowed to cut their daughter’s private parts (female genital mutilation), they cannot hit their children.</li>\n<li>No one can force anybody to marry someone else (forced marriage).</li>\n<li>Nobody should be treated violently because they are men or women (abuse).</li>\n\nAll of these cases are crimes in Canada.</text><questions type=\"ids\">997,998,999,1000</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 997,
+                    "lessonId": 24,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "In Canada, men and women are not equal under the law.",
+                    "optionsType": "text",
+                    "feedback": "Men and women are equal in Canada under the law.",
+                    "type": "true_false",
+                    "options": [
+                        "1 False",
+                        "2 True"
+                    ]
+                },
+                {
+                    "id": 998,
+                    "lessonId": 24,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Why can men and women get the same education in Canada?",
+                    "optionsType": "text",
+                    "feedback": "Men and women are equal in Canada under the law.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Because men and women are equal under the law in Canada",
+                        "2 Because Canada is a free country",
+                        "3 Because education is free in Canada",
+                        "4 Because people respect multiculturalism in Canada"
+                    ]
+                },
+                {
+                    "id": 999,
+                    "lessonId": 24,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "In Canada, forced marriage is:",
+                    "optionsType": "text",
+                    "feedback": "No one can force anybody to marry someone else (forced marriage) in Canada under the law.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Illegal",
+                        "2 Lawful",
+                        "3 Accepted",
+                        "4 Ignored"
+                    ]
+                },
+                {
+                    "id": 1000,
+                    "lessonId": 24,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which one is not an example of a crime in Canada?",
+                    "optionsType": "text",
+                    "feedback": "Honor Killings, Female genital mutilation, and Gender-based violence are illegal under the law in Canada.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Tax exemption",
+                        "2 Honor Killing",
+                        "3 Female genital mutilation",
+                        "4 Gender-based violence"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "index": 11,
+            "parentId": 21,
+            "appId": 3,
+            "audioVersion": 6,
+            "extra": null,
+            "title": "Your Responsibilities as a Canadian",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>In Canada, rights come with responsibilities. \n\nThese include:\n\n<li><b>Obeying the law; </b> everyone has to obey the law regardless of their position. No person or group is above the law.</li>\n<li><b>Taking responsibility for oneself and one’s family;</b> it is important to find a job, take good care of one’s family, and try hard to help Canada progress.</li>\n<li><b>Serving on a jury;</b> When a person is in court, a jury is a group of people who help the judge to make decisions about whether the person who is on trial is guilty or not guilty. If you get a letter asking you to serve on a jury, you must answer the letter, and serve on the jury.</li>\n<li><b>Voting in elections;</b> The right to vote comes with a responsibility to vote in all three kinds of elections; federal (for the whole country), provincial or territorial, and local (for a municipality or city)</li>\n<li><b>Helping others in the community;</b> Canadians often spend their time without pay (volunteer) to help people in need. This way they learn useful skills, and make new friends and contacts.</li>\n<li><b>Protecting and enjoying our heritage and environment;</b> everybody in Canada needs to help in avoiding waste and pollution. You should protect nature and culture for the next generations.</li>\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Rights-and-Responsibilties/Your-Responsibilities-as-a-Canadian/1.png\"> </image>\n\n<h>Serving in Military Service</h>\nThere is <b>no mandatory</b> military service in Canada. However, serving in the regular Canadian forces (navy, army, and air force) is a noble way to contribute to Canada.\nYou may also serve in the Coast Guard or emergency services in your community such as a police force or fire department.</text><questions type=\"ids\">1088,1089,1090,1091,1092,1093,1094,1095,1096,1097,1098,1099,1100,1101,1102,1103,1104,1105</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1088,
+                    "lessonId": 25,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which ones are three responsibilities of Canadian citizens?",
+                    "optionsType": "text",
+                    "feedback": "Obeying the law, taking responsibility for oneself and one's family, and serving on a jury are three of the six responsibilities of a Canadain Citizen.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Obeying the law, taking responsibility for oneself and one's family, and serving on a jury",
+                        "2 Being loyal to Canada, recycling all waste, and serving in the Canadian Forces",
+                        "3 Buying Canadian products, owning your own house, and using less water",
+                        "4 Learning both official languages, voting in elections, and belonging to a union"
+                    ]
+                },
+                {
+                    "id": 1089,
+                    "lessonId": 25,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which one of the following is a responsibility of Canadian citizens?",
+                    "optionsType": "text",
+                    "feedback": "Obeying the law is one of the responsibilities of a Canadian citizen.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Obeying the law",
+                        "2 Being loyal to Canada",
+                        "3 Serving in Canadian Forces",
+                        "4 Buying Canadian products"
+                    ]
+                },
+                {
+                    "id": 1090,
+                    "lessonId": 25,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which one of the following is not a responsibility of Canadian citizens?",
+                    "optionsType": "text",
+                    "feedback": "There is no required military service in Canada.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Serving in Canadian Forces",
+                        "2 Obeying the law",
+                        "3 Protecting the environment",
+                        "4 Serving on a jury"
+                    ]
+                },
+                {
+                    "id": 1091,
+                    "lessonId": 25,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Serving on jury is:",
+                    "optionsType": "text",
+                    "feedback": "Serving on a jury is one of the responsibilities of a Canadian citizen.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 A responsibility",
+                        "2 A right",
+                        "3 A freedom",
+                        "4 A hobby"
+                    ]
+                },
+                {
+                    "id": 1092,
+                    "lessonId": 25,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who can disobey the law?",
+                    "optionsType": "text",
+                    "feedback": "In Canada, everyone has to obey the law regardless of their position. No person or group is above the law.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 No one",
+                        "2 The Queen",
+                        "3 The President",
+                        "4 The Parliament"
+                    ]
+                },
+                {
+                    "id": 1093,
+                    "lessonId": 25,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Getting a job, taking care of one's family and working hard is:",
+                    "optionsType": "text",
+                    "feedback": "Taking responsibility for oneself and one's family is one of the responsibilities of a Canadian citizen.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 A responsibility",
+                        "2 A right",
+                        "3 A hobby",
+                        "4 A freedom"
+                    ]
+                },
+                {
+                    "id": 1094,
+                    "lessonId": 25,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Individuals and governments are not regulated by laws and by arbitrary actions.",
+                    "optionsType": "text",
+                    "feedback": "Everyone has to obey the law regardless of their position. No person or group is above the law.",
+                    "type": "true_false",
+                    "options": [
+                        "1 False",
+                        "2 True"
+                    ]
+                },
+                {
+                    "id": 1095,
+                    "lessonId": 25,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What makes the justice system work?",
+                    "optionsType": "text",
+                    "feedback": "Serving on a jury is a privilege that makes the justice system work as it depends on impartial juries made up of citizens.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Serving on a jury",
+                        "2 Obeying the law",
+                        "3 Helping other in the community",
+                        "4 Protecting the heritage"
+                    ]
+                },
+                {
+                    "id": 1096,
+                    "lessonId": 25,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "When called to do so, serving on a jury is:",
+                    "optionsType": "text",
+                    "feedback": "When called to do so, you are legally required to serve on a jury.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 A legal requirement",
+                        "2 An option",
+                        "3 A favor",
+                        "4 A burden"
+                    ]
+                },
+                {
+                    "id": 1097,
+                    "lessonId": 25,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the importance of serving on a jury?",
+                    "optionsType": "text",
+                    "feedback": "Serving on a jury is a privilege that makes the justice system work as it depends on impartial juries made up of citizens.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 It makes the justice system work as a it depends on impartial juries made up of citizens",
+                        "2 It makes the justice system work by eliminating the need of judges",
+                        "3 You are given some extra rights",
+                        "4 You get paid regularly"
+                    ]
+                },
+                {
+                    "id": 1098,
+                    "lessonId": 25,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Voting in elections is:",
+                    "optionsType": "text",
+                    "feedback": "Voting in federal, provincial or territorial, and local elections is a responsibility.",
+                    "type": "true_false",
+                    "options": [
+                        "1 A responsibility",
+                        "2 A right"
+                    ]
+                },
+                {
+                    "id": 1099,
+                    "lessonId": 25,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which one is not a kind of election in Canada?",
+                    "optionsType": "text",
+                    "feedback": "You can vote in three kinds of elections in Canada. Federal (for the whole country), Provincial or Territorial, and Local (for a municipality or city).",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Global",
+                        "2 Federal",
+                        "3 Provincial or territorial",
+                        "4 Local"
+                    ]
+                },
+                {
+                    "id": 1100,
+                    "lessonId": 25,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Helping others in the community:",
+                    "optionsType": "text",
+                    "feedback": "Volunteering is an excellent way to gain useful skills and develop friends and contacts.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 is an excellent way to gain useful skills and develop friends and contacts",
+                        "2 is an excellent way to protect Canada's natural and cultural heritage",
+                        "3 is an excellent way to help justice system work",
+                        "4 is an excellent way to contribute to personal dignity and self-respect"
+                    ]
+                },
+                {
+                    "id": 1101,
+                    "lessonId": 25,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Military service is compulsory in Canada",
+                    "optionsType": "text",
+                    "feedback": "There is no compulsory (mandatory) military service in Canada.",
+                    "type": "true_false",
+                    "options": [
+                        "1 False",
+                        "2 True"
+                    ]
+                },
+                {
+                    "id": 1102,
+                    "lessonId": 25,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Serving in the regular Canadian Forces is a noble way to contribute to Canada and an excellent career choice.",
+                    "optionsType": "text",
+                    "feedback": "",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1103,
+                    "lessonId": 25,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What does a jury do?",
+                    "optionsType": "text",
+                    "feedback": "A jury helps the judge to make decisions about whether the person who is on trial is guilty or not guilty.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Helps the judge to make decisions about whether the person who is on trial is guilty or not",
+                        "2 Serves in the regular Canadian forces to defend Canada",
+                        "3 Volunteers in their local community to gain useful skills and develop friends and contacts",
+                        "4 Learns both official languages to vote in elections"
+                    ]
+                },
+                {
+                    "id": 1104,
+                    "lessonId": 25,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Besides working in the military, what are some other ways to help Canada?",
+                    "optionsType": "text",
+                    "feedback": "",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 By working in the Coast Guard or emergency services, or as a police officer or firefighter",
+                        "2 By not voting in elections",
+                        "3 By passing the citizenship test",
+                        "4 By driving safe"
+                    ]
+                },
+                {
+                    "id": 1105,
+                    "lessonId": 25,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which of the following is NOT considered a way to help Canada?",
+                    "optionsType": "text",
+                    "feedback": "",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Working as a dog walker",
+                        "2 Working in the Coast Guard or emergency services",
+                        "3 Working in the military",
+                        "4 Working as a police officer or a firefighter"
+                    ]
+                }
+            ]
+        }
+    ]
+}

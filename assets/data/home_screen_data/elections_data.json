@@ -1,0 +1,714 @@
+{
+    "data": [
+        {
+            "id": 75,
+            "index": 61,
+            "parentId": 74,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "Federal Elections",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>Canadians vote in elections for the people they want to represent them in the House of Commons in Ottawa. In each election, voters may elect the same members again or choose new ones. <b>Members of the House of Commons are also known as members of Parliament or MPs</b>.\n\nFederal elections must be held <b>every four years</b>, unless the Prime Minister asks the Governor General to hold an earlier election. The election takes place on the third Monday in October after the most recent general election</text><questions type=\"ids\">287,288,289,290,291,292</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 287,
+                    "lessonId": 75,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "When Canadians vote during a federal election, where does the winning candidate need to go?",
+                    "optionsType": "text",
+                    "feedback": "Canadians vote in elections for the people they want to represent them in the House of Commons in Ottawa.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Ottawa",
+                        "2 Toronto",
+                        "3 Vancouver",
+                        "4 Calgary"
+                    ]
+                },
+                {
+                    "id": 288,
+                    "lessonId": 75,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Can voters choose to elect the same person again?",
+                    "optionsType": "text",
+                    "feedback": "In each election, voters may elect the same members again or choose new ones.",
+                    "type": "true_false",
+                    "options": [
+                        "1 Yes",
+                        "2 No"
+                    ]
+                },
+                {
+                    "id": 289,
+                    "lessonId": 75,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is another name for Members of the House of Commons?",
+                    "optionsType": "text",
+                    "feedback": "Members of the House of Commons are also known as members of Parliament or MPs.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Members of Parliament (MPs)",
+                        "2 Members of Senate",
+                        "3 Members of Cabinet",
+                        "4 Members of Ottawa"
+                    ]
+                },
+                {
+                    "id": 290,
+                    "lessonId": 75,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "How often are federal elections held?",
+                    "optionsType": "text",
+                    "feedback": "Federal elections must be held every four years, unless the Prime Minister asks the Governor General to hold an earlier election.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Every four years",
+                        "2 Every eight years",
+                        "3 Every six years",
+                        "4 Every two years"
+                    ]
+                },
+                {
+                    "id": 291,
+                    "lessonId": 75,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What month and day do elections happen?",
+                    "optionsType": "text",
+                    "feedback": "The election takes place on the third Monday in October after the most recent general election.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Third Monday in October",
+                        "2 Third Monday in March",
+                        "3 First Tuesday in March",
+                        "4 First Tuesday in October"
+                    ]
+                },
+                {
+                    "id": 292,
+                    "lessonId": 75,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who does the Prime Minister have to ask if he wants an earlier election?",
+                    "optionsType": "text",
+                    "feedback": "Prime Minister may ask the Governor General to hold an earlier election.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The Governor General",
+                        "2 The Queen",
+                        "3 Members of Parliament (MPs)",
+                        "4 Members of Senate"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 76,
+            "index": 62,
+            "parentId": 74,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "Electoral Districts in Canada",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>Canada is currently divided into 308 electoral districts. (The official handbook indicates the number of electoral districts as 308, as it was last updated in 2012. However, Canada currently has 338 federal electoral districts.) These are also called <b>ridings</b> or <b>constituencies</b>. An electoral district is a geographical area represented by a Member of Parliament (MP). The citizens in each electoral district elect one MP. This MP goes to Ottawa to sit in the House of Commons to represent the electoral district.\n\nCitizens must vote for one of the people who are competing for an elected position. These people are called <b>candidates</b>. To be a candidate for an election, a person must be a Canadian citizen and be 18 years or older. Each electoral district may have many candidates. After the votes are counted, the candidate who receives the most votes becomes the Member of Parliament (MP) for that area. The Member of Parliament is elected by voters in their local constituency (riding).</text><questions type=\"ids\">1239,1240,1241,1242,1243,1244,1245</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1239,
+                    "lessonId": 76,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "How many electoral districts does Canada have?",
+                    "optionsType": "text",
+                    "feedback": "The official handbook indicates the number of electoral districts as 308, as it was last updated in 2012. However, Canada currently has 338 federal electoral districts. ",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 308",
+                        "2 338",
+                        "3 383",
+                        "4 332"
+                    ]
+                },
+                {
+                    "id": 1240,
+                    "lessonId": 76,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is another name for an electoral district?",
+                    "optionsType": "text",
+                    "feedback": "Electoral districts are also called ridings or constituencies.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Constituency or Riding",
+                        "2 Represented District or Riding",
+                        "3 Electoral Area or Constituency",
+                        "4 Represented District or Constituency"
+                    ]
+                },
+                {
+                    "id": 1241,
+                    "lessonId": 76,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "An electoral district is a geographical area represented by multiple Members of Parliament (MP).",
+                    "optionsType": "text",
+                    "feedback": "Only one (1) Member of Parliament (MP) can represent an electoral district.",
+                    "type": "true_false",
+                    "options": [
+                        "1 False",
+                        "2 True"
+                    ]
+                },
+                {
+                    "id": 1242,
+                    "lessonId": 76,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "How many MPs can be elected in each electoral district?",
+                    "optionsType": "text",
+                    "feedback": "An electoral district is a geographical area represented by one (1) Member of Parliament (MP)",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 One",
+                        "2 Two",
+                        "3 Three",
+                        "4 Four"
+                    ]
+                },
+                {
+                    "id": 1243,
+                    "lessonId": 76,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What are the people who are competing for an elected position called?",
+                    "optionsType": "text",
+                    "feedback": "The people who citizens vote for and are competing for an elected position, are called candidates.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Candidates",
+                        "2 Members of Parliament",
+                        "3 Ridings",
+                        "4 Representatives"
+                    ]
+                },
+                {
+                    "id": 1244,
+                    "lessonId": 76,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Each electoral district may have many candidates.",
+                    "optionsType": "text",
+                    "feedback": "Each electoral districts may have many candidates, but only one elected MP can represent them after the election.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1245,
+                    "lessonId": 76,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Federal electoral districts are geographical areas represented by a:",
+                    "optionsType": "text",
+                    "feedback": "A federal electoral district is a geographical area represented by a Member of Parliament.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Member of Parliament",
+                        "2 Senator",
+                        "3 Prime Minister",
+                        "4 Premier"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 77,
+            "index": 63,
+            "parentId": 74,
+            "appId": 3,
+            "audioVersion": 6,
+            "extra": null,
+            "title": "After the Election",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>When the election is over, the party with the <b>most seats</b> in the House of Commons will form the government. The Governor General invites the leader of this party to become the <b>Prime Minister</b>.\n\n<b>A majority government</b> has at least half of the seats filled with members of the political party that is in power. <b>A minority government</b> occurs when no one political party has the majority of the seats.\n\nThe Prime Minister and the party in power continue to govern because they have the support or confidence of the majority of the Members of Parliament (MPs). When the members of the House of Commons vote on important issues (for example, the federal budget) the majority of the MPs need to agree with it. If a majority of the MPs disagree with it, the party in power is defeated. The Prime Minister then usually asks the Governor General to call an election on behalf of the King.\n\nThe Prime Minister chooses the ministers of the Crown, usually by choosing from the members of the House of Commons. The Prime Minister gives them responsibilities in specific areas, and they are called <b>cabinet ministers</b>. They are responsible for running the federal government departments and making important decisions about how the country is governed. They prepare the budget and propose most new laws. Members of the House of Commons can question and discuss their decisions.\n\n<b>His Majesty’s Loyal Opposition</b> is the name given to the opposition party with the most members in the House of Commons. The other parties that are not in power are known as opposition parties. They try to peacefully oppose or improve government proposals.\n\nA <b>political party</b> is a group of people who have similar ideas about how their city, province or country should be governed. There are four major political parties with members in the House of Commons:\n<li>Conservative Party</li>\n<li>Liberal Party</li>\n<li>New Democratic Party (NDP)</li>\n<li>Bloc Quebecois</li></text><questions type=\"ids\">300,301,302,303,304,305,306,307</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 300,
+                    "lessonId": 77,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "After an election, which party forms the government?",
+                    "optionsType": "text",
+                    "feedback": "The party with the most seats in the House of Commons forms the government.",
+                    "type": "true_false",
+                    "options": [
+                        "1 The one with most seats in the House of Commons",
+                        "2 The one with least seats in the House of Commons"
+                    ]
+                },
+                {
+                    "id": 301,
+                    "lessonId": 77,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "When does a minority government occur?",
+                    "optionsType": "text",
+                    "feedback": "A minority government occurs when no one political party has the majority of the seats.",
+                    "type": "true_false",
+                    "options": [
+                        "1 When no one political party has the majority of the seats",
+                        "2 When one political party has the majority of the seats"
+                    ]
+                },
+                {
+                    "id": 302,
+                    "lessonId": 77,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "When does a majority government occur?",
+                    "optionsType": "text",
+                    "feedback": "A majority government has at least half of the seats filled with members of the political party that is in power.",
+                    "type": "true_false",
+                    "options": [
+                        "1 When at least half of the seats filled with members of the political party that is in power",
+                        "2 When no more than half of the seats filled with members of the political party that is in power"
+                    ]
+                },
+                {
+                    "id": 303,
+                    "lessonId": 77,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who chooses cabinet ministers?",
+                    "optionsType": "text",
+                    "feedback": "The Prime Minister chooses the cabinet members in specific areas.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Prime Minister",
+                        "2 The Governor General",
+                        "3 The Queen",
+                        "4 Canadians"
+                    ]
+                },
+                {
+                    "id": 304,
+                    "lessonId": 77,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who is His Majesty's Loyal Opposition?",
+                    "optionsType": "text",
+                    "feedback": "His Majesty's Loyal Opposition is the party with the most members in the House of Commons",
+                    "type": "true_false",
+                    "options": [
+                        "1 The opposition party with the most members in the House of Commons",
+                        "2 The opposition party with the least members in the House of Commons"
+                    ]
+                },
+                {
+                    "id": 305,
+                    "lessonId": 77,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "A group of people who have similar ideas about how their city, province or country should be governed are called a:",
+                    "optionsType": "text",
+                    "feedback": "",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 A political party",
+                        "2 A cabinet",
+                        "3 A senate",
+                        "4 A cult"
+                    ]
+                },
+                {
+                    "id": 306,
+                    "lessonId": 77,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The Liberal Party is one of the 4 major political parties in the House of Commons.",
+                    "optionsType": "text",
+                    "feedback": "The Conservative Party, the Liberal Party, the New Democratic Party (NDP), and the Bloc Quebecois are the 4 major political parties in the House of Commons.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 307,
+                    "lessonId": 77,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The Conservative Party is one of the 4 major political parties in the House of Commons.",
+                    "optionsType": "text",
+                    "feedback": "The Conservative Party, the Liberal Party, the New Democratic Party (NDP), and the Bloc Quebecois are the 4 major political parties in the House of Commons.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 78,
+            "index": 64,
+            "parentId": 74,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "The Right to Vote",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>Canadian citizens have <b>the right to vote</b>. This is a privilege.\n\nYou are eligible to vote in a federal election or to cast a ballot in a federal referendum if you are:\n<li>a Canadian citizen;</li>\n<li>at least 18 years old on voting day; and</li>\n<li>on the voters’ list</li></text><questions type=\"ids\">1246,1247</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1246,
+                    "lessonId": 78,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "How old does a person have to be to vote?",
+                    "optionsType": "text",
+                    "feedback": "You have to be at least 18 years old on voting day.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 18",
+                        "2 16",
+                        "3 21",
+                        "4 25"
+                    ]
+                },
+                {
+                    "id": 1247,
+                    "lessonId": 78,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which of the following is not required when voting in Canadian federal elections?",
+                    "optionsType": "text",
+                    "feedback": "A Canadian citizen who is at least 18 years old on voting day and is on the voter's list is entitled to vote in Canadian federal elections.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Being able to drive to ballot",
+                        "2 Being a Canadian citizen",
+                        "3 Being at least 18 years old",
+                        "4 Being on the voters' list"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "index": 65,
+            "parentId": 74,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "The Voter's List",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>Elections Canada makes the voters’ list because it is not associated with any of the political parties. It makes a database of Canadian citizens who are 18 years of age and older who are qualified to vote.\n\nWhen you apply for citizenship, you can give permission for Elections Canada to put your name on the voters’ list. You do so by checking a box on the application form to show you agree to give Elections Canada the following information: your name, address, sex, and date of birth. You can also give this information to Elections Canada through the federal income tax form.\n\nThe list made by Elections Canada is called the <b>National Register of Electors</b>. All of the names that are on this list receive a voter information card from Elections Canada. The card will say when and where you can vote. There is also a phone number if you need an interpreter or another special service. You can also be added to the voters’ list on the day of the election.</text><questions type=\"ids\">1248,1249,1250</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1248,
+                    "lessonId": 79,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who makes the voters' list?",
+                    "optionsType": "text",
+                    "feedback": "Elections Canada makes the voters' list because it is not associated with any of the political parties.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Elections Canada",
+                        "2 Health Canada",
+                        "3 Immigration Canada",
+                        "4 Tax Canada"
+                    ]
+                },
+                {
+                    "id": 1249,
+                    "lessonId": 79,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the list of voters made by Elections Canada called?",
+                    "optionsType": "text",
+                    "feedback": "The list made by Elections Canada is called the National Register of Electors.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 National Register of Electors",
+                        "2 Local Register of Electors",
+                        "3 National Register of Votes",
+                        "4 Local Register of Votes"
+                    ]
+                },
+                {
+                    "id": 1250,
+                    "lessonId": 79,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "You can also be added to the voters' list on the day of the election.",
+                    "optionsType": "text",
+                    "feedback": "You are able to request to be added to the voters' list on the day of the election.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "index": 66,
+            "parentId": 74,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "Secret Ballot",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>Voting must be by <b>secret ballot</b> in Canada. No one should look at how you are voting. You can discuss your vote with whomever you choose, but no one has the right to insist that you tell them how you voted. Even family members do not have the right to demand that you tell them how you voted. Your employer or union representative also doesn't have the right to know this information.\n\nImmediately after the polling stations close, election officers count the ballots, and the results are announced on radio and television and in the newspapers.</text><questions type=\"ids\">313,314,315</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 313,
+                    "lessonId": 80,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What happens immediately after the polling stations close?",
+                    "optionsType": "text",
+                    "feedback": "Immediately after the polling stations close, election officers count the ballots, and the results are announced on radio and television and in the newspapers.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Elections officers count the ballots",
+                        "2 Elections officers review the voter's list",
+                        "3 Elections officers revile the secret ballot",
+                        "4 Elections officers announces the winner party"
+                    ]
+                },
+                {
+                    "id": 314,
+                    "lessonId": 80,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "How are Members of Parliament chosen?",
+                    "optionsType": "text",
+                    "feedback": "Voting must be by secret ballot in Canada. No one should look at how you are voting.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 By secret ballot",
+                        "2 By chance",
+                        "3 By public ballot",
+                        "4 By the Queen"
+                    ]
+                },
+                {
+                    "id": 315,
+                    "lessonId": 80,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "In Canada, are you obliged to tell other people how you voted?",
+                    "optionsType": "text",
+                    "feedback": "You can discuss your vote with whomever you choose, but no one has the right to insist that you tell them how you voted.",
+                    "type": "true_false",
+                    "options": [
+                        "1 No",
+                        "2 Yes"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 81,
+            "index": 67,
+            "parentId": 74,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "Voting Procedure",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text><h>1. Voter information card</h>\nYou need to receive a voter information card. The National Register of Electors mails a card to everyone who is on their list. The card tells you when and where you can vote.\n\n<h>2. I did not get a card </h>\nIf you do not receive a voter information card, call your local elections office and ask them if you are on the voters’ list. You can also contact Elections Canada. If you do not get your name added to the voters list, you can still vote. Just bring one piece of government issued photo identification (such as a driver’s licence or passport) with you to the voting place, or two other pieces of identification with your name on them.\n\n<h>3. Advance poll and special b‌allot</h>\nYou can choose to vote before the election day by voting at an advance poll or with a special ballot. Look on your voter information card for the dates and locations.\n\n<h>4. On election day</h>\nYou need to go to the location on your voter information card to make your vote. Bring the card and proof of your identity and address.\n\n<h>5. Marking the ballot</h>\nChoose the candidate that you want to vote for and mark an “X” in the circle beside the candidate’s name.\n\n<h>6. Voting is secret</h>\nIn Canada, your vote is secret. You will make your vote behind a screen so that others cannot see you. Once you have marked the ballot with an “X”, you should fold it and give it to the people who are working at the polling station.\n\n<h>7. The ballot box</h>\nThe poll official will tear off the ballot number and give your ballot back to you. You can now put it in the ballot box.\n\n<h>8. The election results</h>\nWhen election day is over, the polling stations close. Every ballot is counted and the results are published. You can see the results on television or online at Elections Canada.</text><questions type=\"ids\">1251,1252,1253,1254</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1251,
+                    "lessonId": 81,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Can you still vote if your name is not on the voters' list, on the day of the election?",
+                    "optionsType": "text",
+                    "feedback": "Even if you choose not to be listed in the National Register of Electors or do not receive a voter information card, you can still be added to the voters’ list at any time, including on election day.",
+                    "type": "true_false",
+                    "options": [
+                        "1 Yes",
+                        "2 No"
+                    ]
+                },
+                {
+                    "id": 1252,
+                    "lessonId": 81,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The voter information card tells you when and where you can vote",
+                    "optionsType": "text",
+                    "feedback": "The card sent by National Register of Electors, tells you when and where you can vote",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1253,
+                    "lessonId": 81,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "In Canada, your vote is secret",
+                    "optionsType": "text",
+                    "feedback": "In Canada, your vote is secret. You will make your vote behind a screen so that others cannot see you",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1254,
+                    "lessonId": 81,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "You can see the results on television or online at Elections Canada.",
+                    "optionsType": "text",
+                    "feedback": "When election day is over, the polling stations close. Every ballot is counted and the results are published. You can see the results on television or online at Elections Canada.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 82,
+            "index": 68,
+            "parentId": 74,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "Voting: An Overview",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>We'll have an overview of the word definitions in the Elections chapter.\n\n<b>A Voting Place</b>: is the location voters go to vote, but a <b>voting station</b> is the table inside the voting place where a voter receives his/her ballot.\n\n<b>The Voters List</b>: is the list of eligible voters created through enumeration. It is used during the election to track that each voter only votes once.\n\n<b>An Enumerator</b>: the person who goes door to door collecting names of eligible voters for the voters list.\n\n<b>A Returning Officer</b>: the person who is responsible to conduct the election in an electoral division.\n\n<b>A Ballot</b>: the piece of paper a voter uses to vote. On the day of the election, this is done by marking an “X” in the circle beside the name of the candidate you choose.\n\n<b>Constituencies or Ridings</b>: For federal elections, the country of Canada is divided into 308 areas. Each area has some candidates. People in the same area have the <b>same</b> choice of candidates. These federal areas are called <b>constituencies</b> or <b>ridings</b>.\n\n<b>Electoral Divisions</b>: For provincial elections, each province or territory is divided into different areas called <b>electoral divisions.</b>\n\n<b>Wards</b>: For municipal elections, each municipality (city or town) is divided into 14 areas. These municipal areas are called <b>wards</b>.</text><questions type=\"ids\">320,321,322,323,324,325,326</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 320,
+                    "lessonId": 82,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who is responsible for conducting an election?",
+                    "optionsType": "text",
+                    "feedback": "A Returning Officer is the person who is responsible to conduct the election in an electoral division.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 A returning officer",
+                        "2 A Member of Parliament",
+                        "3 A ward",
+                        "4 A candidate"
+                    ]
+                },
+                {
+                    "id": 321,
+                    "lessonId": 82,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The table inside the voting place where a voter receives his/her ballot is called a Voting Place.",
+                    "optionsType": "text",
+                    "feedback": "The table inside the voting place where a voter receives his/her ballot is called a voting station.",
+                    "type": "true_false",
+                    "options": [
+                        "1 False",
+                        "2 True"
+                    ]
+                },
+                {
+                    "id": 322,
+                    "lessonId": 82,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Someone will come to your door before a provincial election. They will ask for the names of eligible voters who live in your home. What are they called?",
+                    "optionsType": "text",
+                    "feedback": "An Enumerator is the person who goes door to door collecting names of eligible voters for the voters list.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Enumerators",
+                        "2 Returning officers",
+                        "3 Wards",
+                        "4 Candidates"
+                    ]
+                },
+                {
+                    "id": 323,
+                    "lessonId": 82,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is a ballot?",
+                    "optionsType": "text",
+                    "feedback": "A ballot is the piece of papera that voters use to vote.",
+                    "type": "true_false",
+                    "options": [
+                        "1 A piece of paper",
+                        "2 The location voters go to vote"
+                    ]
+                },
+                {
+                    "id": 324,
+                    "lessonId": 82,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is a municipal electoral area called?",
+                    "optionsType": "text",
+                    "feedback": "For municipal elections, each municipality (city or town) is divided into 14 areas. These municipal areas are called wards.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 A ward",
+                        "2 A electoral division",
+                        "3 A constituency",
+                        "4 A riding"
+                    ]
+                },
+                {
+                    "id": 325,
+                    "lessonId": 82,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is a provincial electoral area called?",
+                    "optionsType": "text",
+                    "feedback": "For provincial elections, each province or territory is divided into different areas called electoral divisions.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 A electoral division",
+                        "2 A ward",
+                        "3 A constituency",
+                        "4 A riding"
+                    ]
+                },
+                {
+                    "id": 326,
+                    "lessonId": 82,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is a federal electoral area called?",
+                    "optionsType": "text",
+                    "feedback": "For federal elections, the country of Canada is divided into 308 areas (the official handbook indicates the number of electoral districts as 308, as it was last updated in 2012. However, Canada currently has 338 federal electoral districts). Each area has some candidates. People in the same area have the same choice of candidates. These federal areas are called constituencies or ridings.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 A constituency",
+                        "2 A ward",
+                        "3 A electoral division",
+                        "4 A voting station"
+                    ]
+                }
+            ]
+        }
+    ]
+}

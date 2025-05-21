@@ -1,0 +1,766 @@
+{
+    "data": [
+        {
+            "id": 27,
+            "index": 13,
+            "parentId": 26,
+            "appId": 3,
+            "audioVersion": 4,
+            "extra": null,
+            "title": "What is Canada",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>Canada is a strong and free country. There are three countries in North America: <b>Canada, the United States of America</b> (U.S.A.), and <b>Mexico</b>.\n\nCanada is the only constitutional monarchy in North America.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Who-We-Are/What-is-Canada/1.png\">The Royal Family at the State Opening of Parliament in the House of Lords at the Palace of Westminster. WPA Pool / Getty Images</image>\n\nAn important expression in the Canadian government is the commitment to <b>Peace, Order, and Good Government</b>. This expression was first used in <b>1867</b>, in the British North America Act. British North America Act was Canada’s original constitutional document. Canadians believe in ordered freedom and hard work and fair play.\n\nPoets and songwriters have referred to Canada as the <b>The Great Dominion</b>.\n\nTo understand what it means to be Canadian, it is important to know about our three founding peoples—<b>Aboriginal, French</b> and <b>British</b>—in the next lesson.\n\nPlease note that the term “Indigenous” is now commonly used instead of “Aboriginal”.</text><questions type=\"ids\">1106,1107,1108,1109,1110,1111,1112,1113,1114</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1106,
+                    "lessonId": 27,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Canada is not the only Constitutional Monarchy in North America.",
+                    "optionsType": "text",
+                    "feedback": "Canada is the only constitutional monarchy in North America.",
+                    "type": "true_false",
+                    "options": [
+                        "1 False",
+                        "2 True"
+                    ]
+                },
+                {
+                    "id": 1107,
+                    "lessonId": 27,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What are the three countries in North America?",
+                    "optionsType": "text",
+                    "feedback": "There are three countries in North America: Canada, the United States of America (U.S.A.), and Mexico.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The USA, Canada, and Mexico",
+                        "2 The USA, Canada, and Alaska",
+                        "3 The UK, Canada, and Mexico",
+                        "4 The USA, The UK, and Canada"
+                    ]
+                },
+                {
+                    "id": 1108,
+                    "lessonId": 27,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The USA and Mexico also have a constitutional monarchy.",
+                    "optionsType": "text",
+                    "feedback": "Canada is the only constitutional monarchy in North America.",
+                    "type": "true_false",
+                    "options": [
+                        "1 False",
+                        "2 True"
+                    ]
+                },
+                {
+                    "id": 1109,
+                    "lessonId": 27,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is an important expression in Canadian government?",
+                    "optionsType": "text",
+                    "feedback": "Peace, Order, and Good Government is an important expression in the Canadian government.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Peace, Order and Good Government",
+                        "2 Work, Order and Good Government",
+                        "3 Peace, Freedom and Good Government",
+                        "4 Government, Work and Good Order"
+                    ]
+                },
+                {
+                    "id": 1110,
+                    "lessonId": 27,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Peace, Order and Good Government is a key phrase in Canada's original constitutional document.",
+                    "optionsType": "text",
+                    "feedback": "An important expression in the Canadian government is the commitment to Peace, Order, and Good Government. ",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1111,
+                    "lessonId": 27,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the name of Canada's original constitutional document?",
+                    "optionsType": "text",
+                    "feedback": "British North America Act is Canada's original constitutional document.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The British North America Act",
+                        "2 The Constitutional Act",
+                        "3 The Legislative Act",
+                        "4 The Confederation Act"
+                    ]
+                },
+                {
+                    "id": 1112,
+                    "lessonId": 27,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What have poets and songwriters hailed Canada as?",
+                    "optionsType": "text",
+                    "feedback": "Poets and songwriters have referred to Canada as the The Great Dominion.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The \"Great Dominion\"",
+                        "2 The \"Home of the Brave\"",
+                        "3 The \"Great Outdoors\"",
+                        "4 The \"Land of the Free\""
+                    ]
+                },
+                {
+                    "id": 1113,
+                    "lessonId": 27,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What was the first expression ever used in 1867, in the British North America Act?",
+                    "optionsType": "text",
+                    "feedback": "An important and first expression in the Canadian government is the commitment to Peace, Order, and Good Government. ",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Peace, Order and Good Government",
+                        "2 Work, Order and Good Government",
+                        "3 Peace, Freedom and Good Government",
+                        "4 Government, Work and Good Order"
+                    ]
+                },
+                {
+                    "id": 1114,
+                    "lessonId": 27,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "When was the British North America Act created?",
+                    "optionsType": "text",
+                    "feedback": "British North America Act was Canada's original constitutional document created in 1867.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 1867",
+                        "2 1678",
+                        "3 1786",
+                        "4 1876"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "index": 14,
+            "parentId": 26,
+            "appId": 3,
+            "audioVersion": 4,
+            "extra": null,
+            "title": "Founding Peoples of Canada",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>There are 3 groups of people who helped to start Canada. These are the <b>three founding peoples of Canada</b>:\n<li>Aboriginal peoples</li>\n<li>The French</li>\n<li>The British</li>\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Who-We-Are/Founding-Peoples-of-Canada/1.png\">Jacques Cartier at Hochelaga by Batchelor, Lawrence R., 1887-1961. Public Domain</image>\n\nMost people believe that the Aboriginal peoples in Canada today had ancestors who came to Canada many thousands of years ago from Asia. <b>The Aboriginal peoples were the first people to live in Canada</b>. They lived and worked in Canada long before the French or British came. \n\nThere were many different First Nations cultures. They believed in the Creator and had beliefs about the importance of the natural environment. \n\nIn the past, in 1763, King George III promised to allow the Aboriginal peoples to have the right to the land on which they lived. These were called <b>territorial rights</b>. But these promises were not always kept. Now the promises to keep Aboriginal and territorial rights are in the <b>Canadian Constitution</b>.\n\nIn today’s Canada, Aboriginal peoples are again proud to be Aboriginal. They have had success in many areas, including the arts, business, the environment, and farming.</text><questions type=\"ids\">1028,1029,1030,1031</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1028,
+                    "lessonId": 28,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who were the founding peoples of Canada?",
+                    "optionsType": "text",
+                    "feedback": "There are 3 groups of people who helped to start Canada: The Aboriginal people, the French, and the British",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The Aboriginal people, the French, and the British",
+                        "2 The Aboriginal, First Nations and Inuit",
+                        "3 The French, the Spanish and the British",
+                        "4 The Aboriginal people, the French, and the American"
+                    ]
+                },
+                {
+                    "id": 1029,
+                    "lessonId": 28,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who were the first people to live in Canada?",
+                    "optionsType": "text",
+                    "feedback": "The Aboriginal peoples were the first people to live in Canada. They lived and worked in Canada long before the French or British came.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The Aboriginal",
+                        "2 The French",
+                        "3 The British",
+                        "4 The American"
+                    ]
+                },
+                {
+                    "id": 1030,
+                    "lessonId": 28,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What did King George III do in 1763?",
+                    "optionsType": "text",
+                    "feedback": "In the past, in 1763, King George III promised to allow the Aboriginal peoples to have the right to the land on which they lived. These were called territorial rights.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 He promised to allow the Aboriginal people to have the right to the land on which they lived.",
+                        "2 He promised to allow the Aboriginal people to have the right to speak any language they want.",
+                        "3 He promised to allow the Aboriginal people to have the right to create any art they want.",
+                        "4 He promised to allow the Aboriginal people to have the right to farm."
+                    ]
+                },
+                {
+                    "id": 1031,
+                    "lessonId": 28,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Territorial rights refer to:",
+                    "optionsType": "text",
+                    "feedback": "Territorial rights refer to King George III promising to allow the Aboriginal peoples to have the right to the land on which they lived. ",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 King George III promising to allow the Aboriginal people to have the right to the land on which they lived.",
+                        "2 Queen Elizabeth II promising to allow the French people to have the right to the land on which they lived.",
+                        "3 King George III promising to allow Canadians to have their own ideas, they can say anything they want and publish whatever they like.",
+                        "4 Queen Elizabeth II promising to allow the British people to have the right to the land on which they lived."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "index": 15,
+            "parentId": 26,
+            "appId": 3,
+            "audioVersion": 4,
+            "extra": null,
+            "title": "Aboriginal Peoples",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>As you know now, The Aboriginal peoples were the first people to live in Canada. They lived and worked in Canada long before the French or British came. \n\nToday, the term Aboriginal peoples refers to three distinct groups:\n<li>The Indian (First Nations People)</li>\n<li>The Inuit</li>\n<li>The Métis</li>\n\n<h>The Indian (First Nations People)</h>\n<b>Indian</b> refers to all Aboriginal people who are not <b>Inuit</b> or <b>Métis</b>. This word is no longer used very much. In the 1970s, the term <b>First Nations</b> began to be used instead.\n\nToday, about half of First Nations people live on reserve land. Reserve land is the land that the government legally owns. There are around 600 communities on reserve land and the other half live mainly in urban centres.\n\n<h>The Inuit</h>\n<b>The inuit</b>, which means “the people” in the Inuktitut language, live in small communities across the Arctic. \nThey know a lot about the land, the sea, and the wildlife in the northern part of Canada.\nTheir knowledge allows them to adapt to one of the harshest environments on earth.\nOnly <b>4%</b> of the Aboriginal people in Canada are Inuit.\n\n<h>The Métis</h>\n<b>The Métis</b> people mostly live in the Prairie provinces (Alberta, Saskatchewan, and Manitoba). They may speak English or French, but may also speak their own dialect, which is called Michif.\nAbout one third (30%) of the Aboriginal people in Canada are Métis.\n\n<b>About 65% of the Aboriginal people are first Nations, while 30% are Métis and 4% inuit.</b></text><questions type=\"ids\">1032,1033,1034,1035,1036,1037,1038,1039,1040,1041</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1032,
+                    "lessonId": 29,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What are the three main groups of Aboriginal peoples?",
+                    "optionsType": "text",
+                    "feedback": "The term Aboriginal peoples refers to three groups: The Indian (First Nations People), The Inuit and The Métis",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Métis, Indian (First Nations) and Inuit",
+                        "2 Métis, the French and Inuit",
+                        "3 Métis, Indian (First Nations) and Inuktitut",
+                        "4 Métis, Indian (First Nations) and French"
+                    ]
+                },
+                {
+                    "id": 1033,
+                    "lessonId": 29,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What term began to be used instead of Indian in the 1970s?",
+                    "optionsType": "text",
+                    "feedback": "Indian refers to all Aboriginal people who are not Inuit or Métis. This word is no longer used very much. In the 1970s, the term First Nations began to be used instead.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 First Nations",
+                        "2 Inuktitut",
+                        "3 Inuit",
+                        "4 Native"
+                    ]
+                },
+                {
+                    "id": 1034,
+                    "lessonId": 29,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Where does about half of First Nations people live today?",
+                    "optionsType": "text",
+                    "feedback": "Today, about half of First Nations people live on reserve land. Reserve land is the land that the government legally owns.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 In Reserve Land",
+                        "2 Ontario",
+                        "3 Alberta",
+                        "4 The Prairie provinces"
+                    ]
+                },
+                {
+                    "id": 1035,
+                    "lessonId": 29,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What does \"The inuit\" means in the Inuktitut language?",
+                    "optionsType": "text",
+                    "feedback": "The inuit, which means \"the people\" in the Inuktitut language, live in small communities across the Arctic.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The People",
+                        "2 The Government",
+                        "3 The Land",
+                        "4 The Law"
+                    ]
+                },
+                {
+                    "id": 1036,
+                    "lessonId": 29,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What percentage of the Aboriginal people in Canada are Inuit?",
+                    "optionsType": "text",
+                    "feedback": "About 65% of the Aboriginal people are first Nations, while 30% are Métis and 4% Inuit.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 4%",
+                        "2 30%",
+                        "3 50%",
+                        "4 65%"
+                    ]
+                },
+                {
+                    "id": 1037,
+                    "lessonId": 29,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Where does the Métis mostly live in Canada?",
+                    "optionsType": "text",
+                    "feedback": "The Métis people mostly live in the Prairie provinces (Alberta, Saskatchewan, and Manitoba).",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The Prairie provinces",
+                        "2 Ontario and Quebec",
+                        "3 Northern part of Canada",
+                        "4 Michif"
+                    ]
+                },
+                {
+                    "id": 1038,
+                    "lessonId": 29,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the Métis dialect called?",
+                    "optionsType": "text",
+                    "feedback": "The Métis speak English or French, but may also speak their own dialect, which is called Michif.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Michif",
+                        "2 Canadia",
+                        "3 Prairie",
+                        "4 Haida"
+                    ]
+                },
+                {
+                    "id": 1039,
+                    "lessonId": 29,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "How many First Nations communities are on reserve land?",
+                    "optionsType": "text",
+                    "feedback": "There are around 600 communities on reserve land and the other half live mainly in urban centres.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 600",
+                        "2 30",
+                        "3 65",
+                        "4 1200"
+                    ]
+                },
+                {
+                    "id": 1040,
+                    "lessonId": 29,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What percentage of the Aboriginal people living in Canada are Métis?",
+                    "optionsType": "text",
+                    "feedback": "About 65% of the Aboriginal people are first Nations, while 30% are Métis and 4% inuit.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 One third (30%)",
+                        "2 Half (50%)",
+                        "3 One fourth (25%)",
+                        "4 One fifth (20%)"
+                    ]
+                },
+                {
+                    "id": 1041,
+                    "lessonId": 29,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What percentage of the Aboriginal people living in Canada are First Nations?",
+                    "optionsType": "text",
+                    "feedback": "About 65% of the Aboriginal people are first Nations, while 30% are Métis and 4% Inuit.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 65%",
+                        "2 4%",
+                        "3 30%",
+                        "4 50%"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "index": 16,
+            "parentId": 26,
+            "appId": 3,
+            "audioVersion": 4,
+            "extra": null,
+            "title": "English and French Languages",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>Canadian society started with the English-speaking and French-speaking Christian people who came from Europe.\n\n<b>English and French are Canada’s two official languages</b>. The law states that the Federal government must have services in both English and French, throughout Canada.\n\nPeople who speak English as a first language are called <b>Anglophones</b>, and people who speak French as a first language are called <b>Francophones</b>. There are 18 million Anglophones and 7 million Francophones in Canada. \n\nMost Francophones live in Quebec, but almost one million Francophones also live in Ontario, New Brunswick, and Manitoba. <b>New Brunswick is the only officially bilingual province</b>.</text><questions type=\"ids\">1696,1697,1698,1699,1700,1701,1702,1703</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1696,
+                    "lessonId": 30,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What are Canada's two official languages?",
+                    "optionsType": "text",
+                    "feedback": "English and French are Canada's two official languages. The law states that the Federal government must have services in both English and French, throughout Canada.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 English and French",
+                        "2 English and Spanish",
+                        "3 French and Spanish",
+                        "4 English and German"
+                    ]
+                },
+                {
+                    "id": 1697,
+                    "lessonId": 30,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What are the people who speak English as a first language called?",
+                    "optionsType": "text",
+                    "feedback": "People who speak English as a first language are called Anglophones. There are about 18 million of them.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Anglophones",
+                        "2 Francophones",
+                        "3 Acadians",
+                        "4 Quebecers"
+                    ]
+                },
+                {
+                    "id": 1698,
+                    "lessonId": 30,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What are the people who speak French as a first language called?",
+                    "optionsType": "text",
+                    "feedback": "People who speak French as a first language are called Francophones. There are about 7 million of them.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Francophones",
+                        "2 Anglophones",
+                        "3 Acadians",
+                        "4 Quebecers"
+                    ]
+                },
+                {
+                    "id": 1699,
+                    "lessonId": 30,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Where does most Francophones live in Canada today?",
+                    "optionsType": "text",
+                    "feedback": "Most Francophones live in Quebec, but almost one million Francophones also live in Ontario, New Brunswick, and Manitoba.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Quebec",
+                        "2 Northwest Territories",
+                        "3 New Brunswick",
+                        "4 Nunavut"
+                    ]
+                },
+                {
+                    "id": 1700,
+                    "lessonId": 30,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the only officially bilingual province?",
+                    "optionsType": "text",
+                    "feedback": "New Brunswick is the only officially bilingual province.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 New Brunswick",
+                        "2 Quebec",
+                        "3 Northwest Territories",
+                        "4 Nunavut"
+                    ]
+                },
+                {
+                    "id": 1701,
+                    "lessonId": 30,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Anglophones are:",
+                    "optionsType": "text",
+                    "feedback": "People who speak English as a first language are called Anglophones. There are about 18 million of them.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 People who speak English as a first language",
+                        "2 People who speak French as a first language",
+                        "3 People who speak Albanian as a first language",
+                        "4 People who speak English as a second language"
+                    ]
+                },
+                {
+                    "id": 1702,
+                    "lessonId": 30,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "New Brunswick is not the only officially bilingual province in Canada.",
+                    "optionsType": "text",
+                    "feedback": "New Brunswick is the only officially bilingual province.",
+                    "type": "true_false",
+                    "options": [
+                        "1 False",
+                        "2 True"
+                    ]
+                },
+                {
+                    "id": 1703,
+                    "lessonId": 30,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Most of the Francophones live in Quebec",
+                    "optionsType": "text",
+                    "feedback": "Most Francophones live in Quebec.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "index": 17,
+            "parentId": 26,
+            "appId": 3,
+            "audioVersion": 4,
+            "extra": null,
+            "title": "The Francophones",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text><h>The Acadians</h>\nMaritime provinces are on the eastern side of Canada: Nova Scotia, New Brunswick, and Prince Edward Island.\nThe <b>Acadians</b> are the descendants of French colonists who began settling in what are now the Maritime provinces in 1604.\n\nBetween 1755 and 1763, a war between Britain and France took place. During this time, more than two-thirds of the Acadians living in Canada were forced to leave Canada, and go to Britain or France. <b>This is also known as the \"Great Upheaval\"</b>.\n\nToday there are still Acadian people living in the Maritimes and they have maintained their unique identity, their culture, and their French language.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Who-We-Are/The-Francophones/1.png\">Quebec City, Canada. Rich Martello.</image>\n\n<h>The Q‌‌‌uebecers</h>\nQuebecers are the people of Quebec, the vast majority French-speaking. Many of them speak French, but there are one million Quebecers who speak English as their first language (Anglo-Quebecers).\n\nEnglish Quebecers are descendants of immigrants of English, Welsh, Scottish and Irish settlers, soldiers, and migrants from the 1600s to the 20th century. Most of the French Quebecers are descendants of the French settlers who came to Canada in the 1600s and 1700s.\n\nIn 2006, the House of Commons agreed that Quebecers, including the French-speaking Quebecois, <b>form a nation within a united Canada</b>.</text><questions type=\"ids\">1380,1381,1382,1383,1384,1385</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1380,
+                    "lessonId": 31,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which provinces are in the Maritimes?",
+                    "optionsType": "text",
+                    "feedback": "The provinces on the eastern side of Canada - Nova Scotia, New Brunswick and Prince Edward Island - are called the Maritime Provinces.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Nova Scotia, New Brunswick, and Prince Edward Island",
+                        "2 Ontario, Nova Scotia, New Brunswick, and Prince Edward Island",
+                        "3 Ontario, Nova Scotia, Quebec, and Prince Edward Island",
+                        "4 Ontario, Nova Scotia, Quebec, New Brunswick"
+                    ]
+                },
+                {
+                    "id": 1381,
+                    "lessonId": 31,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who are the Acadians?",
+                    "optionsType": "text",
+                    "feedback": "The Acadians are the descendants of French colonists who began settling in what are now the Maritime provinces in 1604.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 They are descendants of French colonists who came to Canada in 1604",
+                        "2 They are descendants of English colonists who came to Canada in 1763",
+                        "3 They are descendants of English colonists who came to Canada in 1604",
+                        "4 They are descendants of French colonists who came to Canada in 1763"
+                    ]
+                },
+                {
+                    "id": 1382,
+                    "lessonId": 31,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Where did French colonists who came to Canada settle in?",
+                    "optionsType": "text",
+                    "feedback": "The descendants of French colonists began settling in what are now the Maritime provinces.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The Maritime provinces",
+                        "2 The Prairie provinces",
+                        "3 Quebec",
+                        "4 Ontario"
+                    ]
+                },
+                {
+                    "id": 1383,
+                    "lessonId": 31,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Between 1755 and 1763, the Acadians were forced to leave Canada, and go to Britain, France, and another British colonies. This was called:",
+                    "optionsType": "text",
+                    "feedback": "There was a war between Britain and France between 1755 and 1763. During this time, more than two thirds of the Acadians living in this part of Canada were forced to leave Canada, and go to Britain, France, or another British colony. This is called the Great Upheaval.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The Great Upheaval",
+                        "2 The Great Revolution",
+                        "3 The Great Rebellion",
+                        "4 The Good Upheaval"
+                    ]
+                },
+                {
+                    "id": 1384,
+                    "lessonId": 31,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who are the Quebecers?",
+                    "optionsType": "text",
+                    "feedback": "Quebecers are the people of Quebec, the vast majority French-speaking.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The people of Quebec",
+                        "2 The people of Ontario",
+                        "3 The people of Nova Scotia",
+                        "4 The people of New Brunswick"
+                    ]
+                },
+                {
+                    "id": 1385,
+                    "lessonId": 31,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What did the federal government agree to in 2006?",
+                    "optionsType": "text",
+                    "feedback": "In 2006, the House of Commons agreed that Quebecers, including the French-speaking Quebecois, form a nation within a united Canada.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Agreed Quebecers to form a nation within a united Canada",
+                        "2 Agreed Anglophones to form a nation within a united Canada",
+                        "3 Agreed Francophones to form a nation outside a united Canada",
+                        "4 Agreed First Nations to form a nation within a united Canada"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "index": 18,
+            "parentId": 26,
+            "appId": 3,
+            "audioVersion": 11,
+            "extra": null,
+            "title": "Diversity in Canada",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>Canada is referred to as a <b>land of immigrants.</b>\n<b>Since the 1970s, most immigrants have come from Asian countries</b>. The largest ethnic and religious groups are English, French, Scottish, Irish, German, Italian, Chinese, Aboriginal, Ukrainian, Dutch, South Asian, and Scandinavian. <b>Canada is a multicultural society</b>.\n\nLanguages other than English and French are widely spoken in Canadian homes. Chinese languages like Mandarin and Cantonese, are the second most spoken at home, after English, in two of Canada’s biggest cities.\n\nIn Vancouver, <b>13%</b> of the population speaks Chinese languages at home; in Toronto, the number is <b>7%.</b>\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Who-We-Are/Diversity-in-Canada/1.jpg\"> </image>\n\n<h>Religions</h>\nThe great majority of Canadians identify as <b>Christians.</b>\n\nThe <b>largest religious affiliation is Catholic</b>, followed by various Protestant churches.\n\nThe numbers of Muslims, Jews, Hindus, Sikhs, and members of other religions, as well as people who state “no religion”, are also growing. The government often works together with religious groups to provide social services.\n\n<h>Homosexual Rights</h>\nIn Canada, a marriage can be between a man and a woman, a man and a man, or a woman and a woman.\nA man who prefers to be in a couple with a man is a gay person. A woman who prefers to be in a couple with a woman is a lesbian. \nIn Canada, the laws treat both gay and lesbian Canadians <b>the same as other Canadians</b>. They are protected under the law. <b>They can get married.</b>\n\n<b>This is the end of the Who We Are chapter. Good job! </b></text><questions type=\"ids\">1056,1057,1058,1059,1060,1061,1062</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1056,
+                    "lessonId": 32,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Where have most immigrants come from since the 1970s?",
+                    "optionsType": "text",
+                    "feedback": "Since the 1970s, most immigrants have come from Asian countries.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Asian countries",
+                        "2 South American countries",
+                        "3 African countries",
+                        "4 European countries"
+                    ]
+                },
+                {
+                    "id": 1057,
+                    "lessonId": 32,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Canada has a multicultural society.",
+                    "optionsType": "text",
+                    "feedback": "Canada is a multicultural society and is referred to as a land of immigrants.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1058,
+                    "lessonId": 32,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Languages other than English and French are widely spoken in Canadian homes.",
+                    "optionsType": "text",
+                    "feedback": "Languages other than English and French are widely spoken in Canadian homes. Chinese languages like Mandarin and Cantonese, are the second most-spoken at home, after English, in two of Canada's biggest cities.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1059,
+                    "lessonId": 32,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "In Vancouver, 13% of the population speaks Chinese languages at home.",
+                    "optionsType": "text",
+                    "feedback": "In Vancouver, 13% of the population speaks Chinese languages at home; in Toronto, the number is 7%.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1060,
+                    "lessonId": 32,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the largest religious affiliation in Canada?",
+                    "optionsType": "text",
+                    "feedback": "The largest religious affiliation is Catholic, followed by various Protestant churches.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Catholic",
+                        "2 Protestant",
+                        "3 Muslims",
+                        "4 Jews"
+                    ]
+                },
+                {
+                    "id": 1061,
+                    "lessonId": 32,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Gay and lesbian Canadians, enjoy the full protection of and equal treatment under the law.",
+                    "optionsType": "text",
+                    "feedback": "Gay and lesbian Canadians are protected under the law; they are treated the same as other Canadians; they can get married.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1062,
+                    "lessonId": 32,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Gay and lesbian Canadians can get married under the law.",
+                    "optionsType": "text",
+                    "feedback": "In Canada, the laws treat both gay and lesbian Canadians the same as other Canadians. They are protected under the law. They can get married.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                }
+            ]
+        }
+    ]
+}

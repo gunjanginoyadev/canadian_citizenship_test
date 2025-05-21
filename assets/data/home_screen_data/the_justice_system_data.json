@@ -1,0 +1,266 @@
+{
+    "data": [
+        {
+            "id": 114,
+            "index": 70,
+            "parentId": 83,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "Presumption of Innocence",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>The Canadian justice system has a very organized way of making sure that everyone has just and fair treatment, with all of their legal rights. This is called <b>due process</b>, and it is guaranteed by law. \n\n<image url=\"https://wisdom.reev.ca/images/app-3/The-Justice-System/Presumption-of-Innocence/1.png\"> </image>\n\nWhen someone is accused of committing a crime, the justice system must believe that the person is innocent, until there is enough proof to show that they are guilty of the crime. This is called the <b>presumption of innocence</b>.\n\nCanada’s legal system is based on the following:\n<li>The rule of law</li>\n<li>Freedom under the law</li>\n<li>Democratic principles</li>\n<li>Due process</li></text><questions type=\"ids\">1255,1256,1257</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1255,
+                    "lessonId": 114,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is due process?",
+                    "optionsType": "text",
+                    "feedback": "The Canadian justice system has a very organized way of making sure that everyone has just and fair treatment, with all of their legal rights. This is called due process.",
+                    "type": "true_false",
+                    "options": [
+                        "1 A very organized way of making sure that everyone has a just and fair treatment, with all of their legal rights.",
+                        "2 A random way of making sure that some people have a just and fair treatment, with all of their legal rights."
+                    ]
+                },
+                {
+                    "id": 1256,
+                    "lessonId": 114,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "When someone is accused of committing a crime, the justice system must believe that they are innocent, until there is enough proof to show that they are guilty of the crime.",
+                    "optionsType": "text",
+                    "feedback": "This is called presumption of innocence.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1257,
+                    "lessonId": 114,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which of the following is Canada's legal system not based on?",
+                    "optionsType": "text",
+                    "feedback": "Canada's legal system is based on the rule of law, freedom under the law, democratic principles, and due process.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The secret ballot",
+                        "2 Freedom under the law",
+                        "3 Democratic principles",
+                        "4 Due process"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 85,
+            "index": 71,
+            "parentId": 83,
+            "appId": 3,
+            "audioVersion": 4,
+            "extra": null,
+            "title": "The Justice System",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>The statue outside the Vancouver Law Courts is of a lady who is blindfolded, to remind Canadians that the laws must only consider the facts.\n\nCanada has an organized system of written laws. Laws help guide people in Canada. The laws are made by elected representatives.\n\nThe role of the courts in Canada is to settle disputes. Problems that people argue about are called disputes. Police enforce the laws. \n\nPrisons have an essential role in punishing criminals and deterring crime. \n\nElected officials create laws to bring order to society, to keep the peace, and to show the values and beliefs of Canadians.\n\n<b>Canadian laws must be followed by everyone</b>, including judges, politicians and the police.</text><questions type=\"ids\">330,331,332</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 330,
+                    "lessonId": 85,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the role of the courts in Canada?",
+                    "optionsType": "text",
+                    "feedback": "",
+                    "type": "true_false",
+                    "options": [
+                        "1 The role of the courts in Canada is to settle disputes",
+                        "2 The role of the courts in Canada is to issue fines"
+                    ]
+                },
+                {
+                    "id": 331,
+                    "lessonId": 85,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who has to follow Canadian laws?",
+                    "optionsType": "text",
+                    "feedback": "Canadian laws must be followed by everyone, including judges, politicians and the police.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Everyone",
+                        "2 Citizens",
+                        "3 Permanent Residents",
+                        "4 International Students"
+                    ]
+                },
+                {
+                    "id": 332,
+                    "lessonId": 85,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Prisons have an essential role in punishing criminals and deterring crime.",
+                    "optionsType": "text",
+                    "feedback": "",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 117,
+            "index": 72,
+            "parentId": 83,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "Courts and Lawyers",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>Canada’s highest court is called the <b>Supreme Court of Canada</b>. Laws that relate to the Federal Government are discussed at the Federal Court of Canada. There are also appeal and trial courts, sometimes called the <b>Court of Queen’s Bench</b> or the <b>Supreme Court</b>. Smaller offences can be discussed at provincial courts, family courts, and traffic courts. Civil cases involving small sums (amounts) of money are settled at small claims courts.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/The-Justice-System/Courts-and-Lawyers/1.png\"> </image>\n\n<b>Lawyers</b> can help you with legal problems and act for you in court. If you cannot pay for a lawyer, in most communities there are legal aid services available free of charge or at a low cost.</text><questions type=\"ids\">1266,1267,1268,1269</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1266,
+                    "lessonId": 117,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is Canada's highest court called?",
+                    "optionsType": "text",
+                    "feedback": "Canada's highest court is called the Supreme Court of Canada.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The Supreme Court of Canada",
+                        "2 Federal Court of Canada",
+                        "3 Provincial Court of Canada",
+                        "4 The Supreme Court of Ontario"
+                    ]
+                },
+                {
+                    "id": 1267,
+                    "lessonId": 117,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "In which of the following are small offences not discussed? ",
+                    "optionsType": "text",
+                    "feedback": "Smaller offences can be discussed at provincial courts, family courts, and traffic courts, but not the Supreme Court.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Supreme Court",
+                        "2 Provincial courts",
+                        "3 Family courts",
+                        "4 Traffic courts"
+                    ]
+                },
+                {
+                    "id": 1268,
+                    "lessonId": 117,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Where are civil cases involving small sums of money settled?",
+                    "optionsType": "text",
+                    "feedback": "Civil cases involving small sums (amounts) of money are settled at small claims courts.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Small claims courts",
+                        "2 Supreme Court",
+                        "3 Provincial courts",
+                        "4 Family courts"
+                    ]
+                },
+                {
+                    "id": 1269,
+                    "lessonId": 117,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Legal aid services are available for free (or low cost) if you cannot pay for a lawyer.",
+                    "optionsType": "text",
+                    "feedback": "Lawyers can help you with legal problems and in court. There are free (or low cost) legal aid services available if you cannot pay for a lawyer.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 87,
+            "index": 73,
+            "parentId": 83,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "Police",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>There are police to help keep people safe and to make sure that the people in Canada follow the laws of Canada. \n\n<image url=\"https://wisdom.reev.ca/images/app-3/The-Justice-System/Police/1.png\">The Royal Canadian Mounted Police.</image>\n\nYou can ask the police for help in many kinds of situations:\n<li>if there has been an accident,</li>\n<li>if someone has stolen something from you, </li>\n<li>if you are a victim of assault (hitting or beating),</li>\n<li>if you see a crime taking place, or </li>\n<li>if someone you know has gone missing</li>\n\nThere are different types of police in Canada. All of the provinces have local <b>(municipal) police departments</b>. Ontario and Quebec also have <b>provincial police forces</b>, and the other provinces and territories have the <b>Royal Canadian Mounted Police (RCMP)</b>. The RCMP enforces federal laws. Remember, the police are here to help you.\n\nIf you don’t feel the police are treating you fairly, you can question them. You can bring your concerns to the police and you will be listened to, and they will try to solve the problem.</text><questions type=\"ids\">337,338,339,340</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 337,
+                    "lessonId": 87,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "In Canada, are you allowed to question the police about their service or conduct?",
+                    "optionsType": "text",
+                    "feedback": "In Canada, you're allowed to question the police about their service or conduct",
+                    "type": "true_false",
+                    "options": [
+                        "1 Yes",
+                        "2 No"
+                    ]
+                },
+                {
+                    "id": 338,
+                    "lessonId": 87,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which two provinces have provincial police forces?",
+                    "optionsType": "text",
+                    "feedback": "Ontario and Quebec have provincial police forces.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Ontario and Quebec",
+                        "2 Ontario and British Columbia",
+                        "3 Quebec and British Columbia",
+                        "4 Alberta and British Columbia"
+                    ]
+                },
+                {
+                    "id": 339,
+                    "lessonId": 87,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The Royal Canadian Mounted Police (RCMP) enforces federal laws.",
+                    "optionsType": "text",
+                    "feedback": "The RCMP enforces federal laws",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 340,
+                    "lessonId": 87,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which of the following is not a type of police in Canada?",
+                    "optionsType": "text",
+                    "feedback": "There are different types of police in Canada. (Municipal) police departments, provincial police forces and the RCMP.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Canadian Security Intelligence Service",
+                        "2 Provincial police forces",
+                        "3 Royal Canadian Mounted Police (RCMP)",
+                        "4 Municipal police forces"
+                    ]
+                }
+            ]
+        }
+    ]
+}

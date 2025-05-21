@@ -1,0 +1,646 @@
+{
+    "data": [
+        {
+            "id": 51,
+            "index": 37,
+            "parentId": 50,
+            "appId": 3,
+            "audioVersion": 5,
+            "extra": null,
+            "title": "Canada’s First Prime Minister",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>In 1867, <b>Sir John Alexander Macdonald</b>, a Father of Confederation, became Canada’s first Prime Minister. He was born in Scotland on January 11, 1815, and came to Upper Canada as a child. \n\nHe was a lawyer before becoming a politician. Parliament has recognized January 11 as Sir John A. Macdonald Day. Sir John A. Macdonald’s portrait was on the <b>$10 bill.</b>\n\n<b>King George V</b> was King of England from 1910 until his death in 1936. In 1921 he decided that Canada’s national colours would be red and white. <b>His face was on the Dominion of Canada $1 bill in 1923.</b>\n\n<b>Sir George-Étienne Cartier</b> was very important in helping Quebec into Confederation. He was a railway lawyer, Montrealer, and close ally of Macdonald. <b>He helped Quebec, the Northwest Territories, Manitoba and British Columbia join Canada.</b>\n\n<h>Notable Canadian Prime Ministers</h>\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-History-III/Canada-First-Prime-Minister/1.png\">Sir John A. Macdonald portrait on the $10 bill.</image>\n\n<b>Sir John A. Macdonald</b>\n<li>from 1867 to 1873 and 1878 to 1891</li>\n<li>Father of Confederation</li>\n<li>First Prime Minister of Canada</li>\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-History-III/Canada-First-Prime-Minister/2.png\">Sir Wilfrid Laurier portrait on the $5 bill.</image>\n\n<b>Sir Wilfrid Laurier</b>\n<li>from 1896 to 1911</li>\n<li>First French Canadian Prime Minister</li>\n<li>He encouraged immigration to the West</li>\n<li>His portrait is on the $5 bill</li>\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-History-III/Canada-First-Prime-Minister/3.png\">Sir Robert Borden, Canada’s eighth Prime Minister on the $100 bill.</image>\n\n<b>Sir Robert Borden</b>\n<li>1911 to 1920</li>\n<li>He gave women the right to vote in federal elections</li>\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-History-III/Canada-First-Prime-Minister/4.png\">Justin Trudeau, 2015. Chris Roussakis—EPA/Landov</image>\n\n<b>Justin Trudeau</b>\n<li>2015 to present</li>\n<li>He is the current Head of Government</li></text><questions type=\"ids\">1161,1162,1163,1164,1165,1166</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1161,
+                    "lessonId": 51,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "When is Sir John A. Macdonald Day?",
+                    "optionsType": "text",
+                    "feedback": "Parliament has recognized January 11 as Sir John A. Macdonald Day.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 January 11",
+                        "2 July 1",
+                        "3 January 1",
+                        "4 July 11"
+                    ]
+                },
+                {
+                    "id": 1162,
+                    "lessonId": 51,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What dollar bill had Canada's first Prime Minister on it?",
+                    "optionsType": "text",
+                    "feedback": "Sir John A. Macdonald's portrait was on the $10 bill.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The $10 bill",
+                        "2 The $5 bill",
+                        "3 The $1 bill",
+                        "4 The $100 bill"
+                    ]
+                },
+                {
+                    "id": 1163,
+                    "lessonId": 51,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who was Sir John A. Macdonald?",
+                    "optionsType": "text",
+                    "feedback": "Sir John Alexander Macdonald, was a Father of Confederation and became Canada's first Prime Minister.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Canada's first Prime Minister",
+                        "2 Canada's first Governor General",
+                        "3 Canada's first member of Parliament",
+                        "4 Canada's first Premier"
+                    ]
+                },
+                {
+                    "id": 1164,
+                    "lessonId": 51,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who helped Quebec, the Northwest Territories, Manitoba and BC join Canada?",
+                    "optionsType": "text",
+                    "feedback": "Sir George-Etienne Cartier helped Quebec, the Northwest Territories, Manitoba, and British Columbia join Canada.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Sir George-Etienne Cartier",
+                        "2 Sir John A. Macdonald",
+                        "3 Sir Louis-Hippolyte La Fontaine",
+                        "4 Sir Etienne-Paschal Tache"
+                    ]
+                },
+                {
+                    "id": 1165,
+                    "lessonId": 51,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who gave women the right to vote in federal elections?",
+                    "optionsType": "text",
+                    "feedback": "Sir Robert Borden gave women the right to vote in federal elections",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Sir Robert Borden",
+                        "2 Sir George-Etienne Cartier",
+                        "3 Sir Wilfrid Laurier",
+                        "4 Sir John A. Macdonald"
+                    ]
+                },
+                {
+                    "id": 1166,
+                    "lessonId": 51,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who was the first French Canadian prime minister?",
+                    "optionsType": "text",
+                    "feedback": "Sir Wilfrid Laurier was the first French Canadian prime minister",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Sir Wilfrid Laurier",
+                        "2 Sir Robert Borden",
+                        "3 Sir George-Etienne Cartier",
+                        "4 Sir John A. Macdonald"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 52,
+            "index": 38,
+            "parentId": 50,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "Challenge in the West",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>When Canada decided that the Hudson’s Bay Company land would become a part of Canada, they did not ask the <b>Métis of the Red River</b> (they lived near where Winnipeg is today). Because of this, <b>Louis Riel</b> led an army and took control of Fort Garry, the capital. This was a problem for the unity of Canada.\n\nOttawa sent soldiers to take control of <b>Fort Garry</b> (where Winnipeg is today) in 1870. Riel ran away to the United States, and Canada established a new province, Manitoba. Riel was elected to Parliament but never came to Canada to do this job.\n\nLater, there was a second rebellion in 1885 in present-day Saskatchewan. Riel came to help and lead the Métis who were fighting against Canada for their rights. Riel was taken to trial, and killed by hanging. Riel is seen by many as the Father of Manitoba. To these people, he is a hero because he defended the rights of the Métis people. <b>Gabriel Dumont</b> was the Métis’ greatest military leader.</text><questions type=\"ids\">1390,1391</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1390,
+                    "lessonId": 52,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who is seen by many as the Father of Manitoba?",
+                    "optionsType": "text",
+                    "feedback": "Riel is seen by many as the Father of Manitoba because he defended the rights of the Métis people.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Louis Riel",
+                        "2 Gabriel Dumont",
+                        "3 Sir John A. Macdonald",
+                        "4 Sir Wilfrid Laurier"
+                    ]
+                },
+                {
+                    "id": 1391,
+                    "lessonId": 52,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Gabriel Dumont was the Métis' greatest military leader.",
+                    "optionsType": "text",
+                    "feedback": "",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 53,
+            "index": 39,
+            "parentId": 50,
+            "appId": 3,
+            "audioVersion": 4,
+            "extra": null,
+            "title": "A Railway from Sea to Sea",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text><h>The Pacific Railway</h>\nBritish Columbia joined Canada after Ottawa promised to build a <b>railway</b> to the west coast. It was finished in 1885 and became a powerful symbol of unity. Donald Smith, also called <b>Lord Strathcona</b>, had been the director of the railway. He hammered the last spike into the railway track. The project was paid for by American and British investors and both Europeans and Chinese built it. \n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-History-III/A-Railway-from-Sea-to-Sea/1.png\">Canadian Pacific Railway employees, waiting for the train to take them east, pose near Donald, BC, on the day the Last Spike was driven on the CPR, 7 November 1885. BC Archives/D-02469.</image>\n\n<h>The Head Tax</h>\nThe Chinese were not treated fairly. When the Chinese wanted to enter Canada, they had to pay a <b>Head Tax</b>. The Head Tax was a race-based fee charged for Chinese who entered Canada. In 2006, the Government of Canada apologized for this discriminatory policy.\n\nThe Canadian Pacific Railway (the CPR) was a national dream of Canada that came true. The railway was a “ribbon of steel” that went across Canada from the west coast to the east coast. In 1886, the train called the <b>Pacific Express</b> travelled from the east, into British Columbia, for the first time.</text><questions type=\"ids\">1167,1168,1169,1170,1171,1172</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1167,
+                    "lessonId": 53,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Donald Smith, also called Lord Strathcona hammered the last spike into the railway.",
+                    "optionsType": "text",
+                    "feedback": "Donald Smith, also called Lord Strathcona, had been the director of the railway. He hammered the last spike into the railway track.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1168,
+                    "lessonId": 53,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "When was The Canadian Pacific Railway finished?",
+                    "optionsType": "text",
+                    "feedback": "The Canadian Pacific Railway was finished in 1885 and became a powerful symbol of unity",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 1885",
+                        "2 1785",
+                        "3 1985",
+                        "4 2006"
+                    ]
+                },
+                {
+                    "id": 1169,
+                    "lessonId": 53,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What did the Canadian Pacific Railway symbolize?",
+                    "optionsType": "text",
+                    "feedback": "The Canadian Pacific Railway became a powerful symbol of unity",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 A powerful symbol of unity",
+                        "2 A powerful symbol of wealth",
+                        "3 A powerful symbol of power",
+                        "4 A powerful symbol of pride"
+                    ]
+                },
+                {
+                    "id": 1170,
+                    "lessonId": 53,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What was the race-based fee charged for Chinese who entered Canada called?",
+                    "optionsType": "text",
+                    "feedback": "When Chinese wanted to enter Canada, they had to pay a Head Tax. The Head Tax was a race-based fee charged for Chinese who entered Canada.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The Head Tax",
+                        "2 The Chinese Tax",
+                        "3 The Asian Tax",
+                        "4 The Pacific Tax"
+                    ]
+                },
+                {
+                    "id": 1171,
+                    "lessonId": 53,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who worked to build the railway?",
+                    "optionsType": "text",
+                    "feedback": "The project was paid for by American and British investors and both Europeans and Chinese built it.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Europeans and Chinese",
+                        "2 Europeans and Americans",
+                        "3 British and Americans",
+                        "4 Chinese and Canadians"
+                    ]
+                },
+                {
+                    "id": 1172,
+                    "lessonId": 53,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The Government of Canada apologized for the Head Tax in 2006.",
+                    "optionsType": "text",
+                    "feedback": "The Head Tax was a race-based fee charged for Chinese who entered Canada. In 2006, the Government of Canada apologized for this discriminatory policy.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 54,
+            "index": 40,
+            "parentId": 50,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "Moving Westward",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>Canada’s economy grew and became more <b>industrialized</b> during the economic boom of the 1890s and early 1900s. One million British and one million Americans immigrated to Canada during this time.\n\n<b>Sir Wilfred Laurier</b> became the first French-Canadian prime minister since Confederation. He encouraged immigration to the West. His portrait is on the $5 bill.\n\nThe railway made it possible for immigrants from Ukraine, Poland, Germany, France, Norway, and Sweden to settle in the West. Most of them worked in agriculture.</text><questions type=\"ids\">1173,1174</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1173,
+                    "lessonId": 54,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What dollar bill has Sir Wilfred Laurier's face on it?",
+                    "optionsType": "text",
+                    "feedback": "Sir Wilfred Laurier became the first French-Canadian prime minister since Confederation and his portrait is on the $5 bill.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The $5 bill",
+                        "2 The $20 bill",
+                        "3 The $10 bill",
+                        "4 The $100 bill"
+                    ]
+                },
+                {
+                    "id": 1174,
+                    "lessonId": 54,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Canada's economy grew and became more _______ during the economic boom of the 1890s and early 1900s",
+                    "optionsType": "text",
+                    "feedback": "Canada's economy grew and became more industrialized during the economic boom of the 1890s and early 1900s. One million British and one million Americans immigrated to Canada during this time.",
+                    "type": "true_false",
+                    "options": [
+                        "1 Industrialized",
+                        "2 Communized"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 55,
+            "index": 41,
+            "parentId": 50,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "World War I",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text><h>The Boer War</h>\nMost Canadians were proud to be part of the British Empire. Over 7,000 volunteered to fight in the South African War (1899-1902), which was called the Boer War, and over 260 died. In 1900, Canadians were in the Battles of Paardeberg (“Horse Mountain”) and Lillefontein. This made people proud to be a part of Canada.\n\n<h>The First World War</h>\nIn 1914, Canada formed the Canadian Expeditionary Force. <b>More than 600,000</b> Canadians out of a population of 8 million served in the First World War, and most of them were volunteers. The Canadians were strong soldiers on the battlefield. In 1917, the Canadian Corps (army) captured Vimy Ridge in France. <b>April 9 is Vimy Day</b>, to remember the braveness of the soldiers. <b>The Vimy Memorial</b> honours the soldiers who served and died in the <b>Battle of Vimy Ridge</b>.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-History-III/World-War-I/1.png\">Canadian soldiers returning from trenches during the Battle of the Somme, November 1916 (Library and Archives Canada under the reproduction reference number PA-000832/Wikipedia)</image>\n\n<h>Labour Camps</h>\nFrom 1914 to 1920, the Canadian government did something that it now regrets. Over 8,000 people who had come to Canada from Austria or Hungary, as immigrants, were taken away to labour camps across Canada. They were treated like an enemy of Canada.\n\n<h> The Battle of Amiens</h>\nCanada’s greatest soldier in the First World War was <b>General Sir Arthur Currie</b>. In 1918, he led the Canadian Corps in the last Hundred Days of war. They won the Battle of Amiens, and other battles. When Germany and Austria surrendered on November 11, 1918, the war ended. In total, 60,000 Canadians were killed and 170,000 wounded. The war strengthened pride in Canada.</text><questions type=\"ids\">1175,1176,1177,1178,1179,1180</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1175,
+                    "lessonId": 55,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "How many Canadians served in the First World War?",
+                    "optionsType": "text",
+                    "feedback": "More than 600,000 Canadians served in the first World War.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 More than 600,000",
+                        "2 More than 800,000",
+                        "3 More than 8,000,000",
+                        "4 More than 6,000,000"
+                    ]
+                },
+                {
+                    "id": 1176,
+                    "lessonId": 55,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Canadians remember the braveness of the soldiers on April 9, also known as Vimy Ridge Day.",
+                    "optionsType": "text",
+                    "feedback": "April 9 is Vimy Ridge Day, to remember the braveness of the soldiers.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1177,
+                    "lessonId": 55,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Vimy Ridge Day honours the soldiers who served and died in the Battle of Vimy Ridge.",
+                    "optionsType": "text",
+                    "feedback": "It honours the soldiers who served and died in the Battle of Vimy Ridge.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1178,
+                    "lessonId": 55,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What did Canada do between 1914 and 1920 that it now regrets?",
+                    "optionsType": "text",
+                    "feedback": "From 1914 to 1920, the Canadian government took away almost 8,000 immigrants who had come from Austria or Hungary, to labour camps.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Took away Austria or Hungary people to labour camps",
+                        "2 Volunteered to fight in the South African War",
+                        "3 Fought in the Battle of Amiens",
+                        "4 Fought in the First World War"
+                    ]
+                },
+                {
+                    "id": 1179,
+                    "lessonId": 55,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who was Canada's greatest soldier in the First World War?",
+                    "optionsType": "text",
+                    "feedback": "Canada's greatest soldier in the First World War was General Sir Arthur Currie.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 General Sir Arthur Currie",
+                        "2 Gabriel Dumont",
+                        "3 Sir John A. Macdonald",
+                        "4 Sir Wilfrid Laurier"
+                    ]
+                },
+                {
+                    "id": 1180,
+                    "lessonId": 55,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "When did the First World War end?",
+                    "optionsType": "text",
+                    "feedback": "When Germany and Austria surrendered on November 11, 1918, the war ended.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 November 11, 1918",
+                        "2 April 9, 1914",
+                        "3 November 11, 1900",
+                        "4 April 9, 1900"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 56,
+            "index": 42,
+            "parentId": 50,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "Women Get the Vote",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>When Canada started in 1867, only men who owned property, and were white, could vote. This was common in other countries at this time. \n\nThe effort by women to achieve the right to vote is called the <b>women’s suffrage movement.</b> <b>Dr. Emily Stowe</b> was the founder of the women’s suffrage movement in Canada. She was also the first Canadian woman to practice medicine in Canada.\n\nIn 1917, women got the right to vote in federal elections, if they were nurses in the battlefront, or related to men who were in the war. In 1918, when <b>Sir Robert Borden</b> was the Prime Minister, most Canadian women over 21 were granted the right to vote in federal elections. \n\n<b>Thérèse Casgrain</b> helped the women of Quebec to get the vote in 1940.\n\n<b>Agnes Macphail</b> was a farmer and a teacher. She became the first woman to be a Member of Parliament (MP) in 1921.</text><questions type=\"ids\">1181,1182,1183,1184</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1181,
+                    "lessonId": 56,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the effort by women to achieve the right to vote called?",
+                    "optionsType": "text",
+                    "feedback": "The effort by women to achieve the right to vote is called the women's suffrage movement.",
+                    "type": "true_false",
+                    "options": [
+                        "1 Women's suffrage movement",
+                        "2 Women's voting movement"
+                    ]
+                },
+                {
+                    "id": 1182,
+                    "lessonId": 56,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The first Canadian woman to practice medicine and founder of the women’s suffrage movement in Canada was:",
+                    "optionsType": "text",
+                    "feedback": "Dr. Emily Stowe was the founder of the women's suffrage movement in Canada. She was also the first Canadian woman to practice medicine in Canada.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Dr. Emily Stowe",
+                        "2 Thérèse Casgrain",
+                        "3 Agnes Macphail",
+                        "4 Mary Ann Shadd Cary"
+                    ]
+                },
+                {
+                    "id": 1183,
+                    "lessonId": 56,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who helped the women of Quebec to get the vote in 1940?",
+                    "optionsType": "text",
+                    "feedback": "Thérèse Casgrain helped the women of Quebec to get the vote in 1940.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Thérèse Casgrain",
+                        "2 Dr. Emily Stowe",
+                        "3 Agnes Macphail",
+                        "4 Mary Ann Shadd Cary"
+                    ]
+                },
+                {
+                    "id": 1184,
+                    "lessonId": 56,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who was the first woman to become a Member of Parliament?",
+                    "optionsType": "text",
+                    "feedback": "Agnes Macphail became the first woman to be a Member of Parliament (MP) in 1921.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Agnes Macphail",
+                        "2 Thérèse Casgrain",
+                        "3 Dr. Emily Stowe",
+                        "4 Mary Ann Shadd Cary"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "index": 43,
+            "parentId": 50,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "Between the Wars",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text><h>British Commonwealth of Nations</h>\nAfter the First World War, The British Empire became the <b>British Commonwealth of Nations.</b> Canada is a member of the Commonwealth today. Other countries like India, Australia, New Zealand, and several African and Caribbean countries are also members.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-History-III/Between-the-Wars/1.png\">Current member states of the Commonwealth of Nations.</image>\n\n<h>Great Depression</h>\nThe 1920s were called the <b>Roaring 20s</b> because there were good economic times. Business was good, and most people had jobs. But in 1929, the stock market crashed, and many people lost their jobs. This led to the <b>Great Depression</b> or the <b>Dirty Thirties.</b> In 1933, 27% of the people in Canada did not have a job. Farmers experienced low grain prices and there was not enough rain for the crops to grow.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-History-III/Between-the-Wars/2.png\">Lining up for food during the Dirty 30s, when unemployment was a national problem.</image>\n\nIn the 1930s, people asked the government to help them, by creating minimum wages, a standard work week, and programs such as unemployment insurance. <b>The Bank of Canada</b> was created in 1934. It brought stability to the financial system. In the 1930s, there was not much immigration. Even refugees were not allowed to enter Canada, including Jews who tried to leave Nazi Germany in 1939.\n\n<b>Phil Edwards</b> was a Canadian track and field champion. He won Olympic medals during the years between the wars, in 1928, 1932, and 1936. He was a medical doctor, and become a captain in the Canadian army during World War II. He later became an expert in tropical diseases.</text><questions type=\"ids\">1191,1192,1193,1194,1195,1196</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1191,
+                    "lessonId": 57,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The British Empire become the British Commonwealth of Nations after the First World War.",
+                    "optionsType": "text",
+                    "feedback": "After the First World War, The British Empire became the British Commonwealth of Nations.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1192,
+                    "lessonId": 57,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Canada is a member of the Commonwealth today.",
+                    "optionsType": "text",
+                    "feedback": "Canada is a member of the Commonwealth today. Other countries like India, Australia, New Zealand, and several African and Caribbean countries are also members.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1193,
+                    "lessonId": 57,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Why were the 1920s called the \"Roaring 20s\"?",
+                    "optionsType": "text",
+                    "feedback": "The 1920s were called the Roaring 20s because there were good economic times.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Good economy",
+                        "2 Loud noises",
+                        "3 Wars",
+                        "4 Great Depression"
+                    ]
+                },
+                {
+                    "id": 1194,
+                    "lessonId": 57,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "When and why did the Great Depression start?",
+                    "optionsType": "text",
+                    "feedback": "But in 1929, the stock market crashed, and many people lost their jobs. This led to the Great Depression or the Dirty Thirties.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 In 1929, because the stock market crashed",
+                        "2 In 1933, because the war started",
+                        "3 In 1933, because the stock market crashed",
+                        "4 In 1929, because the war started"
+                    ]
+                },
+                {
+                    "id": 1195,
+                    "lessonId": 57,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "When was the Bank of Canada created?",
+                    "optionsType": "text",
+                    "feedback": "The Bank of Canada was created in 1934.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 1934",
+                        "2 1929",
+                        "3 1829",
+                        "4 1834"
+                    ]
+                },
+                {
+                    "id": 1196,
+                    "lessonId": 57,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Phil Edwards was a Canadian track and field champion.",
+                    "optionsType": "text",
+                    "feedback": "",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 58,
+            "index": 44,
+            "parentId": 50,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "World War II",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>The Second World War began in 1939. Adolf Hitler, the Nazi dictator of Germany, invaded Poland and conquered most of Europe. More than <b>one million Canadians and Newfoundlanders</b> served in the Second World War. (At that time Newfoundland was not a part of Canada) \n\n44,000 <b>Canadians and Newfoundlanders</b> were killed. Canadians died when Canada tried to defend Hong Kong from Japan in 1941. More Canadians died in Dieppe in France in 1942.\n\n<b>The Royal Canadian Air Force (RCAF)</b> was in the Battle of Britain and helped the <b>Allies</b> fight the war. Over 130,000 Allied aircrew were trained in Canada under the British Commonwealth Air Training Plan.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-History-III/World-War-II/1.png\">Three Spitfires, with RCAF markings visible, flying over France. (RCAF 414 Photo Squadron, courtesy Jack Ford).</image>\n\n<b>The Royal Canadian Navy (RCN)</b> did its best work in the Battle of the Atlantic when it protected ships from the German submarines. Canada’s Merchant Navy helped Britain with food, clothing, and supplies. At the end of the Second World War, Canada had the third-largest navy in the world.\n\n<h>Japan in World War II</h>\nJapan was part of the group of countries in World War II that were against Canada. As a result, Japanese Canadians who lived in BC were treated as enemies. They were forced to sell their property and live somewhere else. In other words, they were relocated without a choice. In 1988, the government of Canada apologized to the Japanese Canadians for this action. Japan surrendered on <b>August 14, 1945.</b>\n\n<b>This is the end of the History chapter series. Good job! </b></text><questions type=\"ids\">1197,1198,1199</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1197,
+                    "lessonId": 58,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "How many Canadians and Newfoundlanders served in the Second World War?",
+                    "optionsType": "text",
+                    "feedback": "More than 1 million. Newfoundland became a part of Canada after the war in 1949.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Over 1 million",
+                        "2 Over 4 million",
+                        "3 Over 2 million",
+                        "4 Over 5 million"
+                    ]
+                },
+                {
+                    "id": 1198,
+                    "lessonId": 58,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "RCAF stands for Royal Canadian Air Force.",
+                    "optionsType": "text",
+                    "feedback": "The Royal Canadian Air Force stands for RCAF and was in the Battle of Britain and helped the Allies fight the war.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1199,
+                    "lessonId": 58,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What happened to Japanese Canadians who lived in BC during World War II?",
+                    "optionsType": "text",
+                    "feedback": "Japanese Canadians who lived in BC during World War II were forced to sell their property and live somewhere else. In other words, they were relocated without a choice.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 They were forced to sell their property and live somewhere else",
+                        "2 They were forced to go to war against Japan",
+                        "3 They were forced to join the RCAF and RCN",
+                        "4 They were forced to defend Hong Kong"
+                    ]
+                }
+            ]
+        }
+    ]
+}

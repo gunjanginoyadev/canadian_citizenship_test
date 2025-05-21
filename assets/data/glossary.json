@@ -1,0 +1,473 @@
+{
+    "data": [
+        {
+            "id": 98,
+            "appId": 3,
+            "word": "Aboriginal People",
+            "definition": "Aboriginal People are native people who were living in Canada before Europeans arrived. The first European explorers to arrive thought that they had reached the East Indies. The native people lived off the land. Some hunted and gathered food, and others raised crops.",
+            "example": ""
+        },
+        {
+            "id": 99,
+            "appId": 3,
+            "word": "Aeronautics",
+            "definition": "Aeronautics is the science of designing and building aeroplanes.",
+            "example": ""
+        },
+        {
+            "id": 100,
+            "appId": 3,
+            "word": "Agriculture",
+            "definition": "Farming and the methods that are used to raise and look after crops and animals.",
+            "example": ""
+        },
+        {
+            "id": 101,
+            "appId": 3,
+            "word": "Amended",
+            "definition": "To make minor changes in (a text) in order to make it fairer, more accurate, or more up-to-date.",
+            "example": ""
+        },
+        {
+            "id": 102,
+            "appId": 3,
+            "word": "Anglophones",
+            "definition": "People who speak English as a first language. There are 18 million Anglophones in Canada",
+            "example": ""
+        },
+        {
+            "id": 103,
+            "appId": 3,
+            "word": "Annual",
+            "definition": "Annual events happen once every year.",
+            "example": ""
+        },
+        {
+            "id": 104,
+            "appId": 3,
+            "word": "Assembly",
+            "definition": "Assembly means a group of people gathered together in one place for a common purpose.",
+            "example": ""
+        },
+        {
+            "id": 105,
+            "appId": 3,
+            "word": "Ballot",
+            "definition": "A ballot is a secret vote in which people select a candidate in an election, or express their opinion about something.",
+            "example": ""
+        },
+        {
+            "id": 106,
+            "appId": 3,
+            "word": "Bilateral",
+            "definition": "Involving only the two groups or countries that are directly concerned.",
+            "example": ""
+        },
+        {
+            "id": 107,
+            "appId": 3,
+            "word": "Bilingual",
+            "definition": "Using two languages, especially officially.",
+            "example": ""
+        },
+        {
+            "id": 108,
+            "appId": 3,
+            "word": "Canadian Constitution",
+            "definition": "A Constitution is the system of laws and conventions by which a state governs itself; the basic law of a country; the law of laws.",
+            "example": ""
+        },
+        {
+            "id": 109,
+            "appId": 3,
+            "word": "Colony",
+            "definition": "A country or area under the full or partial political control of another country, typically a distant one, and occupied by settlers from that country.",
+            "example": ""
+        },
+        {
+            "id": 110,
+            "appId": 3,
+            "word": "Compulsory",
+            "definition": "Compulsory means required by law or rules. Mandatory has the same meaning.",
+            "example": ""
+        },
+        {
+            "id": 111,
+            "appId": 3,
+            "word": "Conquer",
+            "definition": "to take complete control of a country's land and resources.",
+            "example": ""
+        },
+        {
+            "id": 112,
+            "appId": 3,
+            "word": "Constitutional Act",
+            "definition": "In 1791, It gave both Upper and Lower Canada the right to have elections, to elect people into a legislative assembly. The name Canada became official at this time.",
+            "example": ""
+        },
+        {
+            "id": 113,
+            "appId": 3,
+            "word": "Constitutional Monarchy",
+            "definition": "A constitutional monarchy is a system of government in which a monarch (king or queen) shares power with a constitutionally organized government. The monarch has rights, duties, and responsibilities for a country. Canada is a constitutional monarchy.",
+            "example": ""
+        },
+        {
+            "id": 114,
+            "appId": 3,
+            "word": "Convention",
+            "definition": "a way in which something is usually done, especially within a particular area or activity.",
+            "example": ""
+        },
+        {
+            "id": 115,
+            "appId": 3,
+            "word": "Defend",
+            "definition": "To take action in order to protect them.",
+            "example": ""
+        },
+        {
+            "id": 116,
+            "appId": 3,
+            "word": "Descendant",
+            "definition": "Someone related to a person or group of people who lived at an earlier time.",
+            "example": ""
+        },
+        {
+            "id": 117,
+            "appId": 3,
+            "word": "Diverse",
+            "definition": "Including or involving people from a range of different social and ethnic backgrounds and of different genders, sexual orientations, etc.",
+            "example": ""
+        },
+        {
+            "id": 118,
+            "appId": 3,
+            "word": "Election",
+            "definition": "A process in which people vote to choose a person or group of people to hold an official position.",
+            "example": ""
+        },
+        {
+            "id": 119,
+            "appId": 3,
+            "word": "Electoral Division",
+            "definition": "For provincial elections, each province or territory is divided into different areas called electoral divisions.",
+            "example": ""
+        },
+        {
+            "id": 120,
+            "appId": 3,
+            "word": "Embody",
+            "definition": "To embody an idea or quality means to be a symbol or expression of that idea or quality.",
+            "example": ""
+        },
+        {
+            "id": 121,
+            "appId": 3,
+            "word": "First Nations",
+            "definition": "First Nations is a term used to describe Indigenous peoples in Canada who are not Métis or Inuit. First Nations people are original inhabitants of the land that is now Canada, and were the first to encounter sustained European contact, settlement and trade.",
+            "example": ""
+        },
+        {
+            "id": 122,
+            "appId": 3,
+            "word": "Fortress",
+            "definition": "A castle or other large strong building, or a well-protected place, which is intended to be difficult for enemies to enter.",
+            "example": ""
+        },
+        {
+            "id": 123,
+            "appId": 3,
+            "word": "Founding Peoples",
+            "definition": "They were the 3 groups of people who helped to start Canada: Aboriginal peoples, the French and the British.",
+            "example": ""
+        },
+        {
+            "id": 124,
+            "appId": 3,
+            "word": "Francophones",
+            "definition": "People who speak French as a first language There are 7 million Francophones in Canada.",
+            "example": ""
+        },
+        {
+            "id": 125,
+            "appId": 3,
+            "word": "Gay",
+            "definition": "A man who prefers to be in a couple with a man is a gay person.",
+            "example": ""
+        },
+        {
+            "id": 126,
+            "appId": 3,
+            "word": "Guilty",
+            "definition": "If someone is guilty of a crime or offence, they have committed that crime or offence.",
+            "example": ""
+        },
+        {
+            "id": 127,
+            "appId": 3,
+            "word": "Habeas Corpus",
+            "definition": "Habeas corpus is the right to challenge unlawful detention by the state which means that if you are arrested by the police and you haven’t done anything illegal, you can challenge the police. It has come from English common law.",
+            "example": ""
+        },
+        {
+            "id": 128,
+            "appId": 3,
+            "word": "Homosexual",
+            "definition": "A person who is sexually attracted to people of their own sex.",
+            "example": ""
+        },
+        {
+            "id": 129,
+            "appId": 3,
+            "word": "Honour",
+            "definition": "An honour is a special award that is given to someone, usually because they have done something good or because they are greatly respected.",
+            "example": ""
+        },
+        {
+            "id": 130,
+            "appId": 3,
+            "word": "Innocent",
+            "definition": "If someone is innocent, they did not commit a crime which they have been accused of.",
+            "example": ""
+        },
+        {
+            "id": 131,
+            "appId": 3,
+            "word": "Insulin",
+            "definition": "Insulin is a substance that most people produce naturally in their body and which controls the level of sugar in their blood.",
+            "example": ""
+        },
+        {
+            "id": 132,
+            "appId": 3,
+            "word": "Invade",
+            "definition": "to enter it by force with an army.",
+            "example": ""
+        },
+        {
+            "id": 133,
+            "appId": 3,
+            "word": "Jury",
+            "definition": "A group of citizens asked by law to give their opinion and judgement on a question submitted in a court of justice.",
+            "example": ""
+        },
+        {
+            "id": 134,
+            "appId": 3,
+            "word": "Kanata",
+            "definition": "Means \"village\" in the Iroquoian language. The name Canada comes from this word.",
+            "example": ""
+        },
+        {
+            "id": 135,
+            "appId": 3,
+            "word": "Landscape",
+            "definition": "Everything you can see when you look across an area of land, including hills, rivers, buildings, trees, and plants.",
+            "example": ""
+        },
+        {
+            "id": 136,
+            "appId": 3,
+            "word": "Legislature",
+            "definition": "The legislature of a particular state or country is the group of people in it who have the power to make and pass laws.",
+            "example": ""
+        },
+        {
+            "id": 137,
+            "appId": 3,
+            "word": "Lesbian",
+            "definition": "A woman who prefers to be in a couple with a woman is a lesbian.",
+            "example": ""
+        },
+        {
+            "id": 138,
+            "appId": 3,
+            "word": "Majority",
+            "definition": "The majority of people or things in a group is more than half of them.",
+            "example": ""
+        },
+        {
+            "id": 139,
+            "appId": 3,
+            "word": "Mandatory",
+            "definition": "Mandatory means required by law or rules. Compulsory has the same meaning.",
+            "example": ""
+        },
+        {
+            "id": 140,
+            "appId": 3,
+            "word": "Merchandise",
+            "definition": "Goods (products) that are bought, sold, or traded.",
+            "example": ""
+        },
+        {
+            "id": 141,
+            "appId": 3,
+            "word": "Migrant",
+            "definition": "A person who moves from one place to another, especially in order to find work or better living conditions.",
+            "example": ""
+        },
+        {
+            "id": 142,
+            "appId": 3,
+            "word": "Minority",
+            "definition": "If you talk about a minority of people or things in a larger group, you are referring to a number of them that forms less than half of the larger group, usually much less than half.",
+            "example": ""
+        },
+        {
+            "id": 143,
+            "appId": 3,
+            "word": "Monarch",
+            "definition": "Monarch is a person (king or queen) who rules over a kingdom. Also known as a sovereign.",
+            "example": ""
+        },
+        {
+            "id": 144,
+            "appId": 3,
+            "word": "Multicultural",
+            "definition": "Relating to several cultural or ethnic groups within a society.",
+            "example": ""
+        },
+        {
+            "id": 145,
+            "appId": 3,
+            "word": "Obey",
+            "definition": "To do what you are told to do.",
+            "example": ""
+        },
+        {
+            "id": 146,
+            "appId": 3,
+            "word": "Parliament",
+            "definition": "According to the Constitution Act, 1867, the term Parliament refers to the Crown, the Senate and the House of Commons — the institutions that together create Canadian laws.",
+            "example": ""
+        },
+        {
+            "id": 147,
+            "appId": 3,
+            "word": "Peace, Order, and Good Government",
+            "definition": "An important expression in the Canadian government is the commitment to Peace, Order, and Good Government. This expression was first used in 1867, in the British North America Act. British North America Act was Canada’s original constitutional document.",
+            "example": ""
+        },
+        {
+            "id": 148,
+            "appId": 3,
+            "word": "Pharmaceuticals",
+            "definition": "Pharmaceutical means connected with the industrial production of medicine.",
+            "example": ""
+        },
+        {
+            "id": 149,
+            "appId": 3,
+            "word": "Preserving",
+            "definition": "If you preserve a situation or condition, you make sure that it remains as it is, and does not change or end.",
+            "example": ""
+        },
+        {
+            "id": 150,
+            "appId": 3,
+            "word": "Presumption",
+            "definition": "A presumption is something that is accepted as true but is not certain to be true.",
+            "example": ""
+        },
+        {
+            "id": 151,
+            "appId": 3,
+            "word": "Quebecers",
+            "definition": "Quebecers are the people of Quebec, the vast majority French-speaking.",
+            "example": ""
+        },
+        {
+            "id": 152,
+            "appId": 3,
+            "word": "Rapid",
+            "definition": "Happening within a short time. speedily.",
+            "example": ""
+        },
+        {
+            "id": 153,
+            "appId": 3,
+            "word": "Referendum",
+            "definition": "If a country holds a referendum on a policy, they ask the people to vote on the policy and show whether they agree with it, or not.",
+            "example": ""
+        },
+        {
+            "id": 154,
+            "appId": 3,
+            "word": "Refugee",
+            "definition": "People who have been forced to leave their homes or their country, either because there is a war there or because of their political or religious beliefs.",
+            "example": ""
+        },
+        {
+            "id": 155,
+            "appId": 3,
+            "word": "Significant",
+            "definition": "A significant amount or effect is large enough to be important or affect a situation to a noticeable degree.",
+            "example": ""
+        },
+        {
+            "id": 156,
+            "appId": 3,
+            "word": "Sovereign",
+            "definition": "Sovereign is a person (king or queen) who rules over a kingdom. Also known as a monarch.",
+            "example": ""
+        },
+        {
+            "id": 157,
+            "appId": 3,
+            "word": "Supremacy",
+            "definition": "The state or condition of being superior (more powerful) to all others in authority, power, or status.",
+            "example": ""
+        },
+        {
+            "id": 158,
+            "appId": 3,
+            "word": "Surrender",
+            "definition": "To stop fighting or resisting someone and agree that you have been beaten.",
+            "example": ""
+        },
+        {
+            "id": 159,
+            "appId": 3,
+            "word": "Territorial Rights",
+            "definition": "In 1763, King George III promised to allow the Aboriginal peoples to have the right to the land on which they lived. These were called territorial rights. But these promises were not always kept. Now the promises to keep Aboriginal and territorial rights are in the Canadian Constitution.",
+            "example": ""
+        },
+        {
+            "id": 160,
+            "appId": 3,
+            "word": "The Great Dominion",
+            "definition": "Poets and songwriters have referred to Canada as the The Great Dominion.",
+            "example": ""
+        },
+        {
+            "id": 161,
+            "appId": 3,
+            "word": "Trophy",
+            "definition": "Prize, for example a silver cup, that is given to the winner of a competition or race.",
+            "example": ""
+        },
+        {
+            "id": 162,
+            "appId": 3,
+            "word": "United Empire Loyalists",
+            "definition": "Settlers who came from the United States to Canada during and after the American Revolution.",
+            "example": ""
+        },
+        {
+            "id": 163,
+            "appId": 3,
+            "word": "Wounded",
+            "definition": "Suffering from injuries especially in a battle or fight.",
+            "example": ""
+        },
+        {
+            "id": 164,
+            "appId": 3,
+            "word": "Head of State",
+            "definition": "The Head of State is a King or Queen (a Sovereign), who helps to maintain the rule of law that is in the Constitution. Our current Head of State is King Charles the Third.",
+            "example": ""
+        }
+    ]
+}

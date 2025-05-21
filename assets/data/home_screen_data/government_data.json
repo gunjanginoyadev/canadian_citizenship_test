@@ -1,0 +1,614 @@
+{
+    "data": [
+        {
+            "id": 68,
+            "index": 54,
+            "parentId": 67,
+            "appId": 3,
+            "audioVersion": 5,
+            "extra": null,
+            "title": "How Canadians Govern Themselves",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text><image url=\"https://wisdom.reev.ca/images/app-3/Government/How-Canadians-Govern-Themselves/1.png\">Colline du Parlement, Wellington Street, Ottawa, ON, Canada. Benoit Debaix.</image>\n\nThere are <b>three important facts</b> about Canada’s system of government:\n\n<b>Canada is a federal state</b>\nThe federal government has different responsibilities than the provinces. There is a national government and legislature for general purposes, with local governments and legislatures for local purposes. Federalism lets the provinces decide what is best for their people. It gives the provinces a chance to try different ideas.\n\n<b>Canada is a parliamentary democracy</b>\nThis means that citizens in Canada can vote in democratic elections. In a democratic election, the person or group which gets more than 50% of the vote can make decisions for the whole group. In other words, they can represent the group. The representatives go to parliament to make laws.\n\n<b>Canada is a constitutional monarchy</b>\nThis means that the monarch (king or queen) has rights, duties, and responsibilities for a country. The constitution of Canada gives information about what the monarch (king or queen) will do for Canada.</text><questions type=\"ids\">1212,1213</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1212,
+                    "lessonId": 68,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which of the following is NOT part of the three key facts about Canada's system of government?",
+                    "optionsType": "text",
+                    "feedback": "Canada is a federal state, a parliamentary democracy, and a constitutional monarchy.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 An absolute monarchy",
+                        "2 A constitutional monarchy",
+                        "3 Canada is a federal state",
+                        "4 A parliamentary democracy"
+                    ]
+                },
+                {
+                    "id": 1213,
+                    "lessonId": 68,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Parliamentary democracy means that citizens in Canada can vote in democratic elections.",
+                    "optionsType": "text",
+                    "feedback": "Canada is a parliamentary democracy means that citizens in Canada can vote in democratic elections.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 69,
+            "index": 55,
+            "parentId": 67,
+            "appId": 3,
+            "audioVersion": 5,
+            "extra": null,
+            "title": "Levels of Government",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>Canada has <b>three levels of government</b>:\n1. <b>Federal</b>\n2. <b>Provincial or territorial</b>\n3. <b>Municipal</b>\n\nThe <b>British North America Act</b> explains the responsibilities of the federal and provincial governments. It is now known as the <b>Constitution Act</b>, 1867. \n\n<image url=\"https://wisdom.reev.ca/images/app-3/Government/Levels-of-Government/1.png\">The British Columbia Parliament Buildings located in Victoria, British Columbia, Canada, and home to the Legislative Assembly of British Columbia.</image>\n\n<h>Federal State</h>\nIn a federal state, the federal government takes responsibility for matters of national and international concern. These include:\n<li>National defence (the army)</li>\n<li>Currency</li>\n<li>Foreign policy</li>\n<li>Citizenship</li>\n<li>The RCMP</li>\n<li>Criminal justice</li>\n<li>International trade</li>\n<li>Aboriginal affairs</li>\n<li>Trading and communications between provinces</li>\n<li>National transportation</li>\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Government/Levels-of-Government/2.jpeg\">Ontario's Capitol Building</image>\n\n<h>Provincial Government</h>\nThe provinces are responsible for:\n<li>Municipal government</li>\n<li>Education</li>\n<li>Health</li>\n<li>Natural resources</li>\n<li>Property</li>\n<li>Civil rights</li>\n<li>Highways</li>\n\nThe federal government and the provinces share jurisdiction over <b>agriculture</b> and <b>immigration</b>. Every province has its own elected <b>Legislative Assembly</b>, like the House of Commons in Ottawa. \n\nThe three northern territories, which have small populations, do not have the status of provinces, but their governments and assemblies carry out many of the same functions.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Government/Levels-of-Government/3.jpeg\">Toronto City Hall</image>\n\n<h>Municipal Government</h>\nMunicipal government (local government) is important to the everyday life of citizens. This government has a council that passes laws that only affect the local community. These laws are called <b>by-laws</b>. The following people are elected at the municipal level of government:\n<li><b>Mayor</b>(or reeve)</li>\n<li><b>Councillors</b>(or aldermen)</li>\n\n<h>Firs‌t Nations Government</h>\nThe First Nations have different names for their elected officials. They have <b>band chiefs</b> and <b>councillors</b> who look after housing, schools, and other services. There are Aboriginal organizations that work together with the government.</text><questions type=\"ids\">1214,1215,1216,1217,1218</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1214,
+                    "lessonId": 69,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the document that explains the responsibilities of the federal and provincial government called?",
+                    "optionsType": "text",
+                    "feedback": "The British North America Act explains the responsibilities of the federal and provincial governments. It is now known as the Constitution Act.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Constitution Act",
+                        "2 Canada Act",
+                        "3 Federal Act",
+                        "4 Municipal Act"
+                    ]
+                },
+                {
+                    "id": 1215,
+                    "lessonId": 69,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which of the following is not a level of government in Canada?",
+                    "optionsType": "text",
+                    "feedback": "Canadian government has federal, provincial (or territorial) and municipal levels",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Community",
+                        "2 Federal",
+                        "3 Provincial (or territorial)",
+                        "4 Municipal"
+                    ]
+                },
+                {
+                    "id": 1216,
+                    "lessonId": 69,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which of the following is the federal government NOT responsible for?",
+                    "optionsType": "text",
+                    "feedback": "Education is a responsibility of Provincial Government.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Education",
+                        "2 National defence (the army)",
+                        "3 Criminal justice",
+                        "4 Aboriginal affairs"
+                    ]
+                },
+                {
+                    "id": 1217,
+                    "lessonId": 69,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The federal government and the provinces share jurisdiction over:",
+                    "optionsType": "text",
+                    "feedback": "The federal government and the provinces share jurisdiction over agriculture and immigration.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Agriculture and Immigration",
+                        "2 Education and Health",
+                        "3 Currency and Property",
+                        "4 International trade and Civil rights"
+                    ]
+                },
+                {
+                    "id": 1218,
+                    "lessonId": 69,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The laws passed by the Municipal government that only affect the local community are called:",
+                    "optionsType": "text",
+                    "feedback": "The laws passed by the Municipal government that only affect the local community are called by-laws.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 By-laws",
+                        "2 Bill",
+                        "3 Act",
+                        "4 Motion"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "index": 56,
+            "parentId": 67,
+            "appId": 3,
+            "audioVersion": 4,
+            "extra": null,
+            "title": "Parliamentary Democracy",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>As you learned before, Canada is a federal state, <b>a parliamentary democracy</b>, and a constitutional monarchy.\n\nPeople elect members to the <b>House of Commons</b> in Ottawa, and to the provincial and territorial legislatures. Each province elects people to serve in their Legislative Assembly. These assemblies are similar to the House of Commons in Ottawa.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Government/Parliamentary-Democracy/1.png\">The House of Commons of Parlia‌ment Building, Ottawa. Wangkun Jia, Dreamstime.</image>\n\nThe three northern territories have small populations and their governments and assemblies do many of the same tasks as the provincial assemblies. The elected representatives help to pass laws, approve expenses, and keep the government accountable. \n\nCabinet ministers must keep the “confidence of the House”. If the elected representatives are no longer confident that the cabinet ministers can do their job, then they can vote. \n\nIf a majority of the elected representatives vote that they are not confident that the cabinet ministers are doing their job, then the government is defeated and an election is held. This is called a <b>non-confidence vote.</b></text><questions type=\"ids\">260,261,262,263</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 260,
+                    "lessonId": 70,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is a parliamentary democracy?",
+                    "optionsType": "text",
+                    "feedback": "People elect members to the House of Commons in Ottawa. The elected representatives help to pass laws, approve expenses, and keep the government accountable.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 When citizens vote in democratic elections, and elected politicians go to parliament to make laws",
+                        "2 When the king or queen elects politicians who go to parliament to make laws",
+                        "3 When the members of parliament elect politicians who go to parliament to make laws",
+                        "4 When the Prime Minister elects politicians who go to parliament to make laws"
+                    ]
+                },
+                {
+                    "id": 261,
+                    "lessonId": 70,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which of the following is NOT a responsibility of elected representatives?",
+                    "optionsType": "text",
+                    "feedback": "The elected representatives help to pass laws, approve expenses, and keep the government accountable.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Give news reports",
+                        "2 Help to pass laws",
+                        "3 Keep the government accountable",
+                        "4 Approve expenses"
+                    ]
+                },
+                {
+                    "id": 262,
+                    "lessonId": 70,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What happens if the majority of elected representatives in the House of Commons vote that they are not confident that cabinet ministers are doing their job?",
+                    "optionsType": "text",
+                    "feedback": "If a majority of the elected representatives vote that they are not confident that the cabinet ministers are doing their job, then the government is defeated and an election is held. This is called a non-confidence vote.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 This leads to an election",
+                        "2 This leads to an argument",
+                        "3 This leads to a referendum",
+                        "4 This leads to a passing a law"
+                    ]
+                },
+                {
+                    "id": 263,
+                    "lessonId": 70,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What does a non-confidence vote lead to?",
+                    "optionsType": "text",
+                    "feedback": "This is called a non-confidence vote. If a majority of the elected representatives vote that they are not confident that the cabinet ministers are doing their job, then the government is defeated and an election is held.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 An election",
+                        "2 Argument",
+                        "3 A referendum",
+                        "4 A passing a law"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 71,
+            "index": 57,
+            "parentId": 67,
+            "appId": 3,
+            "audioVersion": 5,
+            "extra": null,
+            "title": "How Parliament Works",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>Parliament has <b>three parts</b>:\n\n<h>1. The Sov‌ereign (Queen or King)</h>\n<li>His Majesty <b>King Charles III</b> is the Head of State and current Sovereign.</li>\n<li>The <b>Governor General</b> of Canada is the King's representative in Canada.</li>\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Government/How-Parliament-Works/1.png\">Queen Elizabeth reads the throne speech in the Senate chambers on Oct. 18, 1977, officially opening the session of Parliament. Prime Minister Pierre Trudeau sits to the right of the Queen. The Canadian Press.</image>\n\n<h>2. The Senate</h>\n<li>The people who serve in the senate are appointed by the Governor General on the advice of the Prime Minister.</li>\n<li>People who serve in the Senate are called <b>senators</b>.</li>\n<li>They consider and review bills</li>\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Government/How-Parliament-Works/2.png\">The interior of the Senate chamber of the Canadian Parliament. The Hill Times photograph by Jake Wright.</image>\n\n<h>3. The House of Commons</h>\n<li>Canadians elect representatives to the House of Commons.</li>\n<li>The elected representatives are called <b>Members of Parliament (MPs).</b></li>\n<li>The <b>Prime Minister</b> is the <b>leader of the political party</b> with the <b>most</b> elected members of Parliament sitting in the House of Commons.</li>\n<li>They consider and review bills</li>\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Government/How-Parliament-Works/3.jpeg\">House of Commons Chamber. 2015 Library of Parliament. Martin Lipman.</image></text><questions type=\"ids\">1219,1220,1221,1222,1223,1224,1225,1226,1227,1228,1229,1230</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1219,
+                    "lessonId": 71,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who is the King's representative in Canada?",
+                    "optionsType": "text",
+                    "feedback": "The Governor General of Canada is the King's representative in Canada.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Governor General of Canada",
+                        "2 Prime Minister",
+                        "3 Members of Parliament",
+                        "4 Premier"
+                    ]
+                },
+                {
+                    "id": 1220,
+                    "lessonId": 71,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who is the current Sovereign and Head of State?",
+                    "optionsType": "text",
+                    "feedback": "His Majesty King Charles III is the Head of State and the current Sovereign. (See the Transition of the Crown lesson for more information)",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 King Charles III",
+                        "2 Prime Minister",
+                        "3 Members of Parliament",
+                        "4 Queen Elizabeth II"
+                    ]
+                },
+                {
+                    "id": 1221,
+                    "lessonId": 71,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "How are the people in Senate (senators) appointed?",
+                    "optionsType": "text",
+                    "feedback": "The people who serve in the senate are appointed by the Governor General on the advice of the Prime Minister",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 They are appointed by the Governor General on the advice of the Prime Minister",
+                        "2 They are appointed by the Queen on the advice of the Prime Minister",
+                        "3 They are appointed by the Prime Minister on the advice of the Governor General",
+                        "4 They are appointed by the Premier on the advice of the Prime Minister"
+                    ]
+                },
+                {
+                    "id": 1222,
+                    "lessonId": 71,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What are the people who serve in the Senate called?",
+                    "optionsType": "text",
+                    "feedback": "People who serve in the Senate are called senators.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Senators",
+                        "2 Prime Ministers",
+                        "3 Members of Parliament",
+                        "4 Premiers"
+                    ]
+                },
+                {
+                    "id": 1223,
+                    "lessonId": 71,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What are the 3 parts of parliament?",
+                    "optionsType": "text",
+                    "feedback": "The three parts of parliament are the Sovereign, Senate and House of Commons.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The Sovereign, Senate and House of Commons",
+                        "2 The Sovereign, Senate and Municipality",
+                        "3 The Sovereign, Senate and Congress",
+                        "4 The Sovereign, Municipality and Congress"
+                    ]
+                },
+                {
+                    "id": 1224,
+                    "lessonId": 71,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who elects the representatives to the House of Commons?",
+                    "optionsType": "text",
+                    "feedback": "Canadians elect representatives (Members of Parliament) to the House of Commons.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Canadians",
+                        "2 Senators",
+                        "3 Members of Parliament",
+                        "4 The Sovereign"
+                    ]
+                },
+                {
+                    "id": 1225,
+                    "lessonId": 71,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What are the elected representatives also known as?",
+                    "optionsType": "text",
+                    "feedback": "The elected representatives are called Members of Parliament (MPs).",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Members of Parliament",
+                        "2 Members of Senate",
+                        "3 Members of the Sovereign",
+                        "4 Members of Cabinet"
+                    ]
+                },
+                {
+                    "id": 1226,
+                    "lessonId": 71,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who is the leader of the political party with the most elected members of Parliament sitting in the House of Commons?",
+                    "optionsType": "text",
+                    "feedback": "The Prime Minister is the leader of the political party with the most elected members of Parliament sitting in the House of Commons.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Prime Minister",
+                        "2 Premier",
+                        "3 Member of Parliament",
+                        "4 Members of Senate"
+                    ]
+                },
+                {
+                    "id": 1227,
+                    "lessonId": 71,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The responsibility of the House of Commons is to consider and review bills.",
+                    "optionsType": "text",
+                    "feedback": "The House of Commons considers and reviews bills",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1228,
+                    "lessonId": 71,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What two groups consider and review bills?",
+                    "optionsType": "text",
+                    "feedback": "The Senate and the House of Commons consider and review bills.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The Senate and the House of Commons",
+                        "2 The Cabinet and the House of Commons",
+                        "3 The Senate and the Cabinet",
+                        "4 The Cabinet and the Parliament"
+                    ]
+                },
+                {
+                    "id": 1229,
+                    "lessonId": 71,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The Members of Parliament (MPs) are appointed.",
+                    "optionsType": "text",
+                    "feedback": "The Members of Parliament (MPs) are elected by Canadians.",
+                    "type": "true_false",
+                    "options": [
+                        "1 False",
+                        "2 True"
+                    ]
+                },
+                {
+                    "id": 1230,
+                    "lessonId": 71,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Are Senators elected or appointed?",
+                    "optionsType": "text",
+                    "feedback": "The Senators are appointed by the Governor General.",
+                    "type": "true_false",
+                    "options": [
+                        "1 Appointed",
+                        "2 Elected"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "index": 58,
+            "parentId": 67,
+            "appId": 3,
+            "audioVersion": 4,
+            "extra": null,
+            "title": "How a Bill Becomes Law",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>Canadian citizens live in a democracy. They have the right and the responsibility to participate in federal, provincial or territorial, and municipal elections. It is important for Canadians aged 18 or more to vote in elections to participate in their democracy.\r\n\r\nA <b>bill</b> is a proposed (suggested) law that is introduced in either the House of Commons or the Senate. A bill goes through the 7 (seven) following steps before it becomes law:\r\n\r\n<h>STEP 1: First Reading</h>\r\nThe bill is read for the first time by the House of Commons and printed.\r\n\r\n<h>STEP 2: Second Reading</h>\r\nMembers of the House of Commons debate the ideas in the bill.\r\n\r\n<h>STEP 3: Committee Stage</h>\r\nCommittee members study the bill very carefully.\r\n\r\n<h>STEP 4: Report Stage</h>\r\nMembers can make other amendments.\r\n\r\n<h>STEP 5: Third Reading</h>\r\nMembers debate and vote on the bill.\r\n\r\n<h>STEP 6: Senate</h>\r\nThe bill follows a similar process in the Senate.\r\n\r\n<h>STEP 7: Royal Assent</h>\r\nThe bill is approved by the Governor General after it is passed by both Houses (the House of Commons and the Senate).</text><questions type=\"ids\">276,277,278</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 276,
+                    "lessonId": 72,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "How many steps are there before a bill becomes a law?",
+                    "optionsType": "text",
+                    "feedback": "There are 7 steps before a bill becomes a law.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Seven",
+                        "2 Five",
+                        "3 Ten",
+                        "4 Two"
+                    ]
+                },
+                {
+                    "id": 277,
+                    "lessonId": 72,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the process of royal assent?",
+                    "optionsType": "text",
+                    "feedback": "Royal Assent is when a bill is approved by the Governor General after being passed by both Houses.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 When a bill is approved by the Governor General",
+                        "2 When a bill is approved by the Senate",
+                        "3 When a bill is approved by the House of Commons",
+                        "4 When a bill is approved by the Prime Minister"
+                    ]
+                },
+                {
+                    "id": 278,
+                    "lessonId": 72,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "When do Members of the House of Commons debate the ideas in the bill?",
+                    "optionsType": "text",
+                    "feedback": "They debate the ideas in the bill in the Second Reading.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Second Reading",
+                        "2 First Reading",
+                        "3 Committee Stage",
+                        "4 Third Reading"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 73,
+            "index": 59,
+            "parentId": 67,
+            "appId": 3,
+            "audioVersion": 7,
+            "extra": null,
+            "title": "Constitutional Monarchy",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>Canada is a Constitutional monarchy. This means that the <b>Head of State</b> is a King or Queen (a Sovereign), who helps to maintain the rule of law that is in the Constitution.\n\nThe King is a part of the government. He is important to the political process because he is not connected with any one political party, and can unite Canadian citizens. \n\nThe Commonwealth is a group of countries that are loyal to the King. He is the Head of the <b>Commonwealth</b>, and so he connects Canada with the 53 other nations in the Commonwealth.\n\nOther countries which also have constitutional monarchies are Denmark, Norway, Sweden, Australia, New Zealand, The Netherlands, Spain, Thailand, Japan, Jordan, and Morocco.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Government/Constitutional-Monarchy/1.png\">Credit: Alan of depositphotos.</image>\n\nThe <b>Head of State</b> is very different from the <b>Head of Government</b>. The Sovereign (King or Queen) is the Head of State, but the Prime Minister is the Head of Government. The Prime Minister is responsible to provide leadership for the governing of the country.\n\nThe King cannot be in Canada all the time, so the Prime Minister chooses someone who will represent him. This person is called the <b>Governor General</b>, and they usually stay in their position for five years.\n\n<b>David Johnston</b> served as the 28th Governor General from September 2010 to September 2017. <b>Mary Simon</b> is the 30th Governor General. She is the current Governor General of Canada.\n\nEach province has its own representative of the King. This person is called the <b>Lieutenant Governor</b>, and is appointed by the Governor General (on the advice of the Prime Minister). They also serve for five years.</text><questions type=\"ids\">1231,1232,1233,1234,1235,1236,1237,1238</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1231,
+                    "lessonId": 73,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is a constitutional monarchy?",
+                    "optionsType": "text",
+                    "feedback": "Canada is a Constitutional monarchy. This means that the Head of State is a King or Queen (a Sovereign), who helps to maintain the rule of law that is in the Constitution.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 When the Head of State helps to maintain the rule of law that is in the Constitution",
+                        "2 When the Head of State makes the rule of law that is in the Constitution",
+                        "3 When the Head of Government helps to maintain the rule of law that is in the Constitution",
+                        "4 When the Head of Government makes the rule of law that is in the Constitution"
+                    ]
+                },
+                {
+                    "id": 1232,
+                    "lessonId": 73,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the Commonwealth?",
+                    "optionsType": "text",
+                    "feedback": "The Commonwealth is a group of 54 countries that are loyal to the King.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 A group of 54 countries who are loyal to the King",
+                        "2 A group of 54 countries who are loyal to Canada",
+                        "3 A group of 13 countries who are loyal to the Queen",
+                        "4 A group of 13 countries who are loyal to Canada"
+                    ]
+                },
+                {
+                    "id": 1233,
+                    "lessonId": 73,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who is the head of the Commonwealth?",
+                    "optionsType": "text",
+                    "feedback": "His Majesty King Charles III is the Head of State and the current Sovereign.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The King",
+                        "2 The Prime Minister",
+                        "3 The Premier",
+                        "4 The Governor General"
+                    ]
+                },
+                {
+                    "id": 1234,
+                    "lessonId": 73,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The King is important to the political process because he is:",
+                    "optionsType": "text",
+                    "feedback": "The King is important to the political process because he is not connected with any one political party, and can unite Canadian citizens.",
+                    "type": "true_false",
+                    "options": [
+                        "1 Not connected with any political party",
+                        "2 Connected with a political party"
+                    ]
+                },
+                {
+                    "id": 1235,
+                    "lessonId": 73,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The Head of State is the same as the Head of Government.",
+                    "optionsType": "text",
+                    "feedback": "The Sovereign (King or Queen) is the Head of State, but the Prime Minister is the Head of Government.",
+                    "type": "true_false",
+                    "options": [
+                        "1 FALSE",
+                        "2 TRUE"
+                    ]
+                },
+                {
+                    "id": 1236,
+                    "lessonId": 73,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who is the Head of State?",
+                    "optionsType": "text",
+                    "feedback": "The Head of State is a King or Queen (a Sovereign), who helps to maintain the rule of law that is in the Constitution.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The Sovereign (King)",
+                        "2 The Prime Minister",
+                        "3 The Premier",
+                        "4 The Governor General"
+                    ]
+                },
+                {
+                    "id": 1237,
+                    "lessonId": 73,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who is the Head of Government?",
+                    "optionsType": "text",
+                    "feedback": "Prime Minister is the Head of Government, who is responsible to provide leadership for the governing of the country.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The Prime Minister",
+                        "2 The Sovereign (King or Queen)",
+                        "3 The Premier",
+                        "4 The Governor General"
+                    ]
+                },
+                {
+                    "id": 1238,
+                    "lessonId": 73,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who is The King’s representative in Canada?",
+                    "optionsType": "text",
+                    "feedback": "The King’s representative in Canada (federal government) is The Governor General.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The Governor General",
+                        "2 The Prime Minister",
+                        "3 The Sovereign (King or Queen)",
+                        "4 The Premier"
+                    ]
+                }
+            ]
+        }
+    ]
+}

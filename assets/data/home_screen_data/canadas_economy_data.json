@@ -1,0 +1,185 @@
+{
+    "data": [
+        {
+            "id": 99,
+            "index": 85,
+            "parentId": 98,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "A Trading Nation",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>Canada has always been a nation that has a lot of trade. We need trade to keep our standard of living. In <b>1988</b>, Canada started free trade with the United States. In <b>1994</b>, Mexico, U.S.A. and Canada became partners in the <b>North American Free Trade Agreement (NAFTA)</b>. There are over 444 million people in NAFTA, and over $1 trillion dollars of merchandise was traded in 2008.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-Economy/A-Trading-Nation/1.png\">The flags of the United States, Canada and Mexico.</image>\n\nToday, Canada has one of the ten largest economies in the world. It is part of the <b>G8</b>. The G8 has the following countries:\n<li>U.S.A.</li>\n<li>Germany</li>\n<li>United Kingdom</li>\n<li>Italy</li>\n<li>France</li>\n<li>Japan</li>\n<li>Russia</li>\n<li>Canada</li></text><questions type=\"ids\">371,372</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 371,
+                    "lessonId": 99,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "When did Canada start free trade with the United States?",
+                    "optionsType": "text",
+                    "feedback": "In 1988, Canada started free trade with the United States.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 1988",
+                        "2 1888",
+                        "3 1999",
+                        "4 1899"
+                    ]
+                },
+                {
+                    "id": 372,
+                    "lessonId": 99,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who are the three members of NAFTA (North American Free Trade Agreement)?",
+                    "optionsType": "text",
+                    "feedback": "In 1994, Mexico, U.S.A. and Canada became partners in the North American Free Trade Agreement (NAFTA).",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Mexico, U.S.A. and Canada",
+                        "2 Mexico, France and Canada",
+                        "3 Mexico, The UK and Canada",
+                        "4 The UK, U.S.A. and Canada"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 100,
+            "index": 86,
+            "parentId": 98,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "Three Main Industries",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text><h>1. Service Industries</h>\nJobs in the service industry are in the areas of transportation, education, healthcare, construction, banking, communications, retail services, tourism and government. More than 75% of working Canadians now have jobs in service industries.\n\n<h>2. Manufacturing Industries</h>\nThese industries make products to sell in Canada and around the world. Manufactured products include paper, high technology equipment, aerospace technology, automobiles, machinery, food, clothing, and many other goods. Our largest international trading partner is the United States.\n\n<h>3. Natural Resource Industries</h>\nThese industries include forestry, fishing, agriculture, mining and energy. Many parts of Canada need to develop natural resources for their economy. Many of Canada's exports are natural resource commodities.</text><questions type=\"ids\">1277,1278,1279,1280</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1277,
+                    "lessonId": 100,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Canada's economy includes which three main industries?",
+                    "optionsType": "text",
+                    "feedback": "Service, manufacturing and natural resource industries are the three main industries in Canada's economy.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Service, manufacturing and natural resource industries",
+                        "2 Service, manufacturing and oil",
+                        "3 Entertainment, manufacturing and natural resource industries",
+                        "4 Service, manufacturing and finance"
+                    ]
+                },
+                {
+                    "id": 1278,
+                    "lessonId": 100,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What percentage of Canadians currently have jobs in service industries?",
+                    "optionsType": "text",
+                    "feedback": "More than 75% of working Canadians now have jobs in service industries.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 More than 75%",
+                        "2 More than 15%",
+                        "3 More than 50%",
+                        "4 More than 20%"
+                    ]
+                },
+                {
+                    "id": 1279,
+                    "lessonId": 100,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which country is Canada's largest international trading partner?",
+                    "optionsType": "text",
+                    "feedback": "Our largest international trading partner is the United States.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 United States",
+                        "2 Mexico",
+                        "3 France",
+                        "4 United Kingdom"
+                    ]
+                },
+                {
+                    "id": 1280,
+                    "lessonId": 100,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Many of Canada's exports are natural resource commodities.",
+                    "optionsType": "text",
+                    "feedback": "",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 101,
+            "index": 87,
+            "parentId": 98,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "Relationship with the U.S.",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>Canada has a close relationship with the <b>United States</b>. Canada is the U.S.A.’s <b>largest trading partner</b>, and the U.S.A. is Canada’s largest trading partner. Over ¾ of Canada’s exports go to the U.S.A. Canada and the U.S.A. have the largest bilateral trading relationship in the world. Canada exports billions of dollars worth of energy products, industrial goods, machinery, equipment, automotive, agricultural, fishing, and forestry products, and consumer goods every year.\n\nMillions of Canadians and Americans cross the border every year. This border is the world’s <b>longest undefended border</b>.\n\n<h>The Peace Arch</h>\nThe <b>Peace Arch</b> in the U.S.A., in the state of Washington. There are two phrases written on it. They show how Canada and the U.S.A. are closely connected. These phrases compare Canada and the U.S.A:\n<li>“Children of a common mother”</li>\n<li>“Brethren dwelling together in unity” (This means <b>brothers living together in unity</b>)</li></text><questions type=\"ids\">1281,1282,1283</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1281,
+                    "lessonId": 101,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which country is the United States' largest trading partner?",
+                    "optionsType": "text",
+                    "feedback": "Canada has a close relationship with the United States. Canada is the U.S.A.'s largest trading partner, and the U.S.A. is Canada's largest trading partner.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Canada",
+                        "2 Mexico",
+                        "3 China",
+                        "4 Germany"
+                    ]
+                },
+                {
+                    "id": 1282,
+                    "lessonId": 101,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What percentage of the goods that Canada exports go to the United States?",
+                    "optionsType": "text",
+                    "feedback": "Over 3/4 (75%) of Canada's exports go to the U.S.A. Canada and the U.S.A. have the largest bilateral trading relationship in the world.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 75%",
+                        "2 20%",
+                        "3 50%",
+                        "4 15%"
+                    ]
+                },
+                {
+                    "id": 1283,
+                    "lessonId": 101,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which two countries have the largest bilateral trading relationship in the world?",
+                    "optionsType": "text",
+                    "feedback": "Canada and the U.S.A. have the largest bilateral trading relationship in the world.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Canada and the U.S.A",
+                        "2 Mexico and the U.S.A",
+                        "3 The United Kingdom and the U.S.A",
+                        "4 Canada and the United Kingdom"
+                    ]
+                }
+            ]
+        }
+    ]
+}

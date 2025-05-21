@@ -1,0 +1,81 @@
+name: canadian_citizenship
+description: "A new Flutter project."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_bloc:
+  flutter_svg:
+  flutter_staggered_grid_view:
+  provider:
+  flutter_widget_from_html:
+  xml:
+  dots_indicator:
+  percent_indicator:
+  flutter_tts: ^4.2.2
+  intl:
+  table_calendar:
+  shared_preferences:
+  html:
+  carousel_slider:
+  sqflite:
+  flutter_html: ^3.0.0
+  google_mobile_ads: 5.1.0
+  url_launcher:
+  share_plus:
+  webview_flutter:
+  flutter_local_notifications:
+  timezone:
+  flutter_timezone:
+  permission_handler:
+  flutter_localizations:
+    sdk: flutter
+  flutter_email_sender: ^7.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/data/
+    - assets/data/home_screen_data/
+    - assets/data/content/chapter1/
+    - assets/data/content/chapter2/
+    - assets/data/content/chapter3/
+    - assets/data/content/chapter4/
+    - assets/data/content/chapter5/
+    - assets/data/content/chapter6/
+    - assets/data/content/chapter7/
+    - assets/data/content/chapter8/
+    - assets/data/content/chapter9/
+    - assets/data/content/chapter10/
+    - assets/data/content/chapter11/
+    - assets/data/content/chapter12/
+    - assets/data/content/chapter13/
+    - assets/data/content/chapter14/
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins-Light.ttf
+          weight: 300
+        - asset: assets/fonts/Poppins-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700

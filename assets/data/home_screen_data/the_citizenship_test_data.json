@@ -1,0 +1,211 @@
+{
+    "data": [
+        {
+            "id": 2473,
+            "index": 2,
+            "parentId": 17,
+            "appId": 3,
+            "audioVersion": 2,
+            "extra": null,
+            "title": "Get Started",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>Welcome to the <b>Canadian Citizenship Test Preparation App</b> – your comprehensive and interactive guide to learning about Canada's history, values, government, and symbols. We are here to support you every step of the way as you confidently approach your Canadian citizenship test.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/The-Citizenship-Test/Get-Started/get-started-1.png\"/>\n\n<h>Chapters and Lessons</h>\nOur approach makes learning easy by dividing the content into concise chapters and engaging lessons, suitable for learners of all English proficiency levels. Each chapter is designed to help you understand and retain essential information about Canada.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/The-Citizenship-Test/Get-Started/get-started-2.png\"/>\n\n<h>Practice Quizzes</h>\nTo enhance your learning experience, we provide practice quizzes after each lesson to check your understanding. These quizzes will help you retain the material and identify areas that may need further review before moving on to the next chapter.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/The-Citizenship-Test/Get-Started/get-started-3.png\"/>\n\n<h>Audio-Enabled Lessons</h>\nEnhance your learning experience with our audio-enabled lessons. Easily follow each paragraph, word by word, and improve your concentration and retention of the material.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/The-Citizenship-Test/Get-Started/get-started-4.png\"/>\n\n<h>Mock Tests</h>\nPrepare for the actual citizenship test with our comprehensive mock tests. These tests simulate the real test environment and include province-specific questions. Track your results and progress to ensure you're ready for the big day.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/The-Citizenship-Test/Get-Started/get-started-5.png\"/>\n\n<h>Full Word Glossary</h>\nDon't know the meaning of a word? No worries! Access our full content-focused dictionary to improve your vocabulary while studying for your citizenship test. This feature ensures you understand every term and concept in the study material.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/The-Citizenship-Test/Get-Started/get-started-6.png\"/>\n\n<h>Track and Personalize</h>\nYou can easily monitor your progress through the chapters and lessons from the home page. Customize your learning experience by adjusting the font size and lesson display settings to ensure a comfortable and personalized study session.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/The-Citizenship-Test/Get-Started/get-started-7.png\"/>\n\nIn the next lesson, we’ll dive into the specific content covered in the Canadian citizenship test and the types of questions you should expect.</text><questions type=\"ids\"></questions></lesson>",
+            "hasAudio": true,
+            "questions": []
+        },
+        {
+            "id": 18,
+            "index": 3,
+            "parentId": 17,
+            "appId": 3,
+            "audioVersion": 7,
+            "extra": null,
+            "title": "The Oath of Citizenship",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>In Canada, when we make our oath of Citizenship, we promise to be loyal to a person who represents all Canadians, <b>King Charles III</b>. The King is Canada's <b>Head of State</b>. In other countries, becoming a citizen might mean promising loyalty to a constitution or a flag.\n\n<b>\"I swear (or affirm)\nThat I will be faithful\nAnd bear true allegiance\nTo His Majesty\nKing Charles the Third\nKing of Canada\nHis Heirs and Successors\nAnd that I will faithfully observe\nThe laws of Canada\nIncluding the Constitution\nWhich recognizes and affirms\nThe Aboriginal and treaty rights of\nFirst Nations, Inuit and Métis peoples\nAnd fulfil my duties\nAs a Canadian citizen.\"</b>\n\nOther words for a queen or king are a <b>monarch</b> or <b>Sovereign</b>. Canada has a constitution (a set of laws) and a monarch, so Canada is a constitutional monarchy.</text><questions type=\"ids\">974,975,976,977</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 974,
+                    "lessonId": 18,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What are two other words that can be used instead of the words king or queen?",
+                    "optionsType": "text",
+                    "feedback": "Other words for a queen or king are a monarch or Sovereign. Canada has a constitution (a set of laws) and a monarch, so Canada is a constitutional monarchy.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Monarch or Sovereign",
+                        "2 Prince and Princess",
+                        "3 MP or PM",
+                        "4 President and Prime Minister"
+                    ]
+                },
+                {
+                    "id": 975,
+                    "lessonId": 18,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "To whom do Canadians make the oath (promise) of citizenship?",
+                    "optionsType": "text",
+                    "feedback": "In Canada, when we make our oath of Citizenship, we are promising to be loyal to a person who represents all Canadians, King Charles the Third.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 King Charles III",
+                        "2 Prime Minister",
+                        "3 Governor General",
+                        "4 Premier"
+                    ]
+                },
+                {
+                    "id": 976,
+                    "lessonId": 18,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which of the following is NOT another word used to refer to The King?",
+                    "optionsType": "text",
+                    "feedback": "The King is Canada's Head of State. Other words for a queen or king are a monarch or Sovereign.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Premier",
+                        "2 Sovereign",
+                        "3 Monarch",
+                        "4 Head of State"
+                    ]
+                },
+                {
+                    "id": 977,
+                    "lessonId": 18,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who is the person who we make our oath to and represents all Canadians?",
+                    "optionsType": "text",
+                    "feedback": "In Canada, when we make our oath of Citizenship, we are promising to be loyal to a person who represents all Canadians, King Charles the Third.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 King Charles III",
+                        "2 Prime Minister",
+                        "3 Governor General",
+                        "4 Premier"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "index": 4,
+            "parentId": 17,
+            "appId": 3,
+            "audioVersion": 4,
+            "extra": null,
+            "title": "Becoming a Citizen",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>In order to apply for Canadian citizenship you must:\n\n<li>Be over 18 years of age;</li>\n<li>Provide proof that you know how to speak and write in 1 of Canada's official languages (either English or French);</li>\n<li>Be a permanent resident; </li>\n<li>Be <a href=\"https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/eligibility.html#time\">physically present</a> in Canada for 3 years (1,095 days) out of the last 5 years before the day you apply;</li>\n<li>Have filed your taxes for at least 3 years during the last 5 years and any income tax you may owe must be paid.</li>\n\nFor more information you can visit the <a href=\"https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/eligibility.html\">IRCC website</a>.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/The-Citizenship-Test/Becoming-a-Citizen/1.png\">Canadian flag in front of the Parliamen‌t Building on Par‌‌‌‌‌liam‌‌‌e‌‌‌nt Hill in Ottawa.</image>\n\nTo apply for Canadian citizenship, you will need to submit one of these types of documents as proof that you have a good grasp of English or French:\n\n<li><b>Test results from a third party, equivalent to at least CLB/NCLC 4 (speaking and listening)</b>. If you have already submitted these as part of your Skilled Worker or Canadian Experience Class application, you will need to re-submit a copy of them with your Citizenship application.</li>\n\n<li><b>A transcript, diploma or certificate </b>from an English or French secondary or post-secondary school program.</li>\n\n<li><b>Proof you completed a speaking and listening course at level CLB/NCLC 4</b> in a LINC or CLIC course, or from a provincially-funded language training course in Ontario, Manitoba, British Columbia or Quebec.</li>\n\nTo learn more about citizenship test preparation, please read the next lesson.</text><questions type=\"ids\">14</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 14,
+                    "lessonId": 19,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "In order to become a Canadian Citizen, you have to provide proof that you speak and write in:",
+                    "optionsType": "text",
+                    "feedback": "In order to apply for Canadian citizenship, you must provide proof that you know how to speak and write in 1 of Canada's official languages (either English or French).",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1  Either English or French",
+                        "2  Both English and French",
+                        "3  Either Spanish or French",
+                        "4  Either Spanish or English"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "index": 5,
+            "parentId": 17,
+            "appId": 3,
+            "audioVersion": 4,
+            "extra": null,
+            "title": "About Citizenship Test",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text><h>Who has to take the test and go to the interview?</h>\n\nCitizenship applicants have to either take the test or go to the interview, which depends on their age and application.\n\nGenerally, adults ages 18 to 54, would have to take the test and go to interview. Adults 55 and above, as well as minors, would not have to take the test, but may have to go to the interview. You can learn more on the <a href=\"https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/citizenship-test.html\">IRCC website</a>.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/The-Citizenship-Test/About-Citizenship-Test/1.png\"> </image>\n\n<h>What’s on the test?</h>\n\nThe test is designed to test your general knowledge about Canada. There will be 20 questions in multiple-choice format about:\n\n<li>Rights and responsibilities of Canadians</li>\n<li>Canada's history</li>\n<li>Geography</li>\n<li>Economy</li>\n<li>Government</li>\n<li>Laws</li>\n<li>Symbols</li>\n\nThe test questions are based on the official citizenship study guide: <a href=\"https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada.html\">Discover Canada: The Rights and Responsibilities of Citizenship</a>. The test doesn't test your English knowledge, just your knowledge about Canada. \n\n<h>How does the app help?</h>\nThe content of the app is based on <a href=\"https://www.canada.ca/en/immigration-refugees-citizenship/corporate/publications-manuals/discover-canada.html\">Discover Canada: The Rights and Responsibilities of Citizenship</a>, the official citizenship study guide. \nWe've made it easy for you to study the guide by dividing the content into chapters and lessons and providing you with a lot of practice questions, at the end of each lesson and chapter.\nWe've also put together many practice tests with 20 questions and a 30-minute time limit, just like the actual citizenship test. The tests include both multiple-choice and true-and-false questions, just like the actual test.</text><questions type=\"ids\"></questions></lesson>",
+            "hasAudio": true,
+            "questions": []
+        },
+        {
+            "id": 16,
+            "index": 6,
+            "parentId": 17,
+            "appId": 3,
+            "audioVersion": 6,
+            "extra": null,
+            "title": "Taking the Citizenship Test",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text><h>Before the Test</h>\nYou'd receive a notice with the date, time and location of the test, about 1 to 2 weeks before the test date. \n\n<h>The Day of the Test</h>\nMake sure you are prepared for the test and have the following items ready, if applicable: \n<li>the notice asking you to take the test (Notice to Appear)</li>\n<li>your permanent resident (PR) card (if you had one)</li>\n<li>2 pieces of personal identification (ID): 1 piece of ID with your photograph and signature, such as a driver’s licence or health card. Foreign ID documents must be government-issued (Canadian ones don’t need to be government-issued), if not in English or French, provide a translation with an affidavit from the translator</li>\n<li>all your passports and travel documents, current and expired, that you listed on the application form</li>\n<li>a certificate, diploma, degree or transcript that proves your English or French language skills (if you were 18 to 54 years of age when you signed your application)</li>\n<li>other documents you may be asked for in your “Notice to Appear” letter</li>\nFor more information visit <a href=\"https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/citizenship-test.html\">the IRCC website</a> for the latest requirements.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/The-Citizenship-Test/Taking-the-Citizenship-Test/1.jpeg\"> </image>\n\n<h>The citizenship test is:</h>\n<li>in either English or French</li>\n<li>30 minutes long</li>\n<li>20 questions</li>\n<li>in multiple-choice AND true or false format</li>\n\nIn order for you to pass the test, you need to get at least <b>15 correct answers</b> (75%).\n\n<b>Note:</b> Your test is almost always written but may be oral. A citizenship official may decide on test day that you will have an oral test instead of a written one. The test is based on a number of things. For example, if you have trouble reading and writing in English or French, you’ll have an oral test. An oral test is given by a citizenship official at a hearing.\nFor more information visit <a href=\"https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/citizenship-test.html\">the IRCC website</a>.\n\n<h>After You Take the Test</h>\nAfter the test, you’ll meet with a citizenship official for an interview. During the interview, the citizenship official will:\n<li>give you the results of your test, if you had one</li>\n<li>check your language skills, if you’re between 18 and 54 years of age</li>\n<li>verify your application and original documents</li>\n<li>ask any questions they may have about your application</li>\n<li>make sure you meet all the requirements for citizenship</li>\n\n<b>If you pass</b> and meet the other requirements for citizenship, they may:\n<li>give you a ceremony date at the same time we give you the test results or</li>\n<li>email or send you a letter with the date and time of your ceremony</li>\n\n<b>Congratulations!</b>\n\n<b>If you don’t pass</b> your first written test, but meet the other requirements for citizenship, they will schedule you for a second test. The second test usually takes place 4 to 8 weeks after the first test, but it may be longer.\nIf you don’t pass your second test, they'll send you a notice telling you to attend a hearing with a citizenship official. The hearing:\n<li>will last 30 to 90 minutes</li>\n<li>may be in person or by videoconference</li>\n<li>may be used to assess one or more requirements for citizenship, for example, knowledge of Canada, and/or language</li>\n\nIf you don’t pass the test after 3 tries, they'll refuse your application. You can re-apply to try again.</text><questions type=\"ids\">1396,1397,1398,1399</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1396,
+                    "lessonId": 16,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "How many questions are on the Canadian Citizenship test?",
+                    "optionsType": "text",
+                    "feedback": "",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 20 questions",
+                        "2 15 questions",
+                        "3 25 questions",
+                        "4 30 questions"
+                    ]
+                },
+                {
+                    "id": 1397,
+                    "lessonId": 16,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "How much time do you have to do the Canadian Citizenship Test?",
+                    "optionsType": "text",
+                    "feedback": "",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 30 minutes",
+                        "2 20 minutes",
+                        "3 40 minutes",
+                        "4 60 minutes"
+                    ]
+                },
+                {
+                    "id": 1398,
+                    "lessonId": 16,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "How many questions do you need to answer correctly, in order to pass the Canadian Citizenship Test?",
+                    "optionsType": "text",
+                    "feedback": "In order for you to pass the test, you need to get at least 15 correct answers (75%).",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 15 questions",
+                        "2 20 questions",
+                        "3 10 questions",
+                        "4 8 questions"
+                    ]
+                },
+                {
+                    "id": 1399,
+                    "lessonId": 16,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What are the question formats in the Canadian Citizenship Test?",
+                    "optionsType": "text",
+                    "feedback": "",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 multiple-choice and true or false",
+                        "2 multiple-choice and short writing",
+                        "3 true or false and short writing",
+                        "4 multiple-choice only"
+                    ]
+                }
+            ]
+        }
+    ]
+}

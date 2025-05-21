@@ -1,0 +1,573 @@
+{
+    "data": [
+        {
+            "id": 89,
+            "index": 75,
+            "parentId": 88,
+            "appId": 3,
+            "audioVersion": 5,
+            "extra": null,
+            "title": "The Canadian Crown",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>Canada has many important symbols — objects, events, and people that have special meaning. Together they help explain what it means to be Canadian and express our national identity. \n\nWe'll learn about important Canadian symbols throughout this chapter.\n\n<h>The Canadian Crown</h>\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canadian-Symbols/The-Canadian-Crown/1.png\">The Queen visiting Birmingham in July 2012 as part of her Diamond Jubilee tour. Photo West Midlands Police.</image>\n\n<b>The Canadian Crown</b> is not referring to a physical crown, but to the monarchy.\n\nCanada has been a constitutional monarchy since 1867 (Confederation), during the reign of Queen Victoria. \n\nQueen Elizabeth II was the Queen of Canada from 1952 until her passing in 2022. During her reign, she celebrated her Golden Jubilee (50 years as Queen) in 2002 and her Diamond Jubilee (60 years as Queen) in 2012. \n\nThe current monarch is King Charles III, who ascended the throne in 2022.\n\nThe Crown is a symbol of government: Parliament, the legislatures, the courts, police services and the armed forces.</text><questions type=\"ids\">1270,1271,1272</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1270,
+                    "lessonId": 89,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Since when has Canada been a constitutional monarchy?",
+                    "optionsType": "text",
+                    "feedback": "Canada has been a constitutional monarchy since 1867 (Confederation).",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 1867",
+                        "2 1882",
+                        "3 1767",
+                        "4 1667"
+                    ]
+                },
+                {
+                    "id": 1271,
+                    "lessonId": 89,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "When did Queen Elizabeth II’s reign as Canada’s queen begin?",
+                    "optionsType": "text",
+                    "feedback": "Queen Elizabeth II was the Queen of Canada from 1952 until her passing in 2022.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 1952",
+                        "2 1852",
+                        "3 1972",
+                        "4 1872"
+                    ]
+                },
+                {
+                    "id": 1272,
+                    "lessonId": 89,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The Crown is a symbol of government: Parliament, the legislatures, the courts, police services and the armed forces.",
+                    "optionsType": "text",
+                    "feedback": "",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 90,
+            "index": 76,
+            "parentId": 88,
+            "appId": 3,
+            "audioVersion": 4,
+            "extra": null,
+            "title": "Our Flag and The Maple Leaf",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>The Canadian flag we use today was raised on February 15, <b>1965</b> for the first time. The red-white-red pattern comes from the flag of the Royal Military College, Kingston, founded in 1876. \n\nRed and white had been colours of France and England since the Middle Ages and the national colours of Canada since 1921. \n\nThe Union Jack is our official Royal Flag. The Canadian Red Ensign served as the Canadian flag for about 100 years. The provinces and territories also have flags that embody their distinct traditions.\n\n<h>The Maple Leaf</h>\nCanada’s most well known and most respected symbol is the <b>maple leaf</b>.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canadian-Symbols/Our-Flag-and-The-Maple-Leaf/1.png\"> </image>\n\nIt has been used as a symbol of this country for a long time. In the 1700s, French Canadians used the maple leaf as a symbol. In the 1850s, the maple leaf was used on Canadian uniforms and also put on the headstones of soldiers who died in war.</text><questions type=\"ids\">1273,1274,1275</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1273,
+                    "lessonId": 90,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "When was the flag that we use in Canada today first raised on a flagpole?",
+                    "optionsType": "text",
+                    "feedback": "The Canadian flag we use today was first raised on a flagpole on February 15, 1965.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 1965",
+                        "2 1865",
+                        "3 1945",
+                        "4 1845"
+                    ]
+                },
+                {
+                    "id": 1274,
+                    "lessonId": 90,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Where did the red-white-red pattern of the flag come from?",
+                    "optionsType": "text",
+                    "feedback": "The red-white-red pattern comes from the flag of the Royal Military College, Kingston, founded in 1876.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Royal Military College in Kingston",
+                        "2 France Military College in Paris",
+                        "3 England Military College in London",
+                        "4 Ontario Military College in Toronto"
+                    ]
+                },
+                {
+                    "id": 1275,
+                    "lessonId": 90,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is Canada's most well known and most respected symbol?",
+                    "optionsType": "text",
+                    "feedback": "Canada's most well known and most respected symbol is the maple leaf.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The maple leaf",
+                        "2 The crown",
+                        "3 The Coat of Arms",
+                        "4 Hockey"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 118,
+            "index": 77,
+            "parentId": 88,
+            "appId": 3,
+            "audioVersion": 4,
+            "extra": null,
+            "title": "Coat of Arms and Motto",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>After the First World War, Canada chose an official Coat of Arms. The national motto (expression) is A Mari Usque Ad Mare. This is a Latin expression that means <b>from sea to sea</b>. \n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canadian-Symbols/Coat-of-Arms-and-Motto/1.png\">Coat of arms of Canada. The present design of the arms of Canada was drawn by Cathy Bursey-Sabourin, Fraser Herald at the Canadian Heraldic Authority, office of the Governor General of Canada, and faithfully depicts the arms described in the words of the Royal Proclamation dated November 21, 1921. The present design was approved in 1994.</image>\n\nIt refers to the large size of Canada from one ocean to another. The arms also contain symbols of England, France, Scotland and Ireland, as well as red maple leaves. You can find this coat of arms on dollar bills, government documents and public buildings. It is also called the Royal Arms of Canada.</text><questions type=\"ids\">1276</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1276,
+                    "lessonId": 118,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What does the Latin phrase \"A Mari Usque Ad Mare\" mean?",
+                    "optionsType": "text",
+                    "feedback": "The national motto (expression) is A Mari Usque Ad Mare. This is a Latin expression which means from sea to sea.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 From sea to sea",
+                        "2 Red maple leaves",
+                        "3 The gold crowns",
+                        "4 The public buildings"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 92,
+            "index": 78,
+            "parentId": 88,
+            "appId": 3,
+            "audioVersion": 4,
+            "extra": null,
+            "title": "The Parliament Buildings",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>The people who built the <b>parliament buildings</b> used architecture from French, English and Aboriginal traditions. They also have a Gothic style of architecture which was popular during the time of Queen Victoria. \n\nThe buildings were completed in the 1860s. In 1916, there was an accidental fire. The Centre Block was rebuilt in 1922. The only part of the building that is still left from the original building is the library. In 1927, the Peace Tower was completed to <b>remember the soldiers who died in World War I</b>.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canadian-Symbols/The-Parliament-Buildings/1.png\">Colline du Parlement, Wellington Street, Ottawa, ON, Canada.</image>\n\nThere are Books of Remembrance in the Memorial Chamber (room) inside the Peace Tower. All of the names of the soldiers, sailors and airmen who died while serving Canada in war or on duty are written in these books.\n\nThe provincial legislature buildings have <b>beautiful architecture</b>. The Quebec National Assembly has a French style, and the other legislatures are Baroque, Roman, and neoclassical. Democracy started in Greek and Roman times. These building styles show Western civilizations: Greek and Roman heritage.</text><questions type=\"ids\">348</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 348,
+                    "lessonId": 92,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What does the Peace Tower help Canadians to remember?",
+                    "optionsType": "text",
+                    "feedback": "In 1927, the Peace Tower was completed to remember the soldiers who died in World War I.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The soldiers who died in World War I",
+                        "2 The royal family",
+                        "3 The maple leaf",
+                        "4 The building's architecture"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 93,
+            "index": 79,
+            "parentId": 88,
+            "appId": 3,
+            "audioVersion": 4,
+            "extra": null,
+            "title": "The Beaver",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>The Hudson’s Bay Company used the <b>beaver</b> as a symbol many centuries ago. \n\nIn 1834, the beaver became an emblem of a French-speaking patriotic association, the St. Jean Baptiste Society, as well as other groups.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canadian-Symbols/The-Beaver/1.png\"> </image>\n\nThis animal is hard-working. It is in the rodent family, which means it is related to rats and mice. <b>It is on the five-cent coin</b> and is on the coats of arms of Saskatchewan and Alberta, and on the coats of arms used by the cities of Montreal and Toronto.</text><questions type=\"ids\">349</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 349,
+                    "lessonId": 93,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What animal is on the five-cent coin?",
+                    "optionsType": "text",
+                    "feedback": "The beaver is on the five-cent coin.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The beaver",
+                        "2 The goose",
+                        "3 The moos",
+                        "4 The seagull"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 94,
+            "index": 80,
+            "parentId": 88,
+            "appId": 3,
+            "audioVersion": 4,
+            "extra": null,
+            "title": "Sports in Canada",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text><b>Hockey</b> is Canada’s national <b>winter sport</b> and Canada’s most popular spectator sport. Ice hockey was developed in the 1800s. \n\nTeams in the National Hockey League (NHL) compete to win the <b>Stanley Cup</b> championship. This cup was donated by Lord Stanley, the Governor General, in 1892. \n\nAnother Governor General, Adrienne Clarkson was the first Governor General of Asian origin. She started the Clarkson Cup, which is given in women’s hockey. Many young Canadians like to play hockey. Canadian children have collected hockey cards for generations. \n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canadian-Symbols/Sports-in-Canada/1.png\"> </image>\n\nThe <b>Montreal Canadiens</b> are a hockey team in the NHL. They won the Stanley Cup in 1978.\n\n<b>Canadian football</b> is the second most popular sport in Canada.\n\n<b>Curling</b> is a popular ice game introduced by Canada’s Scottish pioneers.\n\nThe official <b>summer sport</b> is <b>lacrosse</b>. It was first played by Aboriginals.\n\n<b>Soccer</b> has the most registered players of any game in Canada</text><questions type=\"ids\">355,356,357,358,359,360,361,362</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 355,
+                    "lessonId": 94,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who donated the National Hockey League (NHL) championship Stanley Cup?",
+                    "optionsType": "text",
+                    "feedback": "The Stanley Cup was donated by Lord Stanley, the Governor General, in 1892.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Lord Stanley",
+                        "2 Adrienne Clarkson",
+                        "3 The Queen",
+                        "4 Justin Trudeau"
+                    ]
+                },
+                {
+                    "id": 356,
+                    "lessonId": 94,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Adrienne Clarkson was the first Governor General of Asian origin.",
+                    "optionsType": "text",
+                    "feedback": "",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 357,
+                    "lessonId": 94,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the second most popular sport in Canada?",
+                    "optionsType": "text",
+                    "feedback": "Canadian football is the second most popular sport in Canada.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Canadian football",
+                        "2 Hockey",
+                        "3 Basketball",
+                        "4 Lacrosse"
+                    ]
+                },
+                {
+                    "id": 358,
+                    "lessonId": 94,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the most popular sport in Canada?",
+                    "optionsType": "text",
+                    "feedback": "Canada's most popular spectator sport is Hockey, which also is the country's national winter sport.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Hockey",
+                        "2 Canadian football",
+                        "3 Basketball",
+                        "4 Lacrosse"
+                    ]
+                },
+                {
+                    "id": 359,
+                    "lessonId": 94,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is Canada's national winter sport?",
+                    "optionsType": "text",
+                    "feedback": "Hockey is Canada's national winter sport.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Hockey",
+                        "2 Canadian football",
+                        "3 Basketball",
+                        "4 Lacrosse"
+                    ]
+                },
+                {
+                    "id": 360,
+                    "lessonId": 94,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is a popular ice game introduced by Canada's Scottish pioneers?",
+                    "optionsType": "text",
+                    "feedback": "Curling is a popular ice game introduced by Canada's Scottish pioneers.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Curling",
+                        "2 Canadian football",
+                        "3 Basketball",
+                        "4 Lacrosse"
+                    ]
+                },
+                {
+                    "id": 361,
+                    "lessonId": 94,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the official summer sport in Canada which was also first played by Aboriginals?",
+                    "optionsType": "text",
+                    "feedback": "The official summer sport is lacrosse. It was first played by Aboriginals.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Lacrosse",
+                        "2 Curling",
+                        "3 Canadian football",
+                        "4 Basketball"
+                    ]
+                },
+                {
+                    "id": 362,
+                    "lessonId": 94,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which sport has the most registered players of any game in Canada?",
+                    "optionsType": "text",
+                    "feedback": "Soccer has the most registered players of any game in Canada.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Soccer",
+                        "2 Curling",
+                        "3 Canadian football",
+                        "4 Hockey"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 95,
+            "index": 81,
+            "parentId": 88,
+            "appId": 3,
+            "audioVersion": 4,
+            "extra": null,
+            "title": "Canada's Official Languages",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text><b>English</b> and <b>French</b> are the two official languages and are important symbols of Canadian identity. English speakers (Anglophones) and French speakers (Francophones) have lived together for over 300 years, sometimes in peace and sometimes in conflict.\n\nYou must have enough knowledge of either English or French to become a Canadian citizen. Adults who are 55 years or older do not need to be able to speak English or French to become a Canadian citizens.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canadian-Symbols/Canada-Official-Languages/1.png\"> </image>\n\nThe <b>Official Languages Act</b> was passed by Parliament in 1969. It does three things:\n<li>Establishes equality between English and French in Parliament, the Government of Canada and institutions which have to obey the Official Languages Act</li>\n<li>Maintains and develops official minority communities in Canada</li>\n<li>Promotes equality of English and French in Canadian society</li></text><questions type=\"ids\">351,352,353,354</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 351,
+                    "lessonId": 95,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What are the two official languages of Canada?",
+                    "optionsType": "text",
+                    "feedback": "English and French are the two official languages and are important symbols of Canadian identity.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 English and French",
+                        "2 English and Spanish",
+                        "3 Spanish and French",
+                        "4 Spanish and German"
+                    ]
+                },
+                {
+                    "id": 352,
+                    "lessonId": 95,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "When was the Official Languages Act passed by parliament?",
+                    "optionsType": "text",
+                    "feedback": "The Official Languages Act was passed by Parliament in 1969.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 1969",
+                        "2 1769",
+                        "3 1869",
+                        "4 2009"
+                    ]
+                },
+                {
+                    "id": 353,
+                    "lessonId": 95,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The Official Languages Act establishes equality between English and French in Parliament and the Government of Canada",
+                    "optionsType": "text",
+                    "feedback": "The Official Languages Act was passed by Parliament in 1969. It establishes equality between English and French in Parliament, the Government of Canada, and institutions that have to obey the Official Languages Act.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 354,
+                    "lessonId": 95,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The Official Languages Act promotes the English language in the Canadian society.",
+                    "optionsType": "text",
+                    "feedback": "The Official Languages Act was passed to promote equality of English and French in Canadian society.",
+                    "type": "true_false",
+                    "options": [
+                        "1 False",
+                        "2 True"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 96,
+            "index": 82,
+            "parentId": 88,
+            "appId": 3,
+            "audioVersion": 5,
+            "extra": null,
+            "title": "The Anthems",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text><h>The National Anthem</h>\n\nO Canada was proclaimed as the National Anthem in 1980. It was first sung in Quebec City in 1880. There are three versions of the National Anthem: English, French and bilingual (part of the anthem is sung in English, part is sung in French).\n\n<a href=\"https://www.youtube.com/watch?v=kRPGPAnPNa8\">Listen to O Canada here!</a>\n<b>O Canada! Our home and native land!</b>\n<b>True patriot love in all of us command</b>\n<b>With glowing hearts we see thee rise</b>\n<b>The true North strong and free!</b>\n<b>From far and wide, O Canada</b>\n<b>We stand on guard for thee</b>\n<b>God keep our land glorious and free!</b>\n<b>O Canada, we stand on guard for thee</b>\n<b>O Canada, we stand on guard for thee</b>\n\n<h>The Royal Anthem</h>\nThe Royal Anthem of Canada, “God Save the King (or Queen)”, can be played or sung on any occasion when Canadians wish to honour the Sovereign.\n\n<b>God save our gracious King\nLong live our noble King,\nGod save The King:\nSend him victorious,\nHappy and glorious,\nLong to reign over us:\nGod save The King.</b>\n\nThe Royal Anthem, “God Save the King,” is a traditional song that also acts as the national anthem of the United Kingdom. While the traditional song is English, there is also a French and a bilingual version for official use in Canada.</text><questions type=\"ids\">363,364,365</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 363,
+                    "lessonId": 96,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Where was O Canada first sung?",
+                    "optionsType": "text",
+                    "feedback": "O Canada was proclaimed as the National Anthem in 1980. It was first sung in Quebec City in 1880.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 In Quebec City",
+                        "2 In Montreal",
+                        "3 In Toronto",
+                        "4 In Vancouver"
+                    ]
+                },
+                {
+                    "id": 364,
+                    "lessonId": 96,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "How many versions of O Canada are there?",
+                    "optionsType": "text",
+                    "feedback": "There are three versions of the National Anthem: English, French and bilingual (part of the anthem is sung in English, part is sung in French).",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Three",
+                        "2 Two",
+                        "3 One",
+                        "4 Four"
+                    ]
+                },
+                {
+                    "id": 365,
+                    "lessonId": 96,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Why would you play the Royal Anthem of Canada?",
+                    "optionsType": "text",
+                    "feedback": "The Royal Anthem of Canada, can be played or sung on any occasion when Canadians wish to honour the Sovereign.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 To honour the Sovereign",
+                        "2 To honour Canada",
+                        "3 To honour the soldiers",
+                        "4 To honour the Canadian people"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 97,
+            "index": 83,
+            "parentId": 88,
+            "appId": 3,
+            "audioVersion": 4,
+            "extra": null,
+            "title": "Honours in Canada",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text><h>The Order of Canada</h>\nCountries like to award citizens who are outstanding. These official awards are honours and are divided in the following groups: <b>orders, decorations</b>, and <b>medals</b>. Canada used to use the British honour system, but now it has its own system. The <b>Order of Canada</b> was started in 1967, one hundred years after Confederation. You can nominate a person who you think deserves honour.\n\nThe <b>Governor General</b> presents honours and awards on behalf of all Canadians to citizens that Canada wants to honour. Orders recognize significant achievements and remarkable service. The Governor General gave the Order of Canada to <b>Oscar Peterson</b> in 1973. He was a jazz pianist.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canadian-Symbols/Honours-in-Canada/1.png\">The Victoria Cross.</image>\n\n<h>The Victoria Cross</h>\nThe Canadian honour system has orders, decorations and medals. <b>The Victoria Cross is the highest honour that can be given to a Canadian</b>. It is a Military Valour decoration. This means that it is given for a brave action or self-sacrifice or extremely loyal service to Canada during war. Ninety-six Canadians have received the Victoria Cross since 1854.</text><questions type=\"ids\">366,367,368,369,370</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 366,
+                    "lessonId": 97,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What are three groups of awards that honour Canadians?",
+                    "optionsType": "text",
+                    "feedback": "Awards honour outstanding citizens and are divided in the following groups: orders, decorations, and medals.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Orders, decorations, and medals",
+                        "2 Orders, decorations, and prizes",
+                        "3 Orders, decorations, and cups",
+                        "4 Orders, decorations, and gifts"
+                    ]
+                },
+                {
+                    "id": 367,
+                    "lessonId": 97,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "When was the Order of Canada started?",
+                    "optionsType": "text",
+                    "feedback": "The Order of Canada was started in 1967, one hundred years after Confederation.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 1967",
+                        "2 1867",
+                        "3 1767",
+                        "4 2007"
+                    ]
+                },
+                {
+                    "id": 368,
+                    "lessonId": 97,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the highest honour that Canadians can receive?",
+                    "optionsType": "text",
+                    "feedback": "The Victoria Cross is the highest honour that can be given to a Canadian.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The Victoria Cross",
+                        "2 The George Cross",
+                        "3 The Elizabeth Cross",
+                        "4 The Edward Cross"
+                    ]
+                },
+                {
+                    "id": 369,
+                    "lessonId": 97,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The Victoria Cross is given for a brave action or self-sacrifice or extremely loyal service to Canada during war.",
+                    "optionsType": "text",
+                    "feedback": "",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 370,
+                    "lessonId": 97,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Ninety-six Canadians have received the Victoria Cross since 1854.",
+                    "optionsType": "text",
+                    "feedback": "",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                }
+            ]
+        }
+    ]
+}

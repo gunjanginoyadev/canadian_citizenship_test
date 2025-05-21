@@ -1,0 +1,493 @@
+{
+    "data": [
+        {
+            "id": 60,
+            "index": 46,
+            "parentId": 59,
+            "appId": 3,
+            "audioVersion": 5,
+            "extra": null,
+            "title": "Trade and Economic Growth",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>After World War II, Canada grew economically. Treaties like the General Agreement on Tariffs and Trade were formed, which is now known as the World Trade Organization (WTO).\n\n<h>Oil and Energy </h>\nOil was discovered in Alberta in 1947. This started Canada's modern energy industry. In 1951, for the first time, most Canadians were able to afford enough food, clothing, and housing. Between 1945 and 1970, Canada became a strong nation and often traded with the United States. Today Canadians enjoy one of the world’s highest standards of living. <b>The U.S.A. is Canada’s largest trading partner.</b>\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Modern-Canada/Trade-and-Economic-Growth/1.jpeg\">Oil refineries in Montreal, Canada.</image>\n\n<h>Social Assistance Programs</h>\nThe <b>Canada Health Act</b> helps all Canadians to get basic healthcare. \nInsurance to help people who lost their job used to be called <b>Unemployment Insurance</b>. It is now called <b>Employment Insurance (E.I.).</b> It was started in 1940. Ideas for Old Age security started in 1927, and the Canada and Quebec Pension plans started in 1965. <b>All provinces and territories have publically-funded education.</b></text><questions type=\"ids\">227,228,229,230</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 227,
+                    "lessonId": 60,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Where was oil discovered in 1947?",
+                    "optionsType": "text",
+                    "feedback": "Oil was discovered in Alberta in 1947.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Alberta",
+                        "2 Ontario",
+                        "3 Quebec",
+                        "4 Nova Scotia"
+                    ]
+                },
+                {
+                    "id": 228,
+                    "lessonId": 60,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "When did Employment Insurance start?",
+                    "optionsType": "text",
+                    "feedback": "Employment Insurance (EI) started in 1940.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 1940",
+                        "2 1947",
+                        "3 1999",
+                        "4 1990"
+                    ]
+                },
+                {
+                    "id": 229,
+                    "lessonId": 60,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Ideas for Old Age Security started in 1927",
+                    "optionsType": "text",
+                    "feedback": "Ideas for Old Age security started in 1927, and the Canada and Quebec Pension plans started in 1965.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 230,
+                    "lessonId": 60,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Canadian provinces and territories do not have publically-funded education.",
+                    "optionsType": "text",
+                    "feedback": "All provinces and territories have publically-funded education.",
+                    "type": "true_false",
+                    "options": [
+                        "1 False",
+                        "2 True"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 61,
+            "index": 47,
+            "parentId": 59,
+            "appId": 3,
+            "audioVersion": 4,
+            "extra": null,
+            "title": "International Engagement",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text><h>NATO and NORAD</h>\nDuring the Cold War, dictator Josef Stalin, leader of the Soviet Union, controlled several countries in Eastern Europe that had become part of a Communist bloc. \nCanada joined with other democratic countries of the West to form the <b>North Atlantic Treaty Organization (NATO)</b>, a military alliance, and with the United States in the <b>North American Aerospace Defence Command (NORAD)</b>.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Modern-Canada/International-Engagement/1.jpeg\">UN flag at the Calgary War Museums. Sanjit Bakshi.</image>\n\n<h>The UN</h>\nCanada also is part of international organizations such as the United Nations (UN). It participated in the UN fight to defend South Korea in the Korean War from 1950 to 1953. Five hundred Canadians died in the war, and 1,000 more Canadians were wounded. Canada has also taken part in many other UN missions.</text><questions type=\"ids\">1200,1201</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1200,
+                    "lessonId": 61,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Canada is part of the NATO military alliance.",
+                    "optionsType": "text",
+                    "feedback": "Canada joined with other democratic countries of the West to form the North Atlantic Treaty Organization (NATO).",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1201,
+                    "lessonId": 61,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Canada is part of international organizations such as the United Nations (UN).",
+                    "optionsType": "text",
+                    "feedback": "Canada also is part of international organizations such as the United Nations (UN) and has also taken part in many UN missions.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 62,
+            "index": 48,
+            "parentId": 59,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "Canada and Quebec",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text><h>Quiet Revolution</h>\nQuebec experienced a time of rapid change in the 1960s. This was called the <b>Quiet Revolution.</b> Many Quebecers tried to separate from Canada. In 1963, the government started the Royal Commission on Bilingualism and Biculturalism. As a result, in 1969, French-language rights and services were promised in the <b>Official Languages Act</b>. In 1970, Canada helped to start (found) <b>La Francophonie</b>, an international association of French-speaking countries.\n\n<h>Quebec Referendums</h>\nIn 1980 and 1995, Quebec had <b>referendums</b> in which they asked the people of Quebec if they wanted to leave Canada or stay in Canada. Both times, more people in Quebec voted to stay in Canada. This topic is still an important and difficult topic for Canada.</text><questions type=\"ids\">1202,1203,1204</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1202,
+                    "lessonId": 62,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What was an era of rapid change in Quebec when many Quebecers tried to separate from Canada called?",
+                    "optionsType": "text",
+                    "feedback": "Many Quebecers tried to separate from Canada in 1960s. This was called the Quiet Revolution.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The Quiet Revolution",
+                        "2 La Francophonie",
+                        "3 Official Languages Era",
+                        "4 The Bilingual Revolution"
+                    ]
+                },
+                {
+                    "id": 1203,
+                    "lessonId": 62,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What was promised in the Official Languages Act in 1969?",
+                    "optionsType": "text",
+                    "feedback": "The government started the Royal Commission on Bilingualism and Biculturalism and in 1969, French-language rights and services were promised in the Official Languages Act.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 French-language rights and services in the federal government",
+                        "2 English-language rights and services in the federal government",
+                        "3 French-language rights and services in Quebec",
+                        "4 French-language rights and services in French-speaking countries"
+                    ]
+                },
+                {
+                    "id": 1204,
+                    "lessonId": 62,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Quebec had referendums in which they asked the people of Quebec if they wanted to leave Canada or stay in Canada.",
+                    "optionsType": "text",
+                    "feedback": "In 1980 and 1995, Quebec had referendums in asking the people if they wanted to leave Canada or stay in Canada",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 63,
+            "index": 49,
+            "parentId": 59,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "A Changing Society",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>As social values changed over more than 50 years, Canada became a more flexible and <b>open society</b>. Canadians believe in the <b>equality of men and women</b>. Many women started to work outside the home, and they started to go to university and college.\n\nIn the past, Canadians who came from Asia were not allowed to <b>vote</b> in federal and provincial elections. In 1948, Japanese-Canadians were allowed to vote. Aboriginal people were allowed to vote in 1960. <b>Today, every citizen over the age of 18 may vote.</b>\n\nCanada allowed <b>refugees</b> who wanted to leave Communism (e.g. from Hungary) to settle in Canada in 1956. In the 1960s, immigrants could be from any part of the world, and there was no more special treatment given to European immigrants. After 1975, over 50,000 Vietnamese who wanted to leave Communist North Vietnam came as refugees to Canada.\n\nBy the 1960s, the idea of <b>multiculturalism</b> was starting. At this time, many immigrants were coming from countries that were neither British nor French. <b>Canada is a land of many cultures.</b></text><questions type=\"ids\">236,237,238</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 236,
+                    "lessonId": 63,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "In 1948, what were Japanese-Canadians finally allowed to do?",
+                    "optionsType": "text",
+                    "feedback": "In 1948, Japanese-Canadians were allowed to vote.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Allowed to vote",
+                        "2 Allowed to go to university and college",
+                        "3 Allowed to go to speak French",
+                        "4 Allowed to go to emigrate"
+                    ]
+                },
+                {
+                    "id": 237,
+                    "lessonId": 63,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "When were Aboriginal people allowed to vote?",
+                    "optionsType": "text",
+                    "feedback": "Aboriginal people were allowed to vote in 1960.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 1960",
+                        "2 1920",
+                        "3 1999",
+                        "4 1948"
+                    ]
+                },
+                {
+                    "id": 238,
+                    "lessonId": 63,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The Multiculturalism idea started in the 1960s in Canada.",
+                    "optionsType": "text",
+                    "feedback": "By the 1960s, the idea of multiculturalism was starting.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 64,
+            "index": 50,
+            "parentId": 59,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "Arts and Culture in Canada",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text><h>The Group of Seven</h>\nThe most famous Canadian visual artists are <b>the Group of Seven</b>. The Group of Seven was a group of Canadian landscape painters in the 1920s who painted the wilderness in Canada. Other painters were associated with this group. In British Columbia (BC), Emily Carr painted images from Aboriginal culture and the West Coast forests. Tom Thomson painted the painting called <b>The Jack Pine</b>.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Modern-Canada/Arts-and-Culture-in-Canada/1.png\">Arthur Lismer, Quebec Village (Saint-Hilarion) (detail), 1926, oil on canvas. Gift of H. S. Southam, 1949 (00-094)</image>\n\n<h>Noble Canadian Artists</h>\nIn Quebec, the most famous abstract art painter was Jean-Paul Riopelle. He was part of the group from Quebec called <b>Les Automatistes</b>.\n<b>Louis-Philippe Hébert</b> was a famous sculptor from Quebec who made historical sculptures.\n<b>Kenojuak Ashevak</b> was A famous Inuit artist. She made modern Inuit art, like prints and soapstone sculptures.\nSome award-winning Canadian filmmakers are <b>Denys Arcand, Norman Jewison</b> and <b>Atom Egoyan.</b></text><questions type=\"ids\">1205,1206,1207</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1205,
+                    "lessonId": 64,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "A group of Canadian landscape painters in the 1920s who painted the wilderness in Canada was called:",
+                    "optionsType": "text",
+                    "feedback": "The most famous Canadian visual artists are the Group of Seven who painted the wilderness.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The Group of Seven",
+                        "2 The Group of Five",
+                        "3 The Group of Two",
+                        "4 The Group of Ten"
+                    ]
+                },
+                {
+                    "id": 1206,
+                    "lessonId": 64,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who painted the The Jack Pine?",
+                    "optionsType": "text",
+                    "feedback": "Tom Thomson painted the painting called The Jack Pine.",
+                    "type": "true_false",
+                    "options": [
+                        "1 Tom Thomson",
+                        "2 Norman Jewison"
+                    ]
+                },
+                {
+                    "id": 1207,
+                    "lessonId": 64,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What did Denys Arcand, Norman Jewison and Atom Egoyan win awards for?",
+                    "optionsType": "text",
+                    "feedback": "Some Canadian filmmakers are Denys Arcand, Norman Jewison and Atom Egoyan, who have all won awards for their work.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Filmmaking",
+                        "2 Sculpting",
+                        "3 Painting",
+                        "4 Singing"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 65,
+            "index": 51,
+            "parentId": 59,
+            "appId": 3,
+            "audioVersion": 4,
+            "extra": null,
+            "title": "Sports in Canada",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>Sports have flourished as all provinces and territories have produced amateur and professional star athletes and Olympic medal winners.\n\n<h>Hockey</h>\n<b>Hockey</b> is the most popular spectator sport in Canada and is also the country's national winter sport. One of the greatest hockey players of all time is <b>Wayne Gretzky</b>, who played for the Edmonton Oilers.\nIn 1972, Canada's hockey team was playing against the Soviets. Paul Henderson scored the winning goal for Canada, which was an important event in sports and cultural history.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Modern-Canada/Sports-in-Canada/1.png\"> </image>\n\n<h>Canadian Football</h>\n<b>Canadian Football</b> is a popular game that is different from American football, and from soccer. Professional teams in the Canadian Football League (CFL) try to win the Grey Cup. This trophy was donated by Lord Grey, who was the Governor General in 1909.\n\n<h>Famous Canadian Athletes</h>\n<b>Basketball</b> was invented by James Naismith in 1891.\n<b>Catriona Le May Doan</b> won a gold medal in speed skating at the 2002 Olympic Winter Games.\n<b>Donovan Bailey</b> was a double Olympic gold medalist and a world record sprinter.\n<b>Mark Tewksbury</b> was an Olympic gold medalist. He was an important activist for gay and lesbian Canadians.\n<b>Chantal Petitclerc</b> became a world wheelchair racer and Paralympic champion.\n\n<h>Marathon of Hope</h>\nIn 1980, Terry Fox, a British Columbian lost his right leg to cancer at the age of 18. He began a cross-country run, the <b>Marathon of Hope</b>, to raise money for cancer research.\nHe did not finish the run because he died from cancer, but every year fundraising continues in his name.\n<b>Rick Hansen</b>, went around the world in his wheelchair to raise money for spinal cord research.</text><questions type=\"ids\">242,243,244,245,246,247,248</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 242,
+                    "lessonId": 65,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the most popular spectator sport of Canada?",
+                    "optionsType": "text",
+                    "feedback": "Hockey is the most popular spectator sport in Canada and is also the country's national winter sport.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Hockey",
+                        "2 Basketball",
+                        "3 Football",
+                        "4 Skating"
+                    ]
+                },
+                {
+                    "id": 243,
+                    "lessonId": 65,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is Canada's national winter sport?",
+                    "optionsType": "text",
+                    "feedback": "Hockey is known as the country's national winter sport. It is the most popular spectator sport in Canada.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Hockey",
+                        "2 Basketball",
+                        "3 Football",
+                        "4 Skating"
+                    ]
+                },
+                {
+                    "id": 244,
+                    "lessonId": 65,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who is one of the greatest hockey players of all time?",
+                    "optionsType": "text",
+                    "feedback": "One of the greatest hockey players of all time is Wayne Gretzky, who played for the Edmonton Oilers.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Wayne Gretzky",
+                        "2 Lord Grey",
+                        "3 Terry Fox",
+                        "4 Donovan Bailey"
+                    ]
+                },
+                {
+                    "id": 245,
+                    "lessonId": 65,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Lord Grey was the Governor General in 1909 and he donated the Grey Cup trophy.",
+                    "optionsType": "text",
+                    "feedback": "He was the Governor General and he donated the Grey Cup trophy.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 246,
+                    "lessonId": 65,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who was a double Olympic gold medalist and a world record sprinter?",
+                    "optionsType": "text",
+                    "feedback": "Donovan Bailey was a double Olympic gold medalist and a world record sprinter.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Donavan Bailey",
+                        "2 Catriona Le May Doan",
+                        "3 Mark Tewksbury",
+                        "4 Chantal Petitclerc"
+                    ]
+                },
+                {
+                    "id": 247,
+                    "lessonId": 65,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who started the Marathon of Hope?",
+                    "optionsType": "text",
+                    "feedback": "Terry Fox began a cross-country run, the Marathon of Hope, to raise money for cancer research.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Terry Fox",
+                        "2 Wayne Gretzky",
+                        "3 Mark Tewksbury",
+                        "4 Chantal Petitclerc"
+                    ]
+                },
+                {
+                    "id": 248,
+                    "lessonId": 65,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Terry Fox began a cross-country run, the Marathon of Hope, to raise money for cancer research.",
+                    "optionsType": "text",
+                    "feedback": "In 1980, he embarked on a cross-Canada run to raise money and awareness for cancer research.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 66,
+            "index": 52,
+            "parentId": 59,
+            "appId": 3,
+            "audioVersion": 4,
+            "extra": null,
+            "title": "Great Canadian Discoveries and Inventions",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text><image url=\"https://wisdom.reev.ca/images/app-3/Modern-Canada/Great-Canadian-Discoveries-and-Inventions/1.png\">Charles H. Best and Banting, c. 1924. University of Toronto Library.</image>\n\nCanadians have made various discoveries and inventions. Some of the most famous are listed below:\n<b>Alexander Graham Bell</b>: thought of the idea of the <b>telephone.</b>\n\n<b>Joseph-Armand Bombardier</b>: invented the <b>snowmobile</b>. The snowmobile was the first light-weight winter vehicle.\n\n<b>Sir Sandford Fleming</b>: invented the worldwide <b>system of time zones.</b>\n\n<b>Mathew Evans</b> and <b>Henry Woodward</b>: worked together to <b>invent the first electric light bulb</b>. They later sold the patent to Thomas Edison, who is famous for making the light bulb available for commercial sale.\n\n<b>Reginald Fessenden</b>: helped to invent the radio by sending the first wireless voice message.\n\n<b>Dr. Wilder Penfield</b>: was a brain surgeon at McGill University in Montreal. He helped to discover new ways to do surgery.\n\n<b>Dr. John A. Hopps</b>: invented the Pacemaker, which can send electrical impulses to the heart to help the heart to beat correctly. This is still used today to save the lives of people with heart disorders.\n\n<b>SPAR Aerospace/National Research Council</b>: invented the Canadarm. The Canadarm is a big robotic arm that attaches to a spacecraft. It helps astronauts to do work in space.\n\n<b>Mike Lazaridis and Jim Balsillie</b>: are each famous for being the CEO (Chief Executive Officer) of Research in Motion (RIM), a wireless communications company that produced the BlackBerry.\n\n<b>Sir Frederick Banting</b> and <b>Charles Best</b>: Discovered insulin, a hormone that helps to treat diabetes. <b>This invention has saved 16 million lives worldwide</b>.\n\n<b>This is the end of the Modern Canada chapter. Good job!</b></text><questions type=\"ids\">1208,1209,1210,1211</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1208,
+                    "lessonId": 66,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who invented the first electric light bulb?",
+                    "optionsType": "text",
+                    "feedback": "Mathew Evans and Henry Woodward worked together to invent the first electric light bulb. They later sold the patent to Thomas Edison, who is famous for making the light bulb available for commercial sale.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Mathew Evans and Henry Woodward",
+                        "2 Sir Frederick Banting",
+                        "3 Dr. Wilder Penfield",
+                        "4 Joseph-Armand Bombardier"
+                    ]
+                },
+                {
+                    "id": 1209,
+                    "lessonId": 66,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who  thought of the idea of the telephone?",
+                    "optionsType": "text",
+                    "feedback": "Alexander Graham Bell thought of the idea of the telephone.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Alexander Graham Bell",
+                        "2 Sir Frederick Banting",
+                        "3 Dr. Wilder Penfield",
+                        "4 Joseph-Armand Bombardier"
+                    ]
+                },
+                {
+                    "id": 1210,
+                    "lessonId": 66,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who discovered insulin, a hormone that helps to treat diabetes?",
+                    "optionsType": "text",
+                    "feedback": "Sir Frederick Banting and Charles Best discovered insulin, a hormone that helps to treat diabetes. This invention has saved 16 million lives worldwide.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Sir Frederick Banting and Charles Best",
+                        "2 Sir Frederick Banting",
+                        "3 Dr. Wilder Penfield",
+                        "4 Joseph-Armand Bombardier"
+                    ]
+                },
+                {
+                    "id": 1211,
+                    "lessonId": 66,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What was the significance of the discovery of insulin by Sir Frederick Banting and Charles Best?",
+                    "optionsType": "text",
+                    "feedback": "Insulin, a hormone which helps to treat diabetes, has saved 16 million lives worldwide.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 It helped treat diabetes, and has saved 16 million lives worldwide",
+                        "2 It helped treat cancer, and has saved 10 million lives worldwide",
+                        "3 It helped treat alzheimer disease, and has saved 16 million lives worldwide",
+                        "4 It helped treat dementia, and has saved 16 million lives worldwide"
+                    ]
+                }
+            ]
+        }
+    ]
+}

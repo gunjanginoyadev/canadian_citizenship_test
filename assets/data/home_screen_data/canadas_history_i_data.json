@@ -1,0 +1,684 @@
+{
+    "data": [
+        {
+            "id": 34,
+            "index": 20,
+            "parentId": 33,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "Aboriginal Peoples",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text><h>Aboriginal Peoples</h>\nNative people were living in Canada before Europeans arrived. The first European explorers to arrive thought that they had reached the East Indies. The native people lived off the land. Some hunted and gathered food, and others raised crops.\n\nThe native groups called the Cree, and the Dene, who lived in the northwest part of Canada, were hunter-gatherers.\nThe native group called the Iroquois hunted and farmed.\nThe groups of natives called the Sioux were nomadic, and followed the buffalo (bison) herd.\nThe Inuit lived by eating the animals in the Arctic.\nThe natives on the West Coast (British Columbia today) ate fish. They preserved the fish by drying and smoking it.\n\nMany Aboriginal groups had to compete for land and resources, and they often went to war against each other.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-History-I/Aboriginal-Peoples/1.jpeg\">Pow Wow Membertou 400 Celebration Halifax Nova Scotia Grand Entry. Halifax Common June 2010.</image>\n\n<h>The First Europeans</h>\nOne thousand years ago, <b>Vikings</b> from Iceland came to Newfoundland and Labrador. You can see the remains of their villages at l’Anse aux Meadows. It is a World Heritage site.</text><questions type=\"ids\">108,109</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 108,
+                    "lessonId": 34,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who were Cree, Dene, Iroquois, Sioux, and Inuit?",
+                    "optionsType": "text",
+                    "feedback": "Cree, Dene, Iroquois, Sioux, Inuit were names of some native groups.",
+                    "type": "true_false",
+                    "options": [
+                        "1  Name of some native groups",
+                        "2  Name of some native lands"
+                    ]
+                },
+                {
+                    "id": 109,
+                    "lessonId": 34,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who came from Iceland to the eastern part of Canada 1000 years ago?",
+                    "optionsType": "text",
+                    "feedback": "One thousand years ago, Vikings from Iceland came to Newfoundland and Labrador.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1  The Vikings",
+                        "2  The Inuit",
+                        "3  The Dene",
+                        "4  The Cree"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "index": 21,
+            "parentId": 33,
+            "appId": 3,
+            "audioVersion": 4,
+            "extra": null,
+            "title": "Royal New France",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text><h>Exploring a River, Naming Canada</h>\nAfter 1497, Europeans began more exploration. <b>John Cabot</b> was the first to draw a map of the east coast of Canada. \nThe name of the province of Newfoundland comes from the old English words \"New Founde Land\". English settlement in Newfoundland began in 1610.\n\n<b>Jacques Cartier</b> made three voyages across the Atlantic Ocean between 1534 and 1542. He was the first European to explore the land where Quebec City and Montreal are today.\nHe claimed the land for King Francis I of France. He heard two Aboriginal guides say the word \"kanata\". <b>The name Canada comes from this word</b>. Kanata means \"<b>village</b>\" in the Iroquoian language. By the 1550s, the name of Canada began appearing on maps.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-History-I/Royal-New-France/1.png\">French settlement at Port Royal, Nova Scotia, from a map by Marc Lescarbot, 1609. Library of Congress, Rare Book Division.</image>\n\n<h>Royal New France</h>\nTwo French explorers, Pierre de Monts and Samuel de Champlain made a European settlement in what is now Canada in 1604. Champlain built a fortress in what is now Quebec City in 1608. The weather was very cold and harsh, and it was difficult to live.\n\nChamplain joined his colony with some Aboriginal groups: the <b>Algonquin, Montagnais, and Huron.</b> These groups were enemies with another Aboriginal group, the <b>Iroquois.</b>\n\nThe Iroquois were a group of five (later six) Aboriginal groups who battled with the French. The French and the Iroquois made peace in 1701.</text><questions type=\"ids\">1063,1064,1065,1066</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1063,
+                    "lessonId": 35,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who was the first person to draw a map of Canada's east coast?",
+                    "optionsType": "text",
+                    "feedback": "John Cabot was the first to draw a map of the east coast of Canada.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 John Cabot",
+                        "2 Jacques Cartier",
+                        "3 King Francis I",
+                        "4 King Charles II"
+                    ]
+                },
+                {
+                    "id": 1064,
+                    "lessonId": 35,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who made three voyages across the Atlantic Ocean between 1534 and 1542 to claim the land of Canada for the King of France?",
+                    "optionsType": "text",
+                    "feedback": "Jacques Cartier made three voyages across the Atlantic Ocean between 1534 and 1542. He was the first European to explore the land where Quebec City and Montreal are today.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Jacques Cartier",
+                        "2 John Cabot",
+                        "3 King Francis I",
+                        "4 King Charles II"
+                    ]
+                },
+                {
+                    "id": 1065,
+                    "lessonId": 35,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The name \"Canada\" which comes from the word \"Kanata\" means _____ in the Iroquoian language.",
+                    "optionsType": "text",
+                    "feedback": "The name \"Canada\" comes from the word, \"Kanata\", which is the Huron-Iroquois word for village.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 village",
+                        "2 river",
+                        "3 land",
+                        "4 mountain"
+                    ]
+                },
+                {
+                    "id": 1066,
+                    "lessonId": 35,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which Aboriginal group was (historically) the enemy of the Algonquin, Montagnais and Huron?",
+                    "optionsType": "text",
+                    "feedback": "Champlain joined his colony with some Aboriginal groups: the Algonquin, Montagnais and Huron. These groups had a history of being enemies with another Aboriginal group, the Iroquois.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The Iroquois",
+                        "2 The Cree",
+                        "3 The Dene",
+                        "4 The Sioux"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "index": 22,
+            "parentId": 33,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "Struggle for a Continent",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text><h>The Hudson’s Bay Company</h>\nIn 1670, King Charles II of England decided that the fur trade company called the Hudson’s Bay Company was allowed to look for fur in all of the land that had water flowing into Hudson Bay.\n\nThe people who worked for the fur trade companies from <b>Montreal</b> were from France. They traveled by <b>canoe</b> and carried trade goods and supplies to exchange for <b>furs</b>. They were called voyageurs and <b>coureurs des bois</b>. They worked together with the First Nations people.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-History-I/Struggle-for-a-Continent/1.png\">People talking outside the Hudson's Bay Company post in Aklavik, NT, 1956. Library and Archives Canada/1971-271 NPC.</image>\n\n<h>Struggle for a Continent</h>\nWhen the English and French colonies in Canada were at war in 1690, <b>Count Frontenac</b> refused to surrender, or give Quebec up to the English. He said that he wanted to fight. He said, “My only reply will be from the mouths of my cannons!”\n\nEnglish colonies became richer than New France. In the 1700s, France and Britain had a battle to decide who would control North America. In 1759, the British defeated the French at an important battle. This battle was near Quebec City, on the <b>Plains of Abraham</b>. This ended France’s empire in America. The commanders of both armies, Brigadier James Wolfe and the Marquis de Montcalm, were both killed in the war.\n\n<h>Did you know?</h>\n<b>Pierre Le Moyne</b> was a great hero of New France. He was also called Sieur d’Iberville. He fought against the British and won many battles. He lived during the late 17th and early 18th centuries.\n\n<b>Sir Guy Carleton</b> was British. He was also called Lord Dorchester. He helped the people who lived in the United States and wanted to stay loyal to the British queen. He helped these Loyalists move from the United States to Nova Scotia and Quebec in 1782 and 1783.</text><questions type=\"ids\">1408,1409,1410,1411,1412,1413,1414,1415</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1408,
+                    "lessonId": 36,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "When was the Hudson's Bay Company allowed to look for fur in all of the land that had water flowing into Hudson Bay?",
+                    "optionsType": "text",
+                    "feedback": "In 1670, King Charles II allowed the Hudson's Bay Company to look for fur in all of the land that had water flowing into Hudson Bay.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 1670",
+                        "2 1760",
+                        "3 1870",
+                        "4 1960"
+                    ]
+                },
+                {
+                    "id": 1409,
+                    "lessonId": 36,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What did King Charles II allow the Hudson's Bay Company to look for in 1670?",
+                    "optionsType": "text",
+                    "feedback": "King Charles II allowed the Hudson's Bay Company to look for fur in all of the land that had water flowing into Hudson Bay.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Fur",
+                        "2 Wood",
+                        "3 Food",
+                        "4 Water"
+                    ]
+                },
+                {
+                    "id": 1410,
+                    "lessonId": 36,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which company did King Charles II allow to look for fur in 1670?",
+                    "optionsType": "text",
+                    "feedback": "In 1670, King Charles II of England decided that the fur trade company called the Hudson's Bay Company was allowed to look for fur in all of the land that had water flowing into Hudson Bay.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Hudson's Bay Company",
+                        "2 Home Depot",
+                        "3 Canadian Tire",
+                        "4 Tim Hortons"
+                    ]
+                },
+                {
+                    "id": 1411,
+                    "lessonId": 36,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who were the voyageurs, or coureurs des bois?",
+                    "optionsType": "text",
+                    "feedback": "The people who worked for the fur trade companies from Montreal were from France. They traveled by canoe and carried trade goods and supplies to exchange for furs. They were called voyageurs and coureurs des bois.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Men from Montreal who traveled by canoe and carried trade goods and supplies to exchange for furs.",
+                        "2 Men from Toronto who traveled by canoe and carried trade goods and supplies to exchange for furs.",
+                        "3 Men from Montreal who traveled by canoe and carried trade goods and supplies to exchange for leather.",
+                        "4 Men from Toronto who traveled by canoe and carried trade goods and supplies to exchange for leather."
+                    ]
+                },
+                {
+                    "id": 1412,
+                    "lessonId": 36,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Where did the British defeated the French in 1759?",
+                    "optionsType": "text",
+                    "feedback": "In 1759, the British defeated the French at an important battle. This battle was near Quebec City, on the Plains of Abraham.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Plains of Abraham",
+                        "2 Hudson's Bay",
+                        "3 Nova Scotia",
+                        "4 Ontario"
+                    ]
+                },
+                {
+                    "id": 1413,
+                    "lessonId": 36,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who was a great hero of New France who fought against the British and won many battles?",
+                    "optionsType": "text",
+                    "feedback": "Pierre Le Moyne was a great hero of New France. He was also called Sieur d'Iberville. He fought against the British and won many battles. He lived during the late 17th and early 18th centuries.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Pierre Le Moyne",
+                        "2 Sir Guy Carleton",
+                        "3 Count Frontenac",
+                        "4 Jacques Cartier"
+                    ]
+                },
+                {
+                    "id": 1414,
+                    "lessonId": 36,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who helped the Loyalists to move from the United States to Nova Scotia and Quebec in 1782 and 1783?",
+                    "optionsType": "text",
+                    "feedback": "Sir Guy Carleton was British. He was also called Lord Dorchester. He helped the people who lived in the United States and wanted to stay loyal to the British queen. He helped these Loyalists move from the United States to Nova Scotia and Quebec in 1782 and 1783.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Sir Guy Carleton",
+                        "2 Pierre Le Moyne",
+                        "3 Count Frontenac",
+                        "4 Jacques Cartier"
+                    ]
+                },
+                {
+                    "id": 1415,
+                    "lessonId": 36,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who was defeated during the battle of the Plains of Abraham?",
+                    "optionsType": "text",
+                    "feedback": "In the 1700s, France and Britain battled to decide who would control North America. In 1759, the British defeated the French at an important battle near Quebec City, on the Plains of Abraham.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The French",
+                        "2 The British",
+                        "3 The American",
+                        "4 The Iroquois"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "index": 23,
+            "parentId": 33,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "The Province of Quebec",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>After the war, Great Britain renamed <b>New France</b> to <b>the Province of Quebec</b>. The French-speaking Catholic people, known as <b>habitants</b> or <b>Canadiens</b>, tried hard to keep their way of life in the British Empire which was English-speaking and ruled by Protestants.\n\nThe British parliament passed laws to help the French-speaking Catholic people to govern the French Roman Catholic people in Quebec in 1774. These laws were called the <b>Quebec Act</b>. It allowed religious freedom for Catholics and allowed them to work in government jobs.</text><questions type=\"ids\">1392,1393,1394,1395</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1392,
+                    "lessonId": 37,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What was the name of Quebec before 1759?",
+                    "optionsType": "text",
+                    "feedback": "After the war, Great Britain renamed the colony the \"Province of Quebec\".",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 New France",
+                        "2 New Britain",
+                        "3 New Quebec",
+                        "4 New Montreal"
+                    ]
+                },
+                {
+                    "id": 1393,
+                    "lessonId": 37,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who were the habitants or Canadiens?",
+                    "optionsType": "text",
+                    "feedback": "The French-speaking Catholic people, known as habitants or Canadiens, tried hard to keep their way of life in the British Empire which was English-speaking and ruled by Protestants.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The French-speaking Catholic people in the Province of Quebec",
+                        "2 The English-speaking Catholic people in the Province of Quebec",
+                        "3 The French-speaking Protestant people in the Province of Quebec",
+                        "4 The English-speaking Protestant people in the Province of Quebec"
+                    ]
+                },
+                {
+                    "id": 1394,
+                    "lessonId": 37,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The British parliament passed laws to help the French-speaking Catholic people to govern the French Roman Catholic people in Quebec. Also known as Quebec Act.",
+                    "optionsType": "text",
+                    "feedback": "In 1774, the British parliament passed laws to help the French-speaking Catholic people to govern the French Roman Catholic people in Quebec. These laws were called the Quebec Act. It allowed religious freedom for Catholics and allowed them to work in government jobs. It established British criminal law and French civil law.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1395,
+                    "lessonId": 37,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the Quebec Act?",
+                    "optionsType": "text",
+                    "feedback": "The British parliament passed laws to help the French-speaking Catholic people to govern the French Roman Catholic people in Quebec in 1774. These laws were called the Quebec Act. It allowed religious freedom for Catholics and allowed them to work in government jobs.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The laws passed by the British government to help the French-speaking Catholic people to govern the French Roman Catholic people in Quebec",
+                        "2 The laws passed by the France government to help the British-speaking Catholic people to govern the French Roman Catholic people in Quebec",
+                        "3 The laws passed by the France government to help the French-speaking Catholic people to govern the French Roman Catholic people in Quebec",
+                        "4 The laws passed by the British government to help the British-speaking Catholic people to govern the French Roman Catholic people in Quebec"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "index": 24,
+            "parentId": 33,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "United Empire Loyalists",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text><h>United Empire ‌‌‌‌Loyalists</h>\nIn 1776, the United States was formed when the 13 British colonies there decided to become independent from Britain. The people living in North America were not united.  \nDuring this time, more than 40,000 people wanted to continue to be loyal to the Queen. So, they ran away from the United States to settle in Nova Scotia and Quebec.\nThese people were called <b>Loyalists</b>, or <b>United Empire Loyalists.</b> They wanted to stay loyal to Britain and did not want to fight in the American Revolution against Britain.\n<b>United Empire Loyalists are settlers who came from the United States to Canada during and after the American Revolution.</b>\n\n<b>Joseph Brant</b> led thousands of Loyalist Mohawk Indians into Canada. These loyalists came from Dutch, German, British, Scandinavian, Aboriginal, and other origins, and had different religious backgrounds.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-History-I/United-Empire-Loyalists/1.png\">Loyalists Arriving in Upper Canada</image>\n\n<h>Black Loyalists </h>\nDuring this time, about <b>3,000 black Loyalists</b> came north to live in Canada. In 1792, some black Nova Scotians left Canada to establish the city of <b>Freetown</b> in the country of Sierra Leone, which is in West Africa.</text><questions type=\"ids\">1133,1134,1135,1136,1137</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1133,
+                    "lessonId": 38,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who were the Loyalists, also known as United Empire Loyalists?",
+                    "optionsType": "text",
+                    "feedback": "In 1776, more than 40,000 people wanted to continue to be loyal to the Queen. So, they ran away from the United States during and after the American Revolution, to settle in Nova Scotia and Quebec.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Settlers who came from the United States during and after the American Revolution",
+                        "2 Settlers who came from Nova Scotia during and after the American Revolution",
+                        "3 Settlers who came from West Africa during and after the American Revolution",
+                        "4 Settlers who came from Quebec during and after the American Revolution"
+                    ]
+                },
+                {
+                    "id": 1134,
+                    "lessonId": 38,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The Loyalists, or United Empire Loyalists were people who decided to become independent from Britain",
+                    "optionsType": "text",
+                    "feedback": "The loyalists wanted to continue to be loyal to the Queen. So, they ran away from the United States during and after the American Revolution, to settle in Nova Scotia and Quebec.",
+                    "type": "true_false",
+                    "options": [
+                        "1 False",
+                        "2 True"
+                    ]
+                },
+                {
+                    "id": 1135,
+                    "lessonId": 38,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who led thousands of Loyalist Mohawk Indians into Canada?",
+                    "optionsType": "text",
+                    "feedback": "Joseph Brant led thousands of Loyalist Mohawk Indians into Canada. These loyalists came from Dutch, German, British, Scandinavian, Aboriginal, and other origins, and had different religious backgrounds.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Joseph Brant",
+                        "2 Pierre Le Moyne",
+                        "3 Count Frontenac",
+                        "4 Jacques Cartier"
+                    ]
+                },
+                {
+                    "id": 1136,
+                    "lessonId": 38,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "How many Black Loyalists came north to live in Canada?",
+                    "optionsType": "text",
+                    "feedback": "About 3,000 Black Loyalists came north to live in Canada.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 About 3,000",
+                        "2 About 30,000",
+                        "3 About 4,000",
+                        "4 About 40,000"
+                    ]
+                },
+                {
+                    "id": 1137,
+                    "lessonId": 38,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Freetown, in Sierra Leone was started in 1792 when some Black Nova Scotians left Canada.",
+                    "optionsType": "text",
+                    "feedback": "In 1792, some Black Nova Scotians left Canada to establish the city of Freetown in the country of Sierra Leone, which is in West Africa.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "index": 25,
+            "parentId": 33,
+            "appId": 3,
+            "audioVersion": 4,
+            "extra": null,
+            "title": "The Beginnings of Democracy",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>Democratic institutions developed gradually and peacefully. In 1758, the first representative assembly was elected in Halifax. In 1773, Prince Edward Island elected their first representative assembly, and in 1785, New Brunswick did the same.\n\n<h>Upper and Lower Canada</h>\nThe Constitutional Act of 1791 divided the Province of Quebec into <b>Upper Canada</b> and <b>Lower Canada.</b>\n<b>Upper Canada</b> later became Ontario, and it had mostly English-speaking people who were Protestant and were loyal to Britain.\n<b>Lower Canada</b> later became Quebec, and it had mostly French-speaking people who were Catholic. The first elected Assembly of Lower Canada debated whether to use both French and English on January 21, 1793.\n\nThe <b>Constitutional Act</b> gave both Upper and Lower Canada the right to have elections and to elect people into a legislative assembly. The name <b>Canada</b> became official at this time. The name for the provinces of Upper Canada, Lower Canada, and the Atlantic colonies was <b>British North America</b>.\n\nThe Canadian Constitution is a system of laws and conventions by which our country governs itself.</text><questions type=\"ids\">1138,1139,1140,1141,1142,1143,1144</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1138,
+                    "lessonId": 39,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "When was the first elected representative assembly?",
+                    "optionsType": "text",
+                    "feedback": "In 1758, the first representative assembly was elected in Halifax.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 1758",
+                        "2 1773",
+                        "3 1785",
+                        "4 1791"
+                    ]
+                },
+                {
+                    "id": 1139,
+                    "lessonId": 39,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What did The Constitutional Act of 1791 do?",
+                    "optionsType": "text",
+                    "feedback": "The Constitutional Act of 1791 divided the Province of Quebec into Upper Canada and Lower Canada.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Divided the Province of Quebec into Upper Canada and Lower Canada",
+                        "2 Elected the first representative assembly in Halifax",
+                        "3 Debated whether to use both French and English",
+                        "4 Elected the first representative assembly in Prince Edward"
+                    ]
+                },
+                {
+                    "id": 1140,
+                    "lessonId": 39,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What province did Upper Canada become? Was it Protestant or Catholic?",
+                    "optionsType": "text",
+                    "feedback": "Upper Canada later became Ontario, and it had mostly English-speaking people who were Protestant and were loyal to Britain.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Ontario, Protestant",
+                        "2 Ontario, Catholic",
+                        "3 Quebec, Protestant",
+                        "4 Quebec, Catholic"
+                    ]
+                },
+                {
+                    "id": 1141,
+                    "lessonId": 39,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What province did Lower Canada become? Was it Protestant or Catholic?",
+                    "optionsType": "text",
+                    "feedback": "Lower Canada later became Quebec, and it had mostly French-speaking people who were Catholic.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Quebec, Catholic",
+                        "2 Ontario, Protestant",
+                        "3 Ontario, Catholic",
+                        "4 Quebec, Protestant"
+                    ]
+                },
+                {
+                    "id": 1142,
+                    "lessonId": 39,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What was the name for the provinces of Upper Canada, Lower Canada and the Atlantic colonies?",
+                    "optionsType": "text",
+                    "feedback": "The name for the provinces of Upper Canada, Lower Canada, and the Atlantic colonies was British North America.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 British North America",
+                        "2 Ontario",
+                        "3 Quebec",
+                        "4 Halifax"
+                    ]
+                },
+                {
+                    "id": 1143,
+                    "lessonId": 39,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The Constitutional Act gave both Upper and Lower Canada the right to have elections.",
+                    "optionsType": "text",
+                    "feedback": "The Constitutional Act gave both Upper and Lower Canada the right to have elections, to elect people into a legislative assembly.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1144,
+                    "lessonId": 39,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the Canadian Constitution?",
+                    "optionsType": "text",
+                    "feedback": "The system of laws and conventions by which our country governs itself, is known as The Canadian Constitution.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The Canadian Constitution is a system of laws and conventions by which our country governs itself.",
+                        "2 The Canadian Constitution is a collection of arts and culture by which our country represents itself.",
+                        "3 The Canadian Constitution is a collection of maps and guides by which our country defends itself.",
+                        "4 The Canadian Constitution is a collection of people and leaders by which our country represents itself."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "index": 26,
+            "parentId": 33,
+            "appId": 3,
+            "audioVersion": 4,
+            "extra": null,
+            "title": "Abolition of Slavery",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text><h>End of Slavery</h>\nSlavery has existed all over the world. The first movement to stop slavery started in the British Parliament in the late 1700s. \n\nIn 1793, Lieutenant Governor <b>John Graves Simcoe</b> helped Upper Canada to make the decision to stop slavery. Upper Canada became the first province in the Empire to start the movement of stopping slavery. \n\nHe was a Loyalist military officer and the <b>first Lieutenant Governor of Canada</b>. He was also the founder of the city of York, which is now called <b>Toronto.</b>\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-History-I/Abolition-of-Slavery/1.png\">Encyclopædia Britannica, Inc.</image>\n\n<h>Underground Railroad</h>\nIn 1807, the British parliament made it illegal to buy and sell slaves. In 1833, slavery was abolished in the entire British Empire.\n\nThousands of slaves escaped from the United States (where slavery was legal) to Canada. They did so by escaping at night and looking up at the stars to follow the <b>North Star</b> to travel north to Canada.\n\nPeople who didn’t agree with slavery helped the slaves by hiding them in their homes as they travelled north out of the United States. This way of escape was called the <b>Underground Railroad.</b>\n\nMary Ann (Shadd) Carey wanted to end slavery in the United States. She was the first woman publisher in Canada. She was the publisher of a weekly newspaper called <b>The Provincial Freeman</b>. This newspaper had information about how to stop slavery. It also encouraged people to drink less alcohol and to obey British laws.</text><questions type=\"ids\">1145,1146,1147,1148,1149</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1145,
+                    "lessonId": 40,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who helped Upper Canada make the decision to stop slavery in 1793?",
+                    "optionsType": "text",
+                    "feedback": "In 1793, Lieutenant Governor John Graves Simcoe helped Upper Canada to make the decision to stop slavery.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Lieutenant Governor John Graves Simcoe",
+                        "2 Mary Ann (Shadd) Carey",
+                        "3 The British Parliament",
+                        "4 The United States"
+                    ]
+                },
+                {
+                    "id": 1146,
+                    "lessonId": 40,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who was the first Lieutenant Governor of Canada and founder of the city of York, now known as Toronto?",
+                    "optionsType": "text",
+                    "feedback": "Lieutenant Governor John Graves Simcoe was a Loyalist military officer and the first Lieutenant Governor of Canada. He was also the founder of the city of York, which is now called Toronto.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Lieutenant Governor John Graves Simcoe",
+                        "2 Mary Ann (Shadd) Carey",
+                        "3 The British Parliament",
+                        "4 The United States"
+                    ]
+                },
+                {
+                    "id": 1147,
+                    "lessonId": 40,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Thousands of slaves escaped the United States by following the North Star to travel north to Canada.",
+                    "optionsType": "text",
+                    "feedback": "",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1148,
+                    "lessonId": 40,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "The way of escape that thousands of slaves used as they escaped from the United States to Canada was called the Underground Railroad.",
+                    "optionsType": "text",
+                    "feedback": "Thousands of slaves escaped the United States by following the North Star to travel north to Canada. People who didn’t agree with slavery helped the slaves by hiding them in their homes. This way of escape was called the Underground Railroad.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1149,
+                    "lessonId": 40,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Mary Ann (Shadd) Carey was the publisher of a weekly newspaper called The Provincial Freeman and wanted to end slavery in the United States.",
+                    "optionsType": "text",
+                    "feedback": "Mary Ann (Shadd) Carey wanted to end slavery in the United States. She was the publisher of a weekly newspaper called The Provincial Freeman. This newspaper had information about how to stop slavery.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 41,
+            "index": 27,
+            "parentId": 33,
+            "appId": 3,
+            "audioVersion": 4,
+            "extra": null,
+            "title": "A Growing Economy",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>The first companies in Canada competed in the fur trade. The Hudson’s Bay became very successful and the trading posts of the Hudson’s Bay Company later became cities.\n\nThe first financial institutions opened in the late 18th and early 19th centuries. The Montreal Stock Exchange opened in 1832. For centuries Canada’s economy was based mainly on farming and on exporting natural resources such as fur, fish, and timber, transported by roads, lakes, rivers, and canals.\n\n<b>This is the end of part 1 of 3 of Canada's History. </b></text><questions type=\"ids\">1150,1151</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1150,
+                    "lessonId": 41,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "When did the Montreal stock exchange open?",
+                    "optionsType": "text",
+                    "feedback": "The first financial institutions opened in the late 18th and early 19th centuries. The Montreal Stock Exchange opened in 1832.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 1832",
+                        "2 1732",
+                        "3 1932",
+                        "4 2002"
+                    ]
+                },
+                {
+                    "id": 1151,
+                    "lessonId": 41,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What did the first companies in Canada compete for?",
+                    "optionsType": "text",
+                    "feedback": "The first companies in Canada competed for the fur trade.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Fur",
+                        "2 Timber",
+                        "3 Rivers",
+                        "4 Fish"
+                    ]
+                }
+            ]
+        }
+    ]
+}

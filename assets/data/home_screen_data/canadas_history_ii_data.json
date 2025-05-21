@@ -1,0 +1,721 @@
+{
+    "data": [
+        {
+            "id": 43,
+            "index": 29,
+            "parentId": 42,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "The Fight for Canada I",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>The British Royal Navy controlled the seas and the Americans didn’t like the way they interfered with the USA shipping. The United States believed it would be easy to conquer Canada, and so they attacked Canada in June 1812.\n\nCanada was not easy to conquer. In 1813, there were naval battles on the Great Lakes. This means that there was fighting between ships. The Canadian warship called the HMS Shannon captured the United States warship called the USS Chesapeake and brought it into Halifax harbour in Nova Scotia.\n\nWhen the Americans invaded Canada between 1812 and 1814, Canadian volunteers and First Nations people supported the British soldiers as they defended Canada. \nChief Tecumseh was an Aboriginal person who helped to defend Canada when Canada was fighting against the United States. He was from the Aboriginal group called Shawnee. The French-Canadian militiamen also helped to defend Canada during this war.\n\nMajor-General Sir Isaac Brock captured the city of <b>Detroit</b>, but was later killed near Niagara Falls. In 1813, Lieutenant-Colonel Charles de Salaberry and 460 soldiers (mostly French-speaking Canadiens) stopped 4,000 American soldiers who were trying to invade Canada near Montreal.</text><questions type=\"ids\">153,154,155,156</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 153,
+                    "lessonId": 43,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What did the United States do in June 1812?",
+                    "optionsType": "text",
+                    "feedback": "The United States believed it would be easy to conquer Canada, and so they attacked Canada in June 1812.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Attacked Canada",
+                        "2 Made peace with Canada",
+                        "3 Attacked France",
+                        "4 Made peace with France"
+                    ]
+                },
+                {
+                    "id": 154,
+                    "lessonId": 43,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who was Chief Tecumseh?",
+                    "optionsType": "text",
+                    "feedback": "Chief Tecumseh was an Aboriginal person who helped to defend Canada when Canada was fighting against the United States.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 An Aboriginal person who helped to defend Canada",
+                        "2 An Aboriginal person who helped to defend the USA",
+                        "3 A British person who helped to defend Canada",
+                        "4 A British person who helped to defend the USA"
+                    ]
+                },
+                {
+                    "id": 155,
+                    "lessonId": 43,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What city did Major-General Sir Isaac Brock capture?",
+                    "optionsType": "text",
+                    "feedback": "Major-General Sir Isaac Brock captured the city of Detroit but was later killed near Niagara Falls.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Detroit",
+                        "2 Montreal",
+                        "3 Niagara Falls",
+                        "4 Washington"
+                    ]
+                },
+                {
+                    "id": 156,
+                    "lessonId": 43,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "When did the United States attack Canada?",
+                    "optionsType": "text",
+                    "feedback": "The United States attacked Canada in June 1812.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 1812",
+                        "2 1780",
+                        "3 1712",
+                        "4 1880"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "index": 30,
+            "parentId": 42,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "The Fight for Canada II",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text><h>The War</h>\nDuring the war, the Americans burned down the Government House and the Parliament buildings in the city of York. The British then burned down the White House and other public buildings in Washington D.C.\n\nIn 1813, <b>Laura Secord</b>, a wife, and mother of five children made a dangerous 19 mile (30 km) journey on foot to warn Lieutenant James FitzGibbon of a planned American attack. This helped the soldiers to win the Battle of Beaver Dams. She was brave and is recognized as a heroine.\n\n<h>Duke of Wellington</h>\nIn 1814, the Duke of Wellington sent his soldiers to defend Canada. <b>Rideau Canal</b> was a pathway for the water which was built to protect Canada from an American invasion. <b>Ottawa</b> used to be called <b>Bytown</b>. Wellington chose Bytown to be at the end of the Rideau Canal. It was one of many forts that Canadians used to prevent the U.S.A. from invading Canada again. Wellington defeated Napoleon in 1815. Because he held to create Bytown, in a way, he helped to begin Canada's capital city of Ottawa.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-History-II/The-Fight-for-Canada-II/1.png\">Duke of Wellington on the march from Quatre Bras to Waterloo: Battle of Waterloo on 18th June 1815. Picture by Ernest Crofts.</image>\n\n<b>The war ended in 1814</b>. America was not able to conquer Canada. Both sides gave back every territory they had taken. The present-day Canada-United States border is partly an outcome of the War of 1812. This war helped to make Canada independent of the United States.</text><questions type=\"ids\">157,158,159,160,161</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 157,
+                    "lessonId": 44,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Laura Secord made a dangerous journey on foot to warn Lieutenant James FitzGibbon of a planned American attack.",
+                    "optionsType": "text",
+                    "feedback": "In 1813, Laura Secord made a dangerous 19 mile (30 km) journey on foot to warn Lieutenant James FitzGibbon of a planned American attack. This helped the soldiers to win the Battle of Beaver Dams. ",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 158,
+                    "lessonId": 44,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who helped to found Canada's national capital?",
+                    "optionsType": "text",
+                    "feedback": "The Duke of Wellington helped to create Bytown, in a way, he helped to found (begin) Canada's capital city of Ottawa.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The Duke of Wellington",
+                        "2 Laura Secord",
+                        "3 The Duke of Rideau",
+                        "4 James FitzGibbon"
+                    ]
+                },
+                {
+                    "id": 159,
+                    "lessonId": 44,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "When did the USA vs. Canada war end?",
+                    "optionsType": "text",
+                    "feedback": "The war ended in 1814. America was not able to conquer Canada.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 1814",
+                        "2 1914",
+                        "3 1714",
+                        "4 1614"
+                    ]
+                },
+                {
+                    "id": 160,
+                    "lessonId": 44,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What did the Duke of Wellington do?",
+                    "optionsType": "text",
+                    "feedback": "The Duke of Wellington helped to create Bytown, in a way, he helped to found (begin) Canada's capital city of Ottawa.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Helped to found Canada's capital city of Ottawa",
+                        "2 Warned Lieutenant James FitzGibbon of a planned American attack",
+                        "3 Burned down the White House",
+                        "4 Burned down the Government House"
+                    ]
+                },
+                {
+                    "id": 161,
+                    "lessonId": 44,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "America was able to conquer Canada",
+                    "optionsType": "text",
+                    "feedback": "Conquer means to take control of (a place or people) by use of military force. America was not able to conquer Canada.",
+                    "type": "true_false",
+                    "options": [
+                        "1 False",
+                        "2 True"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "index": 31,
+            "parentId": 42,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "Rebellions of 1837–38",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>In the 1830s, some people in Upper and Lower Canada believed that a change to a full democracy was too slow. These people wanted to change (reform) Canada. The reformers believed Canada should become more like the United States and some thought Canada should join the United States.\n\nIn 1837 and 1838 there were rebellions near Montreal and Toronto. The people were <b>rebelling against the British colonial government</b>. They did not have enough public support. British troops defeated them. Some rebels were hanged. Other rebels were sent out of the country (exiled). Some exiles later returned to Canada.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-History-II/Rebellions-of-1837–38/1.jpg\">Lower Canada Legislative Asse‌mbly in 1792 (Chapel of Bishop's Palace, Quebec City), oil on canvas laid down onto cardboard. Charles Walter Simpson - Library and Archives Canada.</image>\n\n<h>Responsible Government</h>\n<b>Lord Durham</b> was an English reformer. He was sent to give a report to the government about the rebellions. He recommended that the provinces of Upper and Lower Canada should be joined and given <b>responsible government.</b>\n\nResponsible government is democratic. It means that the ministers of the Crown (Queen) must have the support of at least half of the elected representatives (a majority). They can’t keep governing people if they do not have a majority. \n\nLord Durham did not understand that the French Canadians wanted to keep their unique identity. He wanted all of the people in Upper and Lower Canada to speak English. He wanted the Catholic French Christians to change to have the same culture as the Protestant English Christians. \n\nSome reformers, including <b>Sir Étienne-Paschal Taché</b> and <b>Sir George-Étienne Cartier</b>, later became Fathers of Confederation. <b>Sir John A. Macdonald</b>, a former member of the voluntary government militia in Upper Canada, also became a Father of Confederation.</text><questions type=\"ids\">162,163,164,165,166,167</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 162,
+                    "lessonId": 45,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "In the 1830s, who were people in the rebellions fighting against?",
+                    "optionsType": "text",
+                    "feedback": "In 1837 and 1838 there were rebellions near Montreal and Toronto. The people were rebelling against the British colonial government.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The British colonial government",
+                        "2 The American government",
+                        "3 The local government",
+                        "4 The France government"
+                    ]
+                },
+                {
+                    "id": 163,
+                    "lessonId": 45,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who won the rebellions, the rebels or the British?",
+                    "optionsType": "text",
+                    "feedback": "The rebels did not have enough public support. British troops defeated them.",
+                    "type": "true_false",
+                    "options": [
+                        "1 The British",
+                        "2 The rebels"
+                    ]
+                },
+                {
+                    "id": 164,
+                    "lessonId": 45,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What did the government want Lord Durham to do?",
+                    "optionsType": "text",
+                    "feedback": "Lord Durham was an English reformer. He was sent to give a report to the government about the rebellions.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 He was sent to give a report to the government about the rebellions",
+                        "2 He was sent to fought the rebellions for the government",
+                        "3 He was sent to give a report to the rebellions about the government",
+                        "4 He was sent to fought the government for the rebellions"
+                    ]
+                },
+                {
+                    "id": 165,
+                    "lessonId": 45,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What does responsible government mean?",
+                    "optionsType": "text",
+                    "feedback": "Responsible government is democratic. It means that the ministers of the Crown (The King) must have the support of at least half of the elected representatives (a majority).",
+                    "type": "true_false",
+                    "options": [
+                        "1 The ministers of the King must have a majority",
+                        "2 The ministers of the King must have a minority"
+                    ]
+                },
+                {
+                    "id": 166,
+                    "lessonId": 45,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Lord Durham wanted the French Catholic Christians to keep their unique identity.",
+                    "optionsType": "text",
+                    "feedback": "Lord Durham wanted the Catholic French Christians to change to have the same culture as the Protestant English Christians.",
+                    "type": "true_false",
+                    "options": [
+                        "1 False",
+                        "2 True"
+                    ]
+                },
+                {
+                    "id": 167,
+                    "lessonId": 45,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What did Sir Étienne-Paschal Taché, Sir George-Étienne Cartier and Sir John A. Macdonald become?",
+                    "optionsType": "text",
+                    "feedback": "Sir Étienne-Paschal Taché and George-Étienne Cartier were two reformers who became Fathers of Confederation. Sir John A. Macdonald, a former member of the voluntary government militia in Upper Canada, also became a Father of Confederation.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Fathers of Confederation",
+                        "2 Fathers of Lower Canada",
+                        "3 Fathers of Constitution",
+                        "4 Fathers of Upper Canada"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 46,
+            "index": 32,
+            "parentId": 42,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "Responsible Government",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>In 1840, Upper and Lower Canada were united as the Province of Canada. Reformers worked for having responsible governments in each province.\n\n<b>Sir Louis-Hippolyte La Fontaine</b> became the first leader of a responsible government in Canada in 1849. At that time, Canada was a province and not a country yet. He also helped to protect French language rights and believed in democracy.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-History-II/Responsible-Government/1.jpeg\">The Honourable Louis Hippolyte LaFontaine by June Forbes McCormack. Government of Ontario Art Collection, Archives of Ontario.</image>\n\n<b>Nova Scotia</b> was the first British North American colony to attain <b>full responsible government</b> in 1847-48. <b>Lord Elgin</b> was appointed as Governor General of Canada and introduced responsible government in 1848-49.\n\nThis is the system we have today: if the government loses a confidence vote in the assembly it must resign. This means that the opposition parties no longer have faith that the ruling party has the ability to do their job.</text><questions type=\"ids\">173,174,175,176,177</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 173,
+                    "lessonId": 46,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Upper and Lower Canada were united to create:",
+                    "optionsType": "text",
+                    "feedback": "In 1840, Upper and Lower Canada were united as the Province of Canada.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Province of Canada",
+                        "2 Province of Québec",
+                        "3 Province of Ontario",
+                        "4 Province of Nova Scotia"
+                    ]
+                },
+                {
+                    "id": 174,
+                    "lessonId": 46,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which province was the first British North American colony to attain a fully responsible government in 1847-48?",
+                    "optionsType": "text",
+                    "feedback": "Nova Scotia was the first British North American colony to attain a fully responsible government in 1847-48.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Nova Scotia",
+                        "2 Upper Canada",
+                        "3 Lower Canada",
+                        "4 Québec"
+                    ]
+                },
+                {
+                    "id": 175,
+                    "lessonId": 46,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who was appointed as Governor General of Canada and introduced responsible government?",
+                    "optionsType": "text",
+                    "feedback": "Lord Elgin was appointed as Governor General of Canada and introduced responsible government in 1848-49.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Lord Elgin",
+                        "2 La Fontaine",
+                        "3 Sir John A. Macdonald",
+                        "4 Lord Durham"
+                    ]
+                },
+                {
+                    "id": 176,
+                    "lessonId": 46,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who was Sir Louis-Hippolyte La Fontaine?",
+                    "optionsType": "text",
+                    "feedback": "Sir Louis-Hippolyte La Fontaine became the first leader of a responsible government in Canada in 1849.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The first leader of a responsible government in Canada",
+                        "2 The first Governor General of Canada",
+                        "3 The first Father of Confederation",
+                        "4 The first Father of Constitution"
+                    ]
+                },
+                {
+                    "id": 177,
+                    "lessonId": 46,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "La Fontaine helped protect the French language rights and believed in democracy.",
+                    "optionsType": "text",
+                    "feedback": "La Fontaine was a champion of democracy and French language rights, and became the first leader of a responsible government in the Canada.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "index": 33,
+            "parentId": 42,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "Confederation",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text><b>Confederation</b> means the joining of provinces to make a new country. In Canada Confederation was in 1867. The four provinces which first formed Confederation were <b>Ontario, Quebec, New Brunswick,</b> and <b>Nova Scotia</b>. The country they formed was called The Dominion of Canada. \nJuly 1 used to be called Dominion Day. In 1982, this name was changed to Canada Day. July 1 is Canada Day. We celebrate the anniversary of the Confederation on July 1 every year.\nOntario and Quebec were known as the Province of Canada before the Confederation. In 1949 the last province to join Canada was <b>Newfoundland</b> and <b>Labrador.</b> Nunavut became the largest and newest federal territory of Canada in 1999.</text><questions type=\"ids\">1152,1153,1154,1155,1156,2165,2166,2167</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1152,
+                    "lessonId": 47,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What does Confederation mean?",
+                    "optionsType": "text",
+                    "feedback": "Confederation means the joining of provinces to make a new country.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The joining of provinces to make a new country",
+                        "2 The joining of cities to make a new province",
+                        "3 The joining of towns to make a new city",
+                        "4 The joining of countries to make a new continent"
+                    ]
+                },
+                {
+                    "id": 1153,
+                    "lessonId": 47,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which 4 provinces first formed Confederation?",
+                    "optionsType": "text",
+                    "feedback": "The four provinces which first formed Confederation were Ontario, Quebec, New Brunswick, and Nova Scotia.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Ontario, Quebec, New Brunswick, and Nova Scotia",
+                        "2 Ontario, Quebec, Newfoundland and Labrador, and Nova Scotia",
+                        "3 Ontario, Quebec, New Brunswick, and Nunavut",
+                        "4 Ontario, Quebec, Vancouver, and Nova Scotia"
+                    ]
+                },
+                {
+                    "id": 1154,
+                    "lessonId": 47,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which new country did Nova Scotia, New Brunswick, and the Province of Canada form?",
+                    "optionsType": "text",
+                    "feedback": "The four provinces which first formed Confederation were Ontario, Quebec, New Brunswick, and Nova Scotia. The country they formed was called The Dominion of Canada.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Dominion of Canada",
+                        "2 Territory of Canada",
+                        "3 Upper and Lower Canada",
+                        "4 Colony of Canada"
+                    ]
+                },
+                {
+                    "id": 1155,
+                    "lessonId": 47,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which two provinces used to be known as the Province of Canada?",
+                    "optionsType": "text",
+                    "feedback": "Ontario and Quebec are the provinces which used to be known as the Province of Canada.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Ontario and Quebec",
+                        "2 New Brunswick and Quebec",
+                        "3 Nova Scotia and Quebec",
+                        "4 Ontario and Nova Scotia"
+                    ]
+                },
+                {
+                    "id": 1156,
+                    "lessonId": 47,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What did Canada Day use to be called?",
+                    "optionsType": "text",
+                    "feedback": "July 1 used to be called Dominion Day. In 1982, this name was changed to Canada Day. July 1 is Canada Day. We celebrate the anniversary of the Confederation on July 1 every year.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Dominion Day",
+                        "2 Territory Day",
+                        "3 Upper and Lower Canada Day",
+                        "4 Colony Day"
+                    ]
+                },
+                {
+                    "id": 2165,
+                    "lessonId": 47,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "In 1949, which province was the last to join Canada?",
+                    "optionsType": "text",
+                    "feedback": "In 1949 the last province to join Canada was Newfoundland and Labrador. ",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Newfoundland and Labrador",
+                        "2 New Brunswick",
+                        "3 Nova Scotia",
+                        "4 Ontario"
+                    ]
+                },
+                {
+                    "id": 2166,
+                    "lessonId": 47,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Nunavut became the newest federal territory of Canada in 1999.",
+                    "optionsType": "text",
+                    "feedback": "Nunavut became the largest and newest federal territory of Canada in 1999.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 2167,
+                    "lessonId": 47,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "When was the Confederation?",
+                    "optionsType": "text",
+                    "feedback": "In Canada, Confederation was in 1867. ",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 1867",
+                        "2 1876",
+                        "3 1967",
+                        "4 1976"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 48,
+            "index": 34,
+            "parentId": 42,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "Dominion from Sea to Sea",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>From 1864 to 1867, representatives from <b>Nova Scotia, New Brunswick,</b> and the <b>Province of Canada (Ontario and Quebec)</b> established a new country called the Dominion of Canada.\n\nIt had two levels of government: <b>federal</b> and <b>provincial</b>. Each province would keep its own legislature and make its own laws about education and health. \n\n<h>The Dominion of Canada</h>\n<b>The British North American Act</b> began in 1867. Dominion of Canada was officially born on July 1, 1867. The meetings that made the decisions for this Act were held in the cities of Charlottetown, Quebec City, and London in Ontario. Until 1982, July 1 was celebrated as “Dominion Day” to celebrate the day that Canada became an independent Dominion. Today it is officially known as Canada Day.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-History-II/Dominion-from-Sea-to-Sea/1.png\">The Dominion of Canada Flag</image>\n\nThe term “Dominion of Canada” was suggested by Sir Leonard Tilley. Tilley was an elected official and a Father of Confederation from New Brunswick. He got the idea from the Bible, Psalm 72 where it had the phrase “dominion from sea to sea and from the river to the ends of the earth.” He believed Canada would be a powerful, wealthy, and free country. This title was written into our constitution.</text><questions type=\"ids\">1157,1158,1159,1160</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1157,
+                    "lessonId": 48,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What was the name of the country that representatives from Nova Scotia, New Brunswick, and the Province of Canada (Ontario and Quebec) established called?",
+                    "optionsType": "text",
+                    "feedback": "From 1864 to 1867, representatives from Nova Scotia, New Brunswick, and the Province of Canada (Ontario and Quebec) established a new country called the Dominion of Canada.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Dominion of Canada",
+                        "2 Territory of Canada",
+                        "3 Upper and Lower Canada",
+                        "4 Colony of Canada"
+                    ]
+                },
+                {
+                    "id": 1158,
+                    "lessonId": 48,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who suggested the term Dominion of Canada?",
+                    "optionsType": "text",
+                    "feedback": "The term \"Dominion of Canada\" was suggested by Sir Leonard Tilley.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Sir Leonard Tilley",
+                        "2 La Fontaine",
+                        "3 Lord Elgin",
+                        "4 Sir John A. Macdonald"
+                    ]
+                },
+                {
+                    "id": 1159,
+                    "lessonId": 48,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "When was Canada officially born?",
+                    "optionsType": "text",
+                    "feedback": "Dominion of Canada was officially born on July 1, 1867.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 July 1, 1867",
+                        "2 July 1, 1807",
+                        "3 July 1, 1982",
+                        "4 July 1, 1902"
+                    ]
+                },
+                {
+                    "id": 1160,
+                    "lessonId": 48,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What do we celebrate on July 1 each year?",
+                    "optionsType": "text",
+                    "feedback": "July 1 used to be called Dominion Day. In 1982, this name was changed to Canada Day. We celebrate the anniversary of the Confederation on July 1 every year.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The anniversary of Confederation",
+                        "2 The anniversary of Constitution",
+                        "3 The anniversary of The Province of Canada",
+                        "4 The anniversary of Quebec"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 49,
+            "index": 35,
+            "parentId": 42,
+            "appId": 3,
+            "audioVersion": 4,
+            "extra": null,
+            "title": "Expansion of the Dominion",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>These are the dates when the following provinces and territories joined Canada:\n\n<li><b>1867:</b> Ontario, Quebec, Nova Scotia, New Brunswick</li>\n<li><b>1870:</b> Manitoba, Northwest Territories (N.W.T.)</li>\n<li><b>1871:</b> British Columbia</li>\n<li><b>1873:</b> Prince Edward Island</li>\n<li><b>1880:</b> Transfer of the Arctic Islands (to N.W.T.)</li>\n<li><b>1898:</b> Yukon Territory</li>\n<li><b>1905:</b> Alberta, Saskatchewan</li>\n<li><b>1949:</b> Newfoundland and Labrador</li>\n<li><b>1999:</b> Nunavut</li>\n\nToday, Canada has <b>ten provinces</b> and <b>three territories.</b>\n\nCanada's three territories are: \n<li>Yukon Territory</li>\n<li>Northwest Territories</li>\n<li>Nunavut</li>\n\nBefore 1999, Nunavut Territory and the Northwest Territories were considered one territory. In April of 1999, the Northwest Territories were divided to create the new Nunavut territory.\n\n<b>This is the end of part 2 of 3 of Canada's History. </b></text><questions type=\"ids\">187,188,189,190,191,192,193,194</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 187,
+                    "lessonId": 49,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which were the first four provinces to join Canada?",
+                    "optionsType": "text",
+                    "feedback": "Ontario, Quebec, Nova Scotia, New Brunswick were the first four provinces to join Canada",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Ontario, Quebec, Nova Scotia, New Brunswick",
+                        "2 Ontario, New Brunswick, Nova Scotia, British Columbia",
+                        "3 Ontario, Quebec, New Brunswick, British Columbia",
+                        "4 Alberta, Quebec, New Brunswick, Manitoba"
+                    ]
+                },
+                {
+                    "id": 188,
+                    "lessonId": 49,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which was the last province to join Canada?",
+                    "optionsType": "text",
+                    "feedback": "Newfoundland and Labrador was the last province to join Canada in 1949. Nunavut was the last territory to join Canada in 1999.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Newfoundland and Labrador",
+                        "2 Prince Edward Island",
+                        "3 Nunavut",
+                        "4 Saskatchewan"
+                    ]
+                },
+                {
+                    "id": 189,
+                    "lessonId": 49,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which was the last territory to join Canada?",
+                    "optionsType": "text",
+                    "feedback": "Nunavut was the last territory to join Canada in 1999. Newfoundland and Labrador was the last province to join Canada in 1949.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Nunavut",
+                        "2 Newfoundland and Labrador",
+                        "3 Northwest Territories",
+                        "4 Yukon Territory"
+                    ]
+                },
+                {
+                    "id": 190,
+                    "lessonId": 49,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What does N.W.T. stands for?",
+                    "optionsType": "text",
+                    "feedback": "N.W.T. stand for Northwest Territories",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Northwest Territories",
+                        "2 North Waterloo Territories",
+                        "3 Northwest Terrain",
+                        "4 North Winnipeg Territories"
+                    ]
+                },
+                {
+                    "id": 191,
+                    "lessonId": 49,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which province is on the western side of Canada?",
+                    "optionsType": "text",
+                    "feedback": "British Columbia is on the western side of Canada.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 British Columbia",
+                        "2 Saskatchewan",
+                        "3 Manitoba",
+                        "4 Quebec"
+                    ]
+                },
+                {
+                    "id": 192,
+                    "lessonId": 49,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which province is on the easternmost side of Canada?",
+                    "optionsType": "text",
+                    "feedback": "Newfoundland and Labrador is on the easternmost side of Canada.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Newfoundland and Labrador",
+                        "2 Alberta",
+                        "3 Saskatchewan",
+                        "4 Manitoba"
+                    ]
+                },
+                {
+                    "id": 193,
+                    "lessonId": 49,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "How many provinces and territories does Canada have today?",
+                    "optionsType": "text",
+                    "feedback": "Today, Canada has ten provinces and three territories.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 10 provinces and 3 territories",
+                        "2 10 provinces and 2 territories",
+                        "3 13 provinces and no territories",
+                        "4 3 provinces and 10 territories"
+                    ]
+                },
+                {
+                    "id": 194,
+                    "lessonId": 49,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which are Canada's three territories?",
+                    "optionsType": "text",
+                    "feedback": "Canada's three territories are: Northwest Territories, Yukon Territory, Nunavut",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Northwest Territories, Yukon Territory, Nunavut",
+                        "2 Northwest Territories, Yukon Territory, Saskatchewan",
+                        "3 Northwest Territories, Yukon Territory, Nova Scotia",
+                        "4 Northwest Territories, Yukon Territory, Manitoba"
+                    ]
+                }
+            ]
+        }
+    ]
+}

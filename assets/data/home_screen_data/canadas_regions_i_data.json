@@ -1,0 +1,585 @@
+{
+    "data": [
+        {
+            "id": 103,
+            "index": 89,
+            "parentId": 102,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "Canada's 5 Regions",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>Canada is the second-largest country on earth. It has ten million square kilometres. Canada has three oceans: the Pacific Ocean to the west, the Atlantic Ocean to the east, and the Arctic Ocean to the north. The southern edge of Canada is the boundary between the U.S.A. and Canada. Both Canada and the U.S.A. want to keep this border safe, secure, and effective.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-Regions-I/Canada-5-Regions/1.png\"> </image>\n\nCanada includes many different geographical areas and five distinct regions.\n1. <b>The Atlantic Region</b> - Newfoundland and Labrador, Prince Edward Island, Nova Scotia, New Brunswick\n2. <b>Central Canada</b> - Quebec, Ontario\n3. <b>The Prairie Provinces</b> - Manitoba, Saskatchewan, Alberta\n4. <b>The West Coast</b> - British Columbia\n5. <b>The North</b> - Nunavut, Northwest Territories, Yukon Territory\n\n<h>Population</h>\nCanada has a population of about 34 million. The majority of Canadians live in cities. Canadians also live in small towns, rural areas, and in less populated parts of Canada.</text><questions type=\"ids\">380,381,382,383,384,385,386</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 380,
+                    "lessonId": 103,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Canada is the _____ largest country on earth.",
+                    "optionsType": "text",
+                    "feedback": "Canada is the second-largest country on earth; it has 10 million square kilometres.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Second",
+                        "2 Third",
+                        "3 Fourth",
+                        "4 Fifth"
+                    ]
+                },
+                {
+                    "id": 381,
+                    "lessonId": 103,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which of the following does not border Canada?",
+                    "optionsType": "text",
+                    "feedback": "Canada borders with the Pacific Ocean to the west, the Atlantic Ocean to the east, and the Arctic Ocean to the north.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The Indian Ocean to the south",
+                        "2 The Pacific Ocean to the west",
+                        "3 The Atlantic Ocean to the east",
+                        "4 The Arctic Ocean to the north"
+                    ]
+                },
+                {
+                    "id": 382,
+                    "lessonId": 103,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is on the southern edge of Canada?",
+                    "optionsType": "text",
+                    "feedback": "The southern edge of Canada is the boundary between the U.S.A. and Canada.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The U.S.A border",
+                        "2 The Mexico border",
+                        "3 The Arctic Ocean",
+                        "4 Atlantic Ocean"
+                    ]
+                },
+                {
+                    "id": 383,
+                    "lessonId": 103,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Newfoundland and Labrador, Prince Edward Island, Nova Scotia, New Brunswick are referred to as the:",
+                    "optionsType": "text",
+                    "feedback": "They are in the The Atlantic Region and are referred to as the Atlantic Provinces.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Atlantic Provinces",
+                        "2 Prairie Provinces",
+                        "3 Central Provinces",
+                        "4 North Provinces"
+                    ]
+                },
+                {
+                    "id": 384,
+                    "lessonId": 103,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Manitoba, Saskatchewan, Alberta are referred to as the:",
+                    "optionsType": "text",
+                    "feedback": "The Prairie Provinces are Manitoba, Saskatchewan, Alberta.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Prairie Provinces",
+                        "2 Atlantic Provinces",
+                        "3 Central Provinces",
+                        "4 North Provinces"
+                    ]
+                },
+                {
+                    "id": 385,
+                    "lessonId": 103,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which two provinces are in Central Canada?",
+                    "optionsType": "text",
+                    "feedback": "The Quebec and Ontario provinces are in Central Canada",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Quebec and Ontario",
+                        "2 Alberta and Manitoba",
+                        "3 Alberta and Ontario",
+                        "4 Quebec and Manitoba"
+                    ]
+                },
+                {
+                    "id": 386,
+                    "lessonId": 103,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the population of Canada?",
+                    "optionsType": "text",
+                    "feedback": "Canada has a population of about 34 million people.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 About 34 million",
+                        "2 About 21 million",
+                        "3 About 52 million",
+                        "4 About 46 million"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 104,
+            "index": 90,
+            "parentId": 102,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "The National Capital",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>In 1857, Queen Victoria chose <b>Ottawa</b> to be the capital of Canada. Queen Victoria is the great-great-grandmother of Queen Elizabeth II. Ottawa is Canada’s <b>fourth-largest</b> metropolitan area. A metropolitan area is a city and the area around it.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-Regions-I/The-National-Capital/1.png\">Chelsey Faucher/Unplash.</image>\n\nThe area around Ottawa, including Ottawa, is called the <b>National Capital Region</b>. Ottawa’s Rideau Canal is a tourist attraction and a place to go ice skating in winter. It used to be a military waterway.</text><questions type=\"ids\">1284,1285,1286,1287,1288</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1284,
+                    "lessonId": 104,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who chose Ottawa to be the capital of Canada?",
+                    "optionsType": "text",
+                    "feedback": "In 1857, Queen Victoria chose Ottawa to be the capital of Canada.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Queen Victoria",
+                        "2 Queen Elizabeth II",
+                        "3 King George VI",
+                        "4 King George V"
+                    ]
+                },
+                {
+                    "id": 1285,
+                    "lessonId": 104,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Queen Victoria is the great-great-grandmother of Queen Elizabeth II.",
+                    "optionsType": "text",
+                    "feedback": "",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1286,
+                    "lessonId": 104,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is Canada's fourth largest metropolitan area?",
+                    "optionsType": "text",
+                    "feedback": "Ottawa is Canada's fourth-largest metropolitan area.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Ottawa",
+                        "2 Toronto",
+                        "3 Vancouver",
+                        "4 Montreal"
+                    ]
+                },
+                {
+                    "id": 1287,
+                    "lessonId": 104,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the area around Ottawa, including Ottawa, called?",
+                    "optionsType": "text",
+                    "feedback": "The area around Ottawa, including Ottawa, is called the National Capital Region.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 National Capital Region",
+                        "2 Federal Capital Region",
+                        "3 National Ottawa Region",
+                        "4 Federal Ottawa Region"
+                    ]
+                },
+                {
+                    "id": 1288,
+                    "lessonId": 104,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Ottawa's Rideau Canal is a tourist attraction in Toronto.",
+                    "optionsType": "text",
+                    "feedback": "Ottawa's Rideau Canal is a tourist attraction in Ottawa and a place to go ice skating in winter. It used to be a military waterway.",
+                    "type": "true_false",
+                    "options": [
+                        "1 False",
+                        "2 True"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 105,
+            "index": 91,
+            "parentId": 102,
+            "appId": 3,
+            "audioVersion": 8,
+            "extra": null,
+            "title": "Capital Cities",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>Canada has <b>ten provinces</b> and <b>three territories</b>. Each province and territory has its own <b>capital city</b>. \n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-Regions-I/Capital-Cities/1.png\">A map of Canada exhibiting its ten provinces and three territories, and their capitals. (Lambert conformal conic projection from The Atlas of Canada)</image> \n\nYou should know the capital of your province or territory, as well as the capital of Canada. Please remember that the capital of Canada is not Toronto. Toronto is the capital of Ontario, and <b>Ottawa is the capital of Canada</b>. \n\nThe following is the list of the provinces and their capital cities: \n<li><b>Newfoundland and Labrador:</b> St. John’s</li> <li><b>Prince Edward Island:</b> Charlottetown</li> <li><b>Nova Scotia:</b> Halifax</li> <li><b>New Brunswick:</b> Fredericton</li> <li><b>Quebec:</b> Quebec City</li> <li><b>Ontario:</b> Toronto</li> <li><b>Manitoba:</b> Winnipeg</li> <li><b>Saskatchewan:</b> Regina</li> <li><b>Alberta:</b> Edmonton</li> <li><b>British Columbia:</b> Victoria</li> <li><b>Nunavut:</b> Iqaluit</li> <li><b>Northwest Territorie:</b> Yellowknife</li> <li><b>Yukon Territory:</b> Whitehorse</li></text><questions type=\"ids\">392,393,394,395,396,397,398,399</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 392,
+                    "lessonId": 105,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "How many provinces and territories does Canada have?",
+                    "optionsType": "text",
+                    "feedback": "Canada has ten provinces and three territories.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Ten provinces and three territories",
+                        "2 Eight provinces and two territories",
+                        "3 Three provinces and ten territories",
+                        "4 Two provinces and eight territories"
+                    ]
+                },
+                {
+                    "id": 393,
+                    "lessonId": 105,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the capital of Canada?",
+                    "optionsType": "text",
+                    "feedback": "Ottawa is the capital of Canada. Toronto is the capital of Ontario.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Ottawa",
+                        "2 Toronto",
+                        "3 Quebec City",
+                        "4 Edmonton"
+                    ]
+                },
+                {
+                    "id": 394,
+                    "lessonId": 105,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Toronto is the capital of Canada.",
+                    "optionsType": "text",
+                    "feedback": "Ottawa is the capital of Canada. Toronto is the capital of Ontario.",
+                    "type": "true_false",
+                    "options": [
+                        "1 False",
+                        "2 True"
+                    ]
+                },
+                {
+                    "id": 395,
+                    "lessonId": 105,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the capital city of Ontario?",
+                    "optionsType": "text",
+                    "feedback": "Toronto is the capital of Ontario. Ottawa is the capital of Canada.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Toronto",
+                        "2 Ottawa",
+                        "3 North York",
+                        "4 Edmonton"
+                    ]
+                },
+                {
+                    "id": 396,
+                    "lessonId": 105,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the capital city of Manitoba?",
+                    "optionsType": "text",
+                    "feedback": "Winnipeg is the capital city of Manitoba.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Winnipeg",
+                        "2 Halifax",
+                        "3 Victoria",
+                        "4 Whitehorse"
+                    ]
+                },
+                {
+                    "id": 397,
+                    "lessonId": 105,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the capital city of Nova Scotia?",
+                    "optionsType": "text",
+                    "feedback": "Halifax is the capital city of Nova Scotia.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Halifax",
+                        "2 Winnipeg",
+                        "3 Victoria",
+                        "4 Toronto"
+                    ]
+                },
+                {
+                    "id": 398,
+                    "lessonId": 105,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the capital city of British Columbia?",
+                    "optionsType": "text",
+                    "feedback": "Victoria is the capital city of British Columbia.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Victoria",
+                        "2 Winnipeg",
+                        "3 Ottawa",
+                        "4 Whitehorse"
+                    ]
+                },
+                {
+                    "id": 399,
+                    "lessonId": 105,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the capital city of Yukon?",
+                    "optionsType": "text",
+                    "feedback": "Whitehorse is the capital city of Yukon.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Whitehorse",
+                        "2 Victoria",
+                        "3 Winnipeg",
+                        "4 Toronto"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 106,
+            "index": 92,
+            "parentId": 102,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "The Atlantic Region I",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text>The Atlantic Provinces have natural resources like <b>fishing, farming, forestry</b>\n\n<h>Newfoundland and Labrador</h>\nNewfoundland and Labrador is the most easterly part in North America, and it has its own time zone. It is the <b>oldest colony</b> of the British Empire. It is known for fisheries, coastal fishing villages and its distinct culture. Today there is also off-shore oil and gas extraction. Labrador has a lot of hydro-electric resources.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-Regions-I/The-Atlantic-Region-I/1.png\">Newfoundland, Newfoundland and Labrador, Canada</image>\n\n<h>Prince Edward Island</h>\n<b>Prince Edward Island (PEI)</b> is the smallest province. It is known for its beaches, red soil and agriculture, especially potatoes. PEI is the place where the first meeting was held to create the country of Canada, so it is called the “<b>birthplace of Confederation</b>.”\n\nIt is connected to the mainland of Canada by one of the longest bridges in the world. This bridge is 13 kilometres long, and it is called the <b>Confederation Bridge</b>.\n\nThere is a very famous book called <b>Anne of Green Gables</b> written by Lucy Maud Montgomery. It tells the story of Anne, who is a red-headed orphan girl in PEI. It is not a true story, but it is a very famous Canadian story.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-Regions-I/The-Atlantic-Region-I/2.png\">Prince Edward Island, Canada</image></text><questions type=\"ids\">452,453,454,455,456,457</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 452,
+                    "lessonId": 106,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which of the following is not a type of industry common in the Atlantic Provinces?",
+                    "optionsType": "text",
+                    "feedback": "The Atlantic Provinces have natural resources like fishing, farming, and forestry.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Services",
+                        "2 Fishing",
+                        "3 Farming",
+                        "4 Forestry"
+                    ]
+                },
+                {
+                    "id": 453,
+                    "lessonId": 106,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which province is in the most easterly part of North America?",
+                    "optionsType": "text",
+                    "feedback": "Newfoundland and Labrador is the most easterly part in North America, and it has its own time zone.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Newfoundland and Labrador",
+                        "2 Ontario",
+                        "3 British Columbia",
+                        "4 Nova Scotia"
+                    ]
+                },
+                {
+                    "id": 454,
+                    "lessonId": 106,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which province has its own time zone?",
+                    "optionsType": "text",
+                    "feedback": "Newfoundland and Labrador has its own time zone and is the most easterly part in North America.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Newfoundland and Labrador",
+                        "2 Ontario",
+                        "3 British Columbia",
+                        "4 Nova Scotia"
+                    ]
+                },
+                {
+                    "id": 455,
+                    "lessonId": 106,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Which province is the smallest province?",
+                    "optionsType": "text",
+                    "feedback": "Prince Edward Island (PEI) is the smallest province.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Prince Edward Island",
+                        "2 Newfoundland and Labrador",
+                        "3 British Columbia",
+                        "4 Nova Scotia"
+                    ]
+                },
+                {
+                    "id": 456,
+                    "lessonId": 106,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is PEI NOT known for?",
+                    "optionsType": "text",
+                    "feedback": "PEI is known for its beaches, red soil and agriculture, especially potatoes.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Mining",
+                        "2 Beaches",
+                        "3 Red soil",
+                        "4 Agriculture"
+                    ]
+                },
+                {
+                    "id": 457,
+                    "lessonId": 106,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the name of the longest bridge in Canada, which is 13 km long?",
+                    "optionsType": "text",
+                    "feedback": "PEI is connected to the mainland by the longest bridge in Canada, called the Confederation Bridge.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The Confederation Bridge",
+                        "2 The Constitution Bridge",
+                        "3 The Royal Bridge",
+                        "4 The Edward Bridge"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 107,
+            "index": 93,
+            "parentId": 102,
+            "appId": 3,
+            "audioVersion": 3,
+            "extra": null,
+            "title": "The Atlantic Region II",
+            "data": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><lesson><text><h>Nova Scotia</h>\nNova Scotia is the Atlantic province with the <b>biggest population</b>. It is known for the world’s highest tides in the <b>Bay of Fundy</b>. It has shipbuilding, fisheries and shipping. The capital is <b>Halifax</b>, which is Canada’s largest east coast port. Other industries are coal mining, forestry and agriculture. There is also off-shore oil and gas exploration here.\n\nNova Scotian culture comes from Celtic and Gaelic traditions. Nova Scotia has over 700 annual festivals. One of these festivals is called the <b>Royal Nova Scotia Military Tattoo</b> in Halifax. Another famous tourist attraction is <b>Peggy’s Cove</b> harbour.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-Regions-I/The-Atlantic-Region-II/1.png\">Halifax, Nova Scotia.</image>\n\n<h>New Brunswick</h>\nNew Brunswick is in the <b>Appalachian Range</b>. It was founded by the <b>United Empire Loyalists</b>. It has the second largest river system on the coast of the Atlantic Ocean in North America, the <b>Saint John River system</b>. The main industries are forestry, agriculture, fisheries, mining, food processing and tourism.\n\n<b>Saint John</b> is the largest city, port and manufacturing centre. <b>Moncton</b> is the principal (most important) Francophone Acadian centre. The capital is <b>Fredericton</b>.\n\nNew Brunswick is the <b>only officially bilingual province</b>. About 1/3 of the population uses the French language to communicate in daily life and in the workplace. The culture comes from pioneer Loyalist and French cultural traditions, and traditional music is popular.\n\n<image url=\"https://wisdom.reev.ca/images/app-3/Canada-Regions-I/The-Atlantic-Region-II/2.png\">Saint John the largest city, port and manufacturing centre of New Brunswick.</image></text><questions type=\"ids\">1289,1290,1291,1292,1293,1294,1295</questions></lesson>",
+            "hasAudio": true,
+            "questions": [
+                {
+                    "id": 1289,
+                    "lessonId": 107,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Nova Scotia has the largest population out of all the Atlantic provinces.",
+                    "optionsType": "text",
+                    "feedback": "Nova Scotia is the Atlantic province with the biggest population.",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1290,
+                    "lessonId": 107,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the capital of Nova Scotia?",
+                    "optionsType": "text",
+                    "feedback": "Nova Scotia capital is Halifax.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Halifax",
+                        "2 Winnipeg",
+                        "3 Victoria",
+                        "4 Whitehorse"
+                    ]
+                },
+                {
+                    "id": 1291,
+                    "lessonId": 107,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Nova Scotian culture comes from Celtic and Gaelic traditions.",
+                    "optionsType": "text",
+                    "feedback": "",
+                    "type": "true_false",
+                    "options": [
+                        "1 True",
+                        "2 False"
+                    ]
+                },
+                {
+                    "id": 1292,
+                    "lessonId": 107,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What mountain range is New Brunswick in?",
+                    "optionsType": "text",
+                    "feedback": "New Brunswick is in the Appalachian Range.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 The Appalachian Range",
+                        "2 The Alps Range",
+                        "3 The La Cloche Range",
+                        "4 The Andes Range"
+                    ]
+                },
+                {
+                    "id": 1293,
+                    "lessonId": 107,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "Who founded New Brunswick?",
+                    "optionsType": "text",
+                    "feedback": "New Brunswick was founded by the United Empire Loyalists.",
+                    "type": "true_false",
+                    "options": [
+                        "1 United Empire Loyalists",
+                        "2 King George V"
+                    ]
+                },
+                {
+                    "id": 1294,
+                    "lessonId": 107,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What is the capital of New Brunswick?",
+                    "optionsType": "text",
+                    "feedback": "The New Brunswick capital is Fredericton.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 Fredericton",
+                        "2 Halifax",
+                        "3 Winnipeg",
+                        "4 Whitehorse"
+                    ]
+                },
+                {
+                    "id": 1295,
+                    "lessonId": 107,
+                    "hasImage": 0,
+                    "testId": null,
+                    "question": "What makes New Brunswick different from other provinces and territories?",
+                    "optionsType": "text",
+                    "feedback": "New Brunswick is the only officially bilingual province.",
+                    "type": "multiple_choice",
+                    "options": [
+                        "1 It is officially bilingual",
+                        "2 It has its own time zone",
+                        "3 It borders with the US",
+                        "4 It has two capital cities"
+                    ]
+                }
+            ]
+        }
+    ]
+}

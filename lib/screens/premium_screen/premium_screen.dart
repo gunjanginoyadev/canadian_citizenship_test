@@ -100,6 +100,60 @@ class _PremiumScreenBottomSheetState extends State<PremiumScreenBottomSheet> {
                       ],
                     ),
                   ),
+                  if (widget.showAdOption) const SizedBox(height: 20),
+                  if (widget.showAdOption)
+                    GestureDetector(
+                      onTap: widget.onTap,
+                      child: Container(
+                        margin: const EdgeInsets.symmetric(horizontal: 20),
+                        padding: const EdgeInsets.symmetric(
+                          horizontal: 20,
+                          vertical: 20,
+                        ),
+                        decoration: BoxDecoration(
+                          // color: AppColors.accent,
+                          borderRadius: BorderRadius.circular(10),
+                          image: DecorationImage(
+                            image: AssetImage(AppAssets.watchAdsCardBg),
+                            fit: BoxFit.cover,
+                          ),
+                          border: Border.all(
+                            color: AppColors.secondary,
+                            width: .5,
+                          ),
+                        ),
+                        child: Row(
+                          children: [
+                            SvgPicture.asset(
+                              AppAssets.watchAds,
+                              height: context.responsiveSize(50, min: 50),
+                            ),
+                            const SizedBox(width: 10),
+                            Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                Text(
+                                  context.local.watch_an_ad_instead,
+                                  style: semiBold(
+                                    context,
+                                    fontSize: 14,
+                                    color: AppColors.white,
+                                  ),
+                                ),
+                                Text(
+                                  context.local.unlock_this_test_for_free,
+                                  style: regular(
+                                    context,
+                                    fontSize: 12,
+                                    color: AppColors.white.withOpacity(.7),
+                                  ),
+                                ),
+                              ],
+                            ),
+                          ],
+                        ),
+                      ),
+                    ),
                   const SizedBox(height: 20),
                   Container(
                     margin: EdgeInsets.symmetric(horizontal: 20),

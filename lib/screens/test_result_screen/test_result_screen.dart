@@ -1,7 +1,6 @@
 import 'package:canadian_citizenship/libs.dart';
 import 'package:canadian_citizenship/main.dart';
 import 'package:canadian_citizenship/model/test_result_model.dart';
-import 'package:canadian_citizenship/provider/test_progress_provider.dart';
 import 'package:canadian_citizenship/provider/test_score_history_provider.dart';
 import 'package:canadian_citizenship/screens/mock_test_screen/test_screen.dart';
 import 'package:canadian_citizenship/services/db_service.dart';

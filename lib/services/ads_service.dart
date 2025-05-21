@@ -5,12 +5,12 @@ late AdsController adsController;
 
 class AdsController {
   String rewardedId;
-  bool _showAd = true;
+  // bool _showAd = true;
 
-  set showAd(bool value) => _showAd = value;
+  // set showAd(bool value) => _showAd = value;
 
   AdsController({required this.rewardedId}) {
-    _showAd = true;
+    // _showAd = true;
     // _getUserConsent();
     _loadRewardedAd();
   }
@@ -19,14 +19,6 @@ class AdsController {
 
   bool adShowed = true;
   bool isRewardedAdActive = false;
-
-  void _route(BuildContext context, {VoidCallback? onRoute}) {
-    if (onRoute != null) {
-      onRoute();
-    } else {
-      Navigator.pop(context);
-    }
-  }
 
   _loadRewardedAd() {
     RewardedAd.load(

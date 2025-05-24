@@ -37,6 +37,8 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   flutter_email_sender: ^7.0.0
+  firebase_core: ^3.13.1
+  firebase_messaging: ^15.2.6
 
 dev_dependencies:
   flutter_test:

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259010464303",
+    "project_id": "canadian-citizenship-tes-a8f23",
+    "storage_bucket": "canadian-citizenship-tes-a8f23.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259010464303:android:970dc1cf5a765d054b14da",
+        "android_client_info": {
+          "package_name": "com.example.canadian_citizenship"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc_fpa-vlx-mvKZ8r9TIDpBBEG-Clgq2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
